@@ -1,5 +1,5 @@
 # 01 - Cereobs raw exports -> tidy long table with campaign
-# in : data/raw/cereobs/*.xlsx (FranceAgriMer exports), or the legacy EC rds
+# in : data/raw/cereobs/*.xlsx (FranceAgriMer exports, sheet 'Donnees regions')
 # out: data/derived/cereobs_long.rds
 
 source(here::here("R", "_load.R"))
@@ -7,18 +7,13 @@ source(here::here("R", "_load.R"))
 xlsx_cereals <- list.files(paths$raw_cereobs, pattern = "CEREOBS_CP.*\\.xlsx$", full.names = TRUE)
 xlsx_maize   <- list.files(paths$raw_cereobs, pattern = "CEREOBS_M.*\\.xlsx$", full.names = TRUE)
 
-if (length(xlsx_cereals) == 1 && length(xlsx_maize) == 1) {
-  message("Reading raw FranceAgriMer exports: ", basename(xlsx_cereals), ", ", basename(xlsx_maize))
-  raw <- bind_rows(
-    read_cereobs_xlsx(xlsx_cereals, "cereals"),
-    read_cereobs_xlsx(xlsx_maize, "maize")
-  )
-} else {
-  # interim source until the raw exports are added (same content, imported in EC)
-  message("Raw xlsx not found, using legacy EC import (cereobs_pheno_EC.rds)")
-  raw <- readRDS(file.path(paths$raw_cereobs, "cereobs_pheno_EC.rds")) |>
-    rename(stage = pheno_stage)
-}
+stopifnot("exactly one cereals and one maize export expected in data/raw/cereobs" =
+            length(xlsx_cereals) == 1 && length(xlsx_maize) == 1)
+message("Reading ", basename(xlsx_cereals), ", ", basename(xlsx_maize))
+raw <- bind_rows(
+  read_cereobs_xlsx(xlsx_cereals, "cereals"),
+  read_cereobs_xlsx(xlsx_maize, "maize")
+)
 
 cereobs <- tidy_cereobs(raw, crop_table, campaign_start_month)
 

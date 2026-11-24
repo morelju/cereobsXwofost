@@ -30,21 +30,25 @@ crop_table <- tibble::tribble(
 campaign_start_month <- c(winter = 9L, spring = 1L)
 
 # Stage definitions per crop (order = phenological order)
+# bbch: approximate BBCH code of the Cereobs stage (50 % of fields).
+# wofost: how the stage is used for the WOFOST phenology calibration
+#   (following A. de Wit / AgMIP wheat calibration: BBCH30 and BBCH55 linked to
+#   free DVS values, since flowering - BBCH65, DVS = 1 - is not observed for wheat).
 stages <- tibble::tribble(
-  ~crop_en,       ~stage,             ~stage_order, ~stage_label,
-  "soft_wheat",   "sowing",           1L, "Sowing",
-  "soft_wheat",   "emergence",        2L, "Emergence",
-  "soft_wheat",   "tillering",        3L, "Tillering",
-  "soft_wheat",   "kernel",           4L, "Ear at 1 cm",
-  "soft_wheat",   "nodes_2",          5L, "Two nodes",
-  "soft_wheat",   "heading",          6L, "Heading",
-  "soft_wheat",   "harvest",          7L, "Harvest",
-  "grain_maize",  "sowing",           1L, "Sowing",
-  "grain_maize",  "emergence",        2L, "Emergence",
-  "grain_maize",  "6_8_leaves",       3L, "6-8 visible leaves",
-  "grain_maize",  "female_flowering", 4L, "Female flowering",
-  "grain_maize",  "grain_moist_50",   5L, "Grain moisture 50%",
-  "grain_maize",  "harvest",          6L, "Harvest"
+  ~crop_en,       ~stage,             ~stage_order, ~stage_label,         ~bbch,  ~wofost,
+  "soft_wheat",   "sowing",           1L, "Sowing",              "00",   "input (sowing date)",
+  "soft_wheat",   "emergence",        2L, "Emergence",           "09",   "DVS = 0 (TSUMEM)",
+  "soft_wheat",   "tillering",        3L, "Start of tillering",  "21",   NA,
+  "soft_wheat",   "ear_1cm",          4L, "Ear at 1 cm",         "30",   "DVS_BBCH30 (TSUM1)",
+  "soft_wheat",   "nodes_2",          5L, "Two nodes",           "32",   NA,
+  "soft_wheat",   "heading",          6L, "Heading",             "55",   "DVS_BBCH55 (TSUM1)",
+  "soft_wheat",   "harvest",          7L, "Harvest",             "99",   "upper bound for maturity (DVS = 2)",
+  "grain_maize",  "sowing",           1L, "Sowing",              "00",   "input (sowing date)",
+  "grain_maize",  "emergence",        2L, "Emergence",           "09",   "DVS = 0 (TSUMEM)",
+  "grain_maize",  "6_8_leaves",       3L, "6-8 visible leaves",  "16-18", NA,
+  "grain_maize",  "female_flowering", 4L, "Female flowering",    "65",   "DVS = 1 (TSUM1)",
+  "grain_maize",  "grain_moist_50",   5L, "Grain moisture 50%",  "~85",  "to discuss (DVS between 1 and 2, TSUM2)",
+  "grain_maize",  "harvest",          6L, "Harvest",             "99",   "upper bound for maturity (DVS = 2)"
 )
 
 # Curve-cleaning parameters (see R/pheno_curves.R)

@@ -35,9 +35,16 @@ in `outputs/` is edited by hand.
 |---|---|---|
 | 1 | `01_prepare_cereobs.R` | `data/derived/cereobs_long.rds`: one row per crop x region x stage x ISO week, with campaign (harvest year) |
 | 2 | `02_pheno_dates.R` | `outputs/tables/pheno_dates.csv`: date at which 50 % of surveyed fields reach each stage (linear and logistic estimates, with quality flags) |
+| 3 | `03_calibration_targets.R` | `outputs/tables/calibration_targets.csv`: observed dates of the stages linked to WOFOST development stages (DVS), with a quality flag |
 | ... | Sentinel-2, WOFOST default vs recalibrated, yields | to come |
 
 ### Key definitions
+
+- **Link to WOFOST** (`stages` in `R/config.R`). Maize: emergence -> DVS 0, female
+  flowering -> DVS 1 (anthesis). Wheat: flowering is not observed, so, following the
+  AgMIP calibration (A. de Wit), ear at 1 cm (BBCH 30) and heading (BBCH 55) are linked
+  to calibrated DVS values (`DVS_BBCH30`, `DVS_BBCH55`) that constrain TSUM1. Harvest
+  is only an upper bound for maturity.
 
 - **Campaign** = harvest year. For winter crops, records from 1 September of y-1 belong to campaign y.
 - **Curve** = weekly % of fields at a stage, for one crop x region x campaign.

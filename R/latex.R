@@ -7,9 +7,9 @@
 #' Store (or update) one macro in outputs/numbers.tex
 #' @param name macro name, letters only (LaTeX restriction), e.g. "nCurvesWheat"
 #' @param value number or string; numbers are formatted with `digits` decimals
-set_number <- function(name, value, digits = 0, file = paths$numbers_tex) {
+set_number <- function(name, value, digits = 0, big_mark = "", file = paths$numbers_tex) {
   stopifnot(grepl("^[A-Za-z]+$", name))
-  txt <- if (is.numeric(value)) formatC(value, format = "f", digits = digits, big.mark = ",") else value
+  txt <- if (is.numeric(value)) formatC(value, format = "f", digits = digits, big.mark = big_mark) else value
   lines <- if (file.exists(file)) readLines(file, encoding = "UTF-8") else character()
   lines <- lines[!grepl(sprintf("^\\\\newcommand\\{\\\\%s\\}", name), lines)]
   lines <- c(lines, sprintf("\\newcommand{\\%s}{%s}", name, txt))

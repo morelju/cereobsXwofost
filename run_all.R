@@ -3,7 +3,8 @@
 
 scripts <- c(
   "scripts/01_prepare_cereobs.R",  # raw Cereobs -> tidy long table with campaigns
-  "scripts/02_pheno_dates.R"       # 50 % dates per crop x region x campaign x stage
+  "scripts/02_pheno_dates.R",      # 50 % dates per crop x region x campaign x stage
+  "scripts/03_calibration_targets.R" # target dates for the WOFOST calibration
   # next: S2 time series, WOFOST runs (default vs recalibrated), yields
 )
 

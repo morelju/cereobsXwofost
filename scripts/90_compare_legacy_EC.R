@@ -9,7 +9,8 @@ new <- read_csv(file.path(paths$tables, "pheno_dates.csv"), show_col_types = FAL
 
 old_lin <- read_csv2(here::here("data", "legacy_EC", "table_median_dates_measurements_control.csv"),
                      show_col_types = FALSE) |>
-  transmute(crop_en = crop, region, campaign = year, stage, old_lin = median_date)
+  transmute(crop_en = crop, region, campaign = year, stage = recode(stage, kernel = "ear_1cm"),
+            old_lin = median_date)
 
 # Legacy logistic report: `median_doy` is a day of year relative to the year of
 # the first record (`year_stage_report`), wrapped at 365/366, and `year_harvest`
@@ -19,6 +20,7 @@ old_lin <- read_csv2(here::here("data", "legacy_EC", "table_median_dates_measure
 # whose linear date is closest (within 120 days), trying both possible years.
 old_log <- readRDS(here::here("data", "legacy_EC", "table_pheno_log_report_measurements_controlled.rds")) |>
   filter(!is.na(median_doy)) |>
+  mutate(stage = recode(stage, kernel = "ear_1cm")) |>
   transmute(crop_en, region, stage, legacy_label = year_harvest,
             cand1 = as.Date(paste0(year_stage_report, "-01-01")) + median_doy - 1,
             cand2 = as.Date(paste0(year_stage_report + 1, "-01-01")) + median_doy - 1) |>

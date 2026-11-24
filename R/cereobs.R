@@ -8,7 +8,7 @@ cereobs_xlsx_columns <- list(
   cereals = c(
     crop = "Culture", region = "R\u00e9gion", year_week = "Semaine",
     sowing = "Semis", emergence = "Lev\u00e9e", tillering = "D\u00e9but tallage",
-    kernel = "\u00c9pi 1 cm", nodes_2 = "2 noeuds", heading = "\u00c9piaison",
+    ear_1cm = "\u00c9pi 1 cm", nodes_2 = "2 noeuds", heading = "\u00c9piaison",
     harvest = "R\u00e9colte"
   ),
   maize = c(

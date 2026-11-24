@@ -3,7 +3,9 @@
 Legacy code: `EC/02_CODES/Crop modelling/cereobsXwofost/paper/` (scripts 00-05, 99).
 New code: `R/cereobs.R`, `R/pheno_curves.R`, `R/pheno_dates.R`, `scripts/01-02`.
 Check: `scripts/90_compare_legacy_EC.R` -> `notes/legacy_comparison.csv`, `.png`.
-Same input in both cases (`cereobs_pheno.rds`), same option (stale repeats removed).
+Same input in both cases: the raw xlsx (CP A25 + M A24) are identical, value for value, to the EC
+`cereobs_pheno.rds` (133,784 values). Same option (stale repeats removed).
+The Cereobs stage "Épi 1 cm" (BBCH 30), named `kernel` in EC, is now `ear_1cm`.
 
 ## What changed
 
@@ -21,16 +23,17 @@ Same input in both cases (`cereobs_pheno.rds`), same option (stale repeats remov
 ## Results of the comparison
 
 **Grain maize: identical.** Linear dates match exactly (540/540). Logistic dates are
-all within 1 day of the legacy ones.
+within 2 days for 536/540 curves (max 4 days).
 
-**Soft wheat, linear: identical except for harvest.** 753 of the 754 non-harvest curves
-match exactly (1 day off for the last one). **Every legacy linear harvest date is the
-previous campaign's harvest** (120/120): the June-15 window starts the curve with
-harvest y-1. If legacy wheat harvest dates were used anywhere (e.g. as a proxy for
+**Soft wheat, linear: identical except for harvest.** 719 of the 720 non-harvest curves
+match exactly (1 day off for the last one). **From campaign 2016 on, every legacy linear
+harvest date is the previous campaign's harvest** (107 curves): the window starting on
+15 June of y-1 picks up the harvest of y-1. Only campaign 2015 is right, because the
+records start in September 2014. If legacy wheat harvest dates were used anywhere (e.g. as a proxy for
 maturity), they are off by one year.
 
 **Soft wheat, logistic:**
-- heading, ear at 1 cm, two nodes: within 2 days of legacy.
+- heading, ear at 1 cm, two nodes: within 2 days of legacy (360/360).
 - harvest: mostly identical, with a few differences of up to 18 days.
 - sowing, emergence, tillering: differences of up to ~50 days, caused by the winter
   plateau (see below). In the legacy report these autumn stages are also labelled with
