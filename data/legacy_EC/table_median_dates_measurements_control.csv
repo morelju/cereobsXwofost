@@ -1,0 +1,2921 @@
+region;year;crop;stage;median_date
+Auvergne-Rhône-Alpes;2015;durum_wheat;sowing;2014-10-27
+Auvergne-Rhône-Alpes;2015;durum_wheat;emergence;2014-11-06
+Auvergne-Rhône-Alpes;2015;durum_wheat;tillering;2015-01-02
+Auvergne-Rhône-Alpes;2015;durum_wheat;kernel;2015-03-22
+Auvergne-Rhône-Alpes;2015;durum_wheat;nodes_2;2015-04-09
+Auvergne-Rhône-Alpes;2015;durum_wheat;heading;2015-05-05
+Auvergne-Rhône-Alpes;2015;durum_wheat;harvest;2015-06-30
+Auvergne-Rhône-Alpes;2016;durum_wheat;sowing;2015-10-27
+Auvergne-Rhône-Alpes;2016;durum_wheat;emergence;2015-11-05
+Auvergne-Rhône-Alpes;2016;durum_wheat;tillering;2015-12-22
+Auvergne-Rhône-Alpes;2016;durum_wheat;kernel;2016-02-14
+Auvergne-Rhône-Alpes;2016;durum_wheat;nodes_2;2016-03-31
+Auvergne-Rhône-Alpes;2016;durum_wheat;heading;2016-05-01
+Auvergne-Rhône-Alpes;2016;durum_wheat;harvest;2015-06-30
+Auvergne-Rhône-Alpes;2017;durum_wheat;sowing;2016-10-29
+Auvergne-Rhône-Alpes;2017;durum_wheat;emergence;2016-11-10
+Auvergne-Rhône-Alpes;2017;durum_wheat;tillering;2017-02-05
+Auvergne-Rhône-Alpes;2017;durum_wheat;kernel;2017-03-17
+Auvergne-Rhône-Alpes;2017;durum_wheat;nodes_2;2017-04-02
+Auvergne-Rhône-Alpes;2017;durum_wheat;heading;2017-05-01
+Auvergne-Rhône-Alpes;2017;durum_wheat;harvest;2016-07-04
+Auvergne-Rhône-Alpes;2018;durum_wheat;sowing;2017-11-07
+Auvergne-Rhône-Alpes;2018;durum_wheat;emergence;2017-11-30
+Auvergne-Rhône-Alpes;2018;durum_wheat;tillering;2018-02-01
+Auvergne-Rhône-Alpes;2018;durum_wheat;kernel;2018-03-18
+Auvergne-Rhône-Alpes;2018;durum_wheat;nodes_2;2018-04-08
+Auvergne-Rhône-Alpes;2018;durum_wheat;heading;2018-05-06
+Auvergne-Rhône-Alpes;2018;durum_wheat;harvest;2017-07-02
+Auvergne-Rhône-Alpes;2019;durum_wheat;sowing;2018-11-08
+Auvergne-Rhône-Alpes;2019;durum_wheat;emergence;2018-11-18
+Auvergne-Rhône-Alpes;2019;durum_wheat;tillering;2019-01-09
+Auvergne-Rhône-Alpes;2019;durum_wheat;kernel;2019-03-17
+Auvergne-Rhône-Alpes;2019;durum_wheat;nodes_2;2019-04-04
+Auvergne-Rhône-Alpes;2019;durum_wheat;heading;2019-05-06
+Auvergne-Rhône-Alpes;2019;durum_wheat;harvest;2018-07-03
+Auvergne-Rhône-Alpes;2020;durum_wheat;sowing;2019-11-14
+Auvergne-Rhône-Alpes;2020;durum_wheat;emergence;2019-11-28
+Auvergne-Rhône-Alpes;2020;durum_wheat;tillering;2020-01-30
+Auvergne-Rhône-Alpes;2020;durum_wheat;kernel;2020-03-19
+Auvergne-Rhône-Alpes;2020;durum_wheat;nodes_2;2020-04-09
+Auvergne-Rhône-Alpes;2020;durum_wheat;heading;2020-04-25
+Auvergne-Rhône-Alpes;2020;durum_wheat;harvest;2019-07-03
+Auvergne-Rhône-Alpes;2021;durum_wheat;sowing;2020-10-27
+Auvergne-Rhône-Alpes;2021;durum_wheat;emergence;2020-11-10
+Auvergne-Rhône-Alpes;2021;durum_wheat;tillering;2020-12-29
+Auvergne-Rhône-Alpes;2021;durum_wheat;kernel;2021-02-28
+Auvergne-Rhône-Alpes;2021;durum_wheat;nodes_2;2021-03-29
+Auvergne-Rhône-Alpes;2021;durum_wheat;heading;2021-04-29
+Auvergne-Rhône-Alpes;2021;durum_wheat;harvest;2020-06-29
+Auvergne-Rhône-Alpes;2022;durum_wheat;sowing;2021-10-28
+Auvergne-Rhône-Alpes;2022;durum_wheat;emergence;2021-11-07
+Auvergne-Rhône-Alpes;2022;durum_wheat;tillering;2022-02-10
+Auvergne-Rhône-Alpes;2022;durum_wheat;kernel;2022-03-16
+Auvergne-Rhône-Alpes;2022;durum_wheat;nodes_2;2022-04-07
+Auvergne-Rhône-Alpes;2022;durum_wheat;heading;2022-04-27
+Auvergne-Rhône-Alpes;2022;durum_wheat;harvest;2021-07-08
+Auvergne-Rhône-Alpes;2023;durum_wheat;sowing;2022-10-25
+Auvergne-Rhône-Alpes;2023;durum_wheat;emergence;2022-11-09
+Auvergne-Rhône-Alpes;2023;durum_wheat;tillering;2023-01-31
+Auvergne-Rhône-Alpes;2023;durum_wheat;kernel;2023-03-20
+Auvergne-Rhône-Alpes;2023;durum_wheat;nodes_2;2023-04-06
+Auvergne-Rhône-Alpes;2023;durum_wheat;heading;2023-05-02
+Auvergne-Rhône-Alpes;2023;durum_wheat;harvest;2022-06-27
+Auvergne-Rhône-Alpes;2024;durum_wheat;sowing;2023-11-12
+Auvergne-Rhône-Alpes;2024;durum_wheat;emergence;2023-11-23
+Auvergne-Rhône-Alpes;2024;durum_wheat;tillering;2024-02-01
+Auvergne-Rhône-Alpes;2024;durum_wheat;kernel;2024-03-02
+Auvergne-Rhône-Alpes;2024;durum_wheat;nodes_2;2024-04-03
+Auvergne-Rhône-Alpes;2024;durum_wheat;heading;2024-04-30
+Auvergne-Rhône-Alpes;2024;durum_wheat;harvest;2023-07-02
+Auvergne-Rhône-Alpes;2015;soft_wheat;sowing;2014-10-20
+Auvergne-Rhône-Alpes;2015;soft_wheat;emergence;2014-10-29
+Auvergne-Rhône-Alpes;2015;soft_wheat;tillering;2014-12-23
+Auvergne-Rhône-Alpes;2015;soft_wheat;kernel;2015-03-24
+Auvergne-Rhône-Alpes;2015;soft_wheat;nodes_2;2015-04-14
+Auvergne-Rhône-Alpes;2015;soft_wheat;heading;2015-05-06
+Auvergne-Rhône-Alpes;2015;soft_wheat;harvest;2015-07-01
+Auvergne-Rhône-Alpes;2016;soft_wheat;sowing;2015-10-15
+Auvergne-Rhône-Alpes;2016;soft_wheat;emergence;2015-10-29
+Auvergne-Rhône-Alpes;2016;soft_wheat;tillering;2015-12-15
+Auvergne-Rhône-Alpes;2016;soft_wheat;kernel;2016-03-05
+Auvergne-Rhône-Alpes;2016;soft_wheat;nodes_2;2016-04-04
+Auvergne-Rhône-Alpes;2016;soft_wheat;heading;2016-05-07
+Auvergne-Rhône-Alpes;2016;soft_wheat;harvest;2015-07-01
+Auvergne-Rhône-Alpes;2017;soft_wheat;sowing;2016-10-20
+Auvergne-Rhône-Alpes;2017;soft_wheat;emergence;2016-11-04
+Auvergne-Rhône-Alpes;2017;soft_wheat;tillering;2017-02-05
+Auvergne-Rhône-Alpes;2017;soft_wheat;kernel;2017-03-20
+Auvergne-Rhône-Alpes;2017;soft_wheat;nodes_2;2017-04-08
+Auvergne-Rhône-Alpes;2017;soft_wheat;heading;2017-05-09
+Auvergne-Rhône-Alpes;2017;soft_wheat;harvest;2016-07-15
+Auvergne-Rhône-Alpes;2018;soft_wheat;sowing;2017-10-18
+Auvergne-Rhône-Alpes;2018;soft_wheat;emergence;2017-10-30
+Auvergne-Rhône-Alpes;2018;soft_wheat;tillering;2017-12-25
+Auvergne-Rhône-Alpes;2018;soft_wheat;kernel;2018-03-21
+Auvergne-Rhône-Alpes;2018;soft_wheat;nodes_2;2018-04-11
+Auvergne-Rhône-Alpes;2018;soft_wheat;heading;2018-05-07
+Auvergne-Rhône-Alpes;2018;soft_wheat;harvest;2017-07-05
+Auvergne-Rhône-Alpes;2019;soft_wheat;sowing;2018-10-19
+Auvergne-Rhône-Alpes;2019;soft_wheat;emergence;2018-10-30
+Auvergne-Rhône-Alpes;2019;soft_wheat;tillering;2019-02-02
+Auvergne-Rhône-Alpes;2019;soft_wheat;kernel;2019-03-22
+Auvergne-Rhône-Alpes;2019;soft_wheat;nodes_2;2019-04-09
+Auvergne-Rhône-Alpes;2019;soft_wheat;heading;2019-05-12
+Auvergne-Rhône-Alpes;2019;soft_wheat;harvest;2018-07-03
+Auvergne-Rhône-Alpes;2020;soft_wheat;sowing;2019-11-02
+Auvergne-Rhône-Alpes;2020;soft_wheat;emergence;2019-11-12
+Auvergne-Rhône-Alpes;2020;soft_wheat;tillering;2020-01-14
+Auvergne-Rhône-Alpes;2020;soft_wheat;kernel;2020-03-14
+Auvergne-Rhône-Alpes;2020;soft_wheat;nodes_2;2020-04-06
+Auvergne-Rhône-Alpes;2020;soft_wheat;heading;2020-04-29
+Auvergne-Rhône-Alpes;2020;soft_wheat;harvest;2019-07-10
+Auvergne-Rhône-Alpes;2021;soft_wheat;sowing;2020-10-18
+Auvergne-Rhône-Alpes;2021;soft_wheat;emergence;2020-11-05
+Auvergne-Rhône-Alpes;2021;soft_wheat;tillering;2020-12-27
+Auvergne-Rhône-Alpes;2021;soft_wheat;kernel;2021-03-13
+Auvergne-Rhône-Alpes;2021;soft_wheat;nodes_2;2021-04-09
+Auvergne-Rhône-Alpes;2021;soft_wheat;heading;2021-05-12
+Auvergne-Rhône-Alpes;2021;soft_wheat;harvest;2020-07-04
+Auvergne-Rhône-Alpes;2022;soft_wheat;sowing;2021-10-19
+Auvergne-Rhône-Alpes;2022;soft_wheat;emergence;2021-11-01
+Auvergne-Rhône-Alpes;2022;soft_wheat;tillering;2022-01-19
+Auvergne-Rhône-Alpes;2022;soft_wheat;kernel;2022-03-21
+Auvergne-Rhône-Alpes;2022;soft_wheat;nodes_2;2022-04-11
+Auvergne-Rhône-Alpes;2022;soft_wheat;heading;2022-05-07
+Auvergne-Rhône-Alpes;2022;soft_wheat;harvest;2021-07-20
+Auvergne-Rhône-Alpes;2023;soft_wheat;sowing;2022-10-20
+Auvergne-Rhône-Alpes;2023;soft_wheat;emergence;2022-10-25
+Auvergne-Rhône-Alpes;2023;soft_wheat;tillering;2022-12-17
+Auvergne-Rhône-Alpes;2023;soft_wheat;kernel;2023-03-14
+Auvergne-Rhône-Alpes;2023;soft_wheat;nodes_2;2023-04-05
+Auvergne-Rhône-Alpes;2023;soft_wheat;heading;2023-05-01
+Auvergne-Rhône-Alpes;2023;soft_wheat;harvest;2022-07-01
+Auvergne-Rhône-Alpes;2024;soft_wheat;sowing;2023-11-06
+Auvergne-Rhône-Alpes;2024;soft_wheat;emergence;2023-11-15
+Auvergne-Rhône-Alpes;2024;soft_wheat;tillering;2024-01-20
+Auvergne-Rhône-Alpes;2024;soft_wheat;kernel;2024-03-14
+Auvergne-Rhône-Alpes;2024;soft_wheat;nodes_2;2024-04-04
+Auvergne-Rhône-Alpes;2024;soft_wheat;heading;2024-05-08
+Auvergne-Rhône-Alpes;2024;soft_wheat;harvest;2023-07-04
+Auvergne-Rhône-Alpes;2015;grain_maize;sowing;2015-04-14
+Auvergne-Rhône-Alpes;2015;grain_maize;emergence;2015-04-23
+Auvergne-Rhône-Alpes;2015;grain_maize;6_8_leaves;2015-05-15
+Auvergne-Rhône-Alpes;2015;grain_maize;female_flowering;2015-07-02
+Auvergne-Rhône-Alpes;2015;grain_maize;grain_moist_50;2015-08-16
+Auvergne-Rhône-Alpes;2015;grain_maize;harvest;2015-09-30
+Auvergne-Rhône-Alpes;2016;grain_maize;sowing;2016-04-22
+Auvergne-Rhône-Alpes;2016;grain_maize;emergence;2016-05-09
+Auvergne-Rhône-Alpes;2016;grain_maize;6_8_leaves;2016-06-05
+Auvergne-Rhône-Alpes;2016;grain_maize;female_flowering;2016-07-15
+Auvergne-Rhône-Alpes;2016;grain_maize;grain_moist_50;2016-08-30
+Auvergne-Rhône-Alpes;2016;grain_maize;harvest;2016-10-20
+Auvergne-Rhône-Alpes;2017;grain_maize;sowing;2017-04-07
+Auvergne-Rhône-Alpes;2017;grain_maize;emergence;2017-04-18
+Auvergne-Rhône-Alpes;2017;grain_maize;6_8_leaves;2017-05-19
+Auvergne-Rhône-Alpes;2017;grain_maize;female_flowering;2017-07-04
+Auvergne-Rhône-Alpes;2017;grain_maize;grain_moist_50;2017-08-17
+Auvergne-Rhône-Alpes;2017;grain_maize;harvest;2017-10-04
+Auvergne-Rhône-Alpes;2018;grain_maize;sowing;2018-04-18
+Auvergne-Rhône-Alpes;2018;grain_maize;emergence;2018-04-26
+Auvergne-Rhône-Alpes;2018;grain_maize;6_8_leaves;2018-05-16
+Auvergne-Rhône-Alpes;2018;grain_maize;female_flowering;2018-07-02
+Auvergne-Rhône-Alpes;2018;grain_maize;grain_moist_50;2018-08-14
+Auvergne-Rhône-Alpes;2018;grain_maize;harvest;2018-09-23
+Auvergne-Rhône-Alpes;2019;grain_maize;sowing;2019-04-13
+Auvergne-Rhône-Alpes;2019;grain_maize;emergence;2019-04-29
+Auvergne-Rhône-Alpes;2019;grain_maize;6_8_leaves;2019-05-29
+Auvergne-Rhône-Alpes;2019;grain_maize;female_flowering;2019-07-13
+Auvergne-Rhône-Alpes;2019;grain_maize;grain_moist_50;2019-08-28
+Auvergne-Rhône-Alpes;2019;grain_maize;harvest;2019-10-26
+Auvergne-Rhône-Alpes;2020;grain_maize;sowing;2020-04-13
+Auvergne-Rhône-Alpes;2020;grain_maize;emergence;2020-04-22
+Auvergne-Rhône-Alpes;2020;grain_maize;6_8_leaves;2020-05-13
+Auvergne-Rhône-Alpes;2020;grain_maize;female_flowering;2020-07-02
+Auvergne-Rhône-Alpes;2020;grain_maize;grain_moist_50;2020-08-22
+Auvergne-Rhône-Alpes;2020;grain_maize;harvest;2020-09-28
+Auvergne-Rhône-Alpes;2021;grain_maize;sowing;2021-04-16
+Auvergne-Rhône-Alpes;2021;grain_maize;emergence;2021-04-25
+Auvergne-Rhône-Alpes;2021;grain_maize;6_8_leaves;2021-06-01
+Auvergne-Rhône-Alpes;2021;grain_maize;female_flowering;2021-07-17
+Auvergne-Rhône-Alpes;2021;grain_maize;grain_moist_50;2021-08-30
+Auvergne-Rhône-Alpes;2021;grain_maize;harvest;2021-10-22
+Auvergne-Rhône-Alpes;2022;grain_maize;sowing;2022-04-13
+Auvergne-Rhône-Alpes;2022;grain_maize;emergence;2022-04-22
+Auvergne-Rhône-Alpes;2022;grain_maize;6_8_leaves;2022-05-14
+Auvergne-Rhône-Alpes;2022;grain_maize;female_flowering;2022-06-24
+Auvergne-Rhône-Alpes;2022;grain_maize;grain_moist_50;2022-08-11
+Auvergne-Rhône-Alpes;2022;grain_maize;harvest;2022-09-29
+Auvergne-Rhône-Alpes;2023;grain_maize;sowing;2023-04-17
+Auvergne-Rhône-Alpes;2023;grain_maize;emergence;2023-04-27
+Auvergne-Rhône-Alpes;2023;grain_maize;6_8_leaves;2023-05-20
+Auvergne-Rhône-Alpes;2023;grain_maize;female_flowering;2023-07-04
+Auvergne-Rhône-Alpes;2023;grain_maize;grain_moist_50;2023-08-15
+Auvergne-Rhône-Alpes;2023;grain_maize;harvest;2023-10-07
+Auvergne-Rhône-Alpes;2024;grain_maize;sowing;2024-04-23
+Auvergne-Rhône-Alpes;2024;grain_maize;emergence;2024-05-08
+Auvergne-Rhône-Alpes;2024;grain_maize;6_8_leaves;2024-05-29
+Auvergne-Rhône-Alpes;2024;grain_maize;female_flowering;2024-07-15
+Auvergne-Rhône-Alpes;2024;grain_maize;grain_moist_50;2024-08-18
+Auvergne-Rhône-Alpes;2024;grain_maize;harvest;2024-10-26
+Centre-Val de Loire;2015;durum_wheat;sowing;2014-10-28
+Centre-Val de Loire;2015;durum_wheat;emergence;2014-11-09
+Centre-Val de Loire;2015;durum_wheat;tillering;2015-01-12
+Centre-Val de Loire;2015;durum_wheat;kernel;2015-03-21
+Centre-Val de Loire;2015;durum_wheat;nodes_2;2015-04-15
+Centre-Val de Loire;2015;durum_wheat;heading;2015-05-11
+Centre-Val de Loire;2015;durum_wheat;harvest;2015-07-09
+Centre-Val de Loire;2016;durum_wheat;sowing;2015-10-24
+Centre-Val de Loire;2016;durum_wheat;emergence;2015-11-04
+Centre-Val de Loire;2016;durum_wheat;tillering;2015-12-31
+Centre-Val de Loire;2016;durum_wheat;kernel;2016-03-11
+Centre-Val de Loire;2016;durum_wheat;nodes_2;2016-04-10
+Centre-Val de Loire;2016;durum_wheat;heading;2016-05-16
+Centre-Val de Loire;2016;durum_wheat;harvest;2015-07-09
+Centre-Val de Loire;2017;durum_wheat;sowing;2016-10-30
+Centre-Val de Loire;2017;durum_wheat;emergence;2016-11-18
+Centre-Val de Loire;2017;durum_wheat;tillering;2017-02-15
+Centre-Val de Loire;2017;durum_wheat;kernel;2017-03-28
+Centre-Val de Loire;2017;durum_wheat;nodes_2;2017-04-16
+Centre-Val de Loire;2017;durum_wheat;heading;2017-05-14
+Centre-Val de Loire;2017;durum_wheat;harvest;2016-07-18
+Centre-Val de Loire;2018;durum_wheat;sowing;2017-11-01
+Centre-Val de Loire;2018;durum_wheat;emergence;2017-11-20
+Centre-Val de Loire;2018;durum_wheat;tillering;2018-02-03
+Centre-Val de Loire;2018;durum_wheat;kernel;2018-03-27
+Centre-Val de Loire;2018;durum_wheat;nodes_2;2018-04-17
+Centre-Val de Loire;2018;durum_wheat;heading;2018-05-11
+Centre-Val de Loire;2018;durum_wheat;harvest;2017-07-06
+Centre-Val de Loire;2019;durum_wheat;sowing;2018-11-08
+Centre-Val de Loire;2019;durum_wheat;emergence;2018-11-27
+Centre-Val de Loire;2019;durum_wheat;tillering;2019-02-14
+Centre-Val de Loire;2019;durum_wheat;kernel;2019-03-24
+Centre-Val de Loire;2019;durum_wheat;nodes_2;2019-04-19
+Centre-Val de Loire;2019;durum_wheat;heading;2019-05-15
+Centre-Val de Loire;2019;durum_wheat;harvest;2018-07-08
+Centre-Val de Loire;2020;durum_wheat;sowing;2019-11-26
+Centre-Val de Loire;2020;durum_wheat;emergence;2020-01-08
+Centre-Val de Loire;2020;durum_wheat;tillering;2020-03-01
+Centre-Val de Loire;2020;durum_wheat;kernel;2020-03-25
+Centre-Val de Loire;2020;durum_wheat;nodes_2;2020-04-16
+Centre-Val de Loire;2020;durum_wheat;heading;2020-05-05
+Centre-Val de Loire;2020;durum_wheat;harvest;2019-07-13
+Centre-Val de Loire;2021;durum_wheat;sowing;2020-11-04
+Centre-Val de Loire;2021;durum_wheat;emergence;2020-11-16
+Centre-Val de Loire;2021;durum_wheat;tillering;2021-02-14
+Centre-Val de Loire;2021;durum_wheat;kernel;2021-03-23
+Centre-Val de Loire;2021;durum_wheat;nodes_2;2021-04-25
+Centre-Val de Loire;2021;durum_wheat;heading;2021-05-20
+Centre-Val de Loire;2021;durum_wheat;harvest;2020-07-07
+Centre-Val de Loire;2022;durum_wheat;sowing;2021-11-10
+Centre-Val de Loire;2022;durum_wheat;emergence;2021-11-30
+Centre-Val de Loire;2022;durum_wheat;tillering;2022-02-03
+Centre-Val de Loire;2022;durum_wheat;kernel;2022-03-21
+Centre-Val de Loire;2022;durum_wheat;nodes_2;2022-04-15
+Centre-Val de Loire;2022;durum_wheat;heading;2022-05-12
+Centre-Val de Loire;2022;durum_wheat;harvest;2021-07-22
+Centre-Val de Loire;2023;durum_wheat;sowing;2022-11-06
+Centre-Val de Loire;2023;durum_wheat;emergence;2022-11-18
+Centre-Val de Loire;2023;durum_wheat;tillering;2023-01-30
+Centre-Val de Loire;2023;durum_wheat;kernel;2023-03-17
+Centre-Val de Loire;2023;durum_wheat;nodes_2;2023-04-13
+Centre-Val de Loire;2023;durum_wheat;heading;2023-05-16
+Centre-Val de Loire;2023;durum_wheat;harvest;2022-07-06
+Centre-Val de Loire;2024;durum_wheat;sowing;2023-11-29
+Centre-Val de Loire;2024;durum_wheat;emergence;2024-01-05
+Centre-Val de Loire;2024;durum_wheat;tillering;2024-02-24
+Centre-Val de Loire;2024;durum_wheat;kernel;2024-03-18
+Centre-Val de Loire;2024;durum_wheat;nodes_2;2024-04-17
+Centre-Val de Loire;2024;durum_wheat;heading;2024-05-14
+Centre-Val de Loire;2024;durum_wheat;harvest;2023-07-08
+Centre-Val de Loire;2015;soft_wheat;sowing;2014-10-14
+Centre-Val de Loire;2015;soft_wheat;emergence;2014-10-22
+Centre-Val de Loire;2015;soft_wheat;tillering;2014-11-23
+Centre-Val de Loire;2015;soft_wheat;kernel;2015-03-16
+Centre-Val de Loire;2015;soft_wheat;nodes_2;2015-04-11
+Centre-Val de Loire;2015;soft_wheat;heading;2015-05-10
+Centre-Val de Loire;2015;soft_wheat;harvest;2015-07-07
+Centre-Val de Loire;2016;soft_wheat;sowing;2015-10-10
+Centre-Val de Loire;2016;soft_wheat;emergence;2015-10-24
+Centre-Val de Loire;2016;soft_wheat;tillering;2015-11-21
+Centre-Val de Loire;2016;soft_wheat;kernel;2016-03-08
+Centre-Val de Loire;2016;soft_wheat;nodes_2;2016-04-05
+Centre-Val de Loire;2016;soft_wheat;heading;2016-05-14
+Centre-Val de Loire;2016;soft_wheat;harvest;2015-07-07
+Centre-Val de Loire;2017;soft_wheat;sowing;2016-10-15
+Centre-Val de Loire;2017;soft_wheat;emergence;2016-10-28
+Centre-Val de Loire;2017;soft_wheat;tillering;2017-01-17
+Centre-Val de Loire;2017;soft_wheat;kernel;2017-03-23
+Centre-Val de Loire;2017;soft_wheat;nodes_2;2017-04-09
+Centre-Val de Loire;2017;soft_wheat;heading;2017-05-12
+Centre-Val de Loire;2017;soft_wheat;harvest;2016-07-19
+Centre-Val de Loire;2018;soft_wheat;sowing;2017-10-11
+Centre-Val de Loire;2018;soft_wheat;emergence;2017-10-23
+Centre-Val de Loire;2018;soft_wheat;tillering;2017-11-29
+Centre-Val de Loire;2018;soft_wheat;kernel;2018-03-19
+Centre-Val de Loire;2018;soft_wheat;nodes_2;2018-04-12
+Centre-Val de Loire;2018;soft_wheat;heading;2018-05-08
+Centre-Val de Loire;2018;soft_wheat;harvest;2017-07-09
+Centre-Val de Loire;2019;soft_wheat;sowing;2018-10-19
+Centre-Val de Loire;2019;soft_wheat;emergence;2018-11-06
+Centre-Val de Loire;2019;soft_wheat;tillering;2018-12-30
+Centre-Val de Loire;2019;soft_wheat;kernel;2019-03-17
+Centre-Val de Loire;2019;soft_wheat;nodes_2;2019-04-15
+Centre-Val de Loire;2019;soft_wheat;heading;2019-05-14
+Centre-Val de Loire;2019;soft_wheat;harvest;2018-07-08
+Centre-Val de Loire;2020;soft_wheat;sowing;2019-10-23
+Centre-Val de Loire;2020;soft_wheat;emergence;2019-11-04
+Centre-Val de Loire;2020;soft_wheat;tillering;2020-01-25
+Centre-Val de Loire;2020;soft_wheat;kernel;2020-03-15
+Centre-Val de Loire;2020;soft_wheat;nodes_2;2020-04-08
+Centre-Val de Loire;2020;soft_wheat;heading;2020-05-01
+Centre-Val de Loire;2020;soft_wheat;harvest;2019-07-11
+Centre-Val de Loire;2021;soft_wheat;sowing;2020-10-16
+Centre-Val de Loire;2021;soft_wheat;emergence;2020-10-29
+Centre-Val de Loire;2021;soft_wheat;tillering;2020-12-16
+Centre-Val de Loire;2021;soft_wheat;kernel;2021-03-16
+Centre-Val de Loire;2021;soft_wheat;nodes_2;2021-04-17
+Centre-Val de Loire;2021;soft_wheat;heading;2021-05-18
+Centre-Val de Loire;2021;soft_wheat;harvest;2020-07-06
+Centre-Val de Loire;2022;soft_wheat;sowing;2021-10-14
+Centre-Val de Loire;2022;soft_wheat;emergence;2021-10-28
+Centre-Val de Loire;2022;soft_wheat;tillering;2022-01-04
+Centre-Val de Loire;2022;soft_wheat;kernel;2022-03-16
+Centre-Val de Loire;2022;soft_wheat;nodes_2;2022-04-10
+Centre-Val de Loire;2022;soft_wheat;heading;2022-05-08
+Centre-Val de Loire;2022;soft_wheat;harvest;2021-07-22
+Centre-Val de Loire;2023;soft_wheat;sowing;2022-10-15
+Centre-Val de Loire;2023;soft_wheat;emergence;2022-10-24
+Centre-Val de Loire;2023;soft_wheat;tillering;2022-11-18
+Centre-Val de Loire;2023;soft_wheat;kernel;2023-03-09
+Centre-Val de Loire;2023;soft_wheat;nodes_2;2023-04-04
+Centre-Val de Loire;2023;soft_wheat;heading;2023-05-09
+Centre-Val de Loire;2023;soft_wheat;harvest;2022-07-05
+Centre-Val de Loire;2024;soft_wheat;sowing;2023-10-13
+Centre-Val de Loire;2024;soft_wheat;emergence;2023-10-25
+Centre-Val de Loire;2024;soft_wheat;tillering;2024-01-02
+Centre-Val de Loire;2024;soft_wheat;kernel;2024-03-06
+Centre-Val de Loire;2024;soft_wheat;nodes_2;2024-03-31
+Centre-Val de Loire;2024;soft_wheat;heading;2024-05-06
+Centre-Val de Loire;2024;soft_wheat;harvest;2023-07-07
+Centre-Val de Loire;2015;spring_barley;sowing;2015-02-17
+Centre-Val de Loire;2015;spring_barley;emergence;2015-03-03
+Centre-Val de Loire;2015;spring_barley;tillering;2015-03-29
+Centre-Val de Loire;2015;spring_barley;kernel;2015-04-23
+Centre-Val de Loire;2015;spring_barley;nodes_2;2015-05-05
+Centre-Val de Loire;2015;spring_barley;heading;2015-05-23
+Centre-Val de Loire;2015;spring_barley;harvest;2015-07-09
+Centre-Val de Loire;2016;spring_barley;sowing;2016-03-13
+Centre-Val de Loire;2016;spring_barley;emergence;2016-04-01
+Centre-Val de Loire;2016;spring_barley;tillering;2016-04-16
+Centre-Val de Loire;2016;spring_barley;kernel;2016-05-08
+Centre-Val de Loire;2016;spring_barley;nodes_2;2016-05-20
+Centre-Val de Loire;2016;spring_barley;heading;2016-06-03
+Centre-Val de Loire;2016;spring_barley;harvest;2016-07-24
+Centre-Val de Loire;2017;spring_barley;sowing;2017-02-18
+Centre-Val de Loire;2017;spring_barley;emergence;2017-03-11
+Centre-Val de Loire;2017;spring_barley;tillering;2017-03-30
+Centre-Val de Loire;2017;spring_barley;kernel;2017-04-12
+Centre-Val de Loire;2017;spring_barley;nodes_2;2017-05-05
+Centre-Val de Loire;2017;spring_barley;heading;2017-05-20
+Centre-Val de Loire;2017;spring_barley;harvest;2017-07-10
+Centre-Val de Loire;2018;spring_barley;sowing;2018-03-15
+Centre-Val de Loire;2018;spring_barley;emergence;2018-03-25
+Centre-Val de Loire;2018;spring_barley;tillering;2018-04-14
+Centre-Val de Loire;2018;spring_barley;kernel;2018-04-26
+Centre-Val de Loire;2018;spring_barley;nodes_2;2018-05-08
+Centre-Val de Loire;2018;spring_barley;heading;2018-05-21
+Centre-Val de Loire;2018;spring_barley;harvest;2018-07-07
+Centre-Val de Loire;2019;spring_barley;sowing;2019-02-11
+Centre-Val de Loire;2019;spring_barley;emergence;2019-03-01
+Centre-Val de Loire;2019;spring_barley;tillering;2019-03-22
+Centre-Val de Loire;2019;spring_barley;kernel;2019-04-15
+Centre-Val de Loire;2019;spring_barley;nodes_2;2019-05-02
+Centre-Val de Loire;2019;spring_barley;heading;2019-05-17
+Centre-Val de Loire;2019;spring_barley;harvest;2019-07-06
+Centre-Val de Loire;2020;spring_barley;sowing;2020-02-15
+Centre-Val de Loire;2020;spring_barley;emergence;2020-02-18
+Centre-Val de Loire;2020;spring_barley;tillering;2020-03-20
+Centre-Val de Loire;2020;spring_barley;kernel;2020-04-14
+Centre-Val de Loire;2020;spring_barley;nodes_2;2020-04-25
+Centre-Val de Loire;2020;spring_barley;heading;2020-05-14
+Centre-Val de Loire;2020;spring_barley;harvest;2020-07-07
+Centre-Val de Loire;2021;spring_barley;sowing;2021-02-20
+Centre-Val de Loire;2021;spring_barley;emergence;2021-03-06
+Centre-Val de Loire;2021;spring_barley;tillering;2021-03-27
+Centre-Val de Loire;2021;spring_barley;kernel;2021-04-24
+Centre-Val de Loire;2021;spring_barley;nodes_2;2021-05-09
+Centre-Val de Loire;2021;spring_barley;heading;2021-05-26
+Centre-Val de Loire;2021;spring_barley;harvest;2021-07-16
+Centre-Val de Loire;2022;spring_barley;sowing;2022-02-05
+Centre-Val de Loire;2022;spring_barley;emergence;2022-02-17
+Centre-Val de Loire;2022;spring_barley;tillering;2022-03-20
+Centre-Val de Loire;2022;spring_barley;kernel;2022-04-05
+Centre-Val de Loire;2022;spring_barley;nodes_2;2022-04-26
+Centre-Val de Loire;2022;spring_barley;heading;2022-05-13
+Centre-Val de Loire;2022;spring_barley;harvest;2022-07-02
+Centre-Val de Loire;2023;spring_barley;sowing;2023-02-02
+Centre-Val de Loire;2023;spring_barley;emergence;2023-02-21
+Centre-Val de Loire;2023;spring_barley;tillering;2023-03-07
+Centre-Val de Loire;2023;spring_barley;kernel;2023-04-07
+Centre-Val de Loire;2023;spring_barley;nodes_2;2023-04-23
+Centre-Val de Loire;2023;spring_barley;heading;2023-05-19
+Centre-Val de Loire;2023;spring_barley;harvest;2023-07-05
+Centre-Val de Loire;2024;spring_barley;sowing;2024-01-28
+Centre-Val de Loire;2024;spring_barley;emergence;2024-02-24
+Centre-Val de Loire;2024;spring_barley;tillering;2024-03-25
+Centre-Val de Loire;2024;spring_barley;kernel;2024-04-16
+Centre-Val de Loire;2024;spring_barley;nodes_2;2024-05-04
+Centre-Val de Loire;2024;spring_barley;heading;2024-05-23
+Centre-Val de Loire;2024;spring_barley;harvest;2024-07-17
+Centre-Val de Loire;2015;winter_barley;sowing;2014-10-10
+Centre-Val de Loire;2015;winter_barley;emergence;2014-10-16
+Centre-Val de Loire;2015;winter_barley;tillering;2014-11-10
+Centre-Val de Loire;2015;winter_barley;kernel;2015-03-17
+Centre-Val de Loire;2015;winter_barley;nodes_2;2015-04-08
+Centre-Val de Loire;2015;winter_barley;heading;2015-04-27
+Centre-Val de Loire;2015;winter_barley;harvest;2015-06-22
+Centre-Val de Loire;2016;winter_barley;sowing;2015-10-06
+Centre-Val de Loire;2016;winter_barley;emergence;2015-10-19
+Centre-Val de Loire;2016;winter_barley;tillering;2015-11-12
+Centre-Val de Loire;2016;winter_barley;kernel;2016-03-12
+Centre-Val de Loire;2016;winter_barley;nodes_2;2016-04-05
+Centre-Val de Loire;2016;winter_barley;heading;2016-05-03
+Centre-Val de Loire;2016;winter_barley;harvest;2015-06-22
+Centre-Val de Loire;2017;winter_barley;sowing;2016-10-12
+Centre-Val de Loire;2017;winter_barley;emergence;2016-10-24
+Centre-Val de Loire;2017;winter_barley;tillering;2017-01-19
+Centre-Val de Loire;2017;winter_barley;kernel;2017-03-22
+Centre-Val de Loire;2017;winter_barley;nodes_2;2017-04-04
+Centre-Val de Loire;2017;winter_barley;heading;2017-04-30
+Centre-Val de Loire;2017;winter_barley;harvest;2016-07-03
+Centre-Val de Loire;2018;winter_barley;sowing;2017-10-08
+Centre-Val de Loire;2018;winter_barley;emergence;2017-10-17
+Centre-Val de Loire;2018;winter_barley;tillering;2017-11-24
+Centre-Val de Loire;2018;winter_barley;kernel;2018-03-22
+Centre-Val de Loire;2018;winter_barley;nodes_2;2018-04-12
+Centre-Val de Loire;2018;winter_barley;heading;2018-04-30
+Centre-Val de Loire;2018;winter_barley;harvest;2017-06-19
+Centre-Val de Loire;2019;winter_barley;sowing;2018-10-15
+Centre-Val de Loire;2019;winter_barley;emergence;2018-11-02
+Centre-Val de Loire;2019;winter_barley;tillering;2018-12-24
+Centre-Val de Loire;2019;winter_barley;kernel;2019-03-17
+Centre-Val de Loire;2019;winter_barley;nodes_2;2019-04-11
+Centre-Val de Loire;2019;winter_barley;heading;2019-05-03
+Centre-Val de Loire;2019;winter_barley;harvest;2019-06-30
+Centre-Val de Loire;2020;winter_barley;sowing;2019-10-13
+Centre-Val de Loire;2020;winter_barley;emergence;2019-10-25
+Centre-Val de Loire;2020;winter_barley;tillering;2020-01-14
+Centre-Val de Loire;2020;winter_barley;kernel;2020-03-15
+Centre-Val de Loire;2020;winter_barley;nodes_2;2020-04-05
+Centre-Val de Loire;2020;winter_barley;heading;2020-04-24
+Centre-Val de Loire;2020;winter_barley;harvest;2019-06-30
+Centre-Val de Loire;2021;winter_barley;sowing;2020-10-12
+Centre-Val de Loire;2021;winter_barley;emergence;2020-10-26
+Centre-Val de Loire;2021;winter_barley;tillering;2020-11-29
+Centre-Val de Loire;2021;winter_barley;kernel;2021-03-18
+Centre-Val de Loire;2021;winter_barley;nodes_2;2021-04-11
+Centre-Val de Loire;2021;winter_barley;heading;2021-05-02
+Centre-Val de Loire;2021;winter_barley;harvest;2020-06-22
+Centre-Val de Loire;2022;winter_barley;sowing;2021-10-11
+Centre-Val de Loire;2022;winter_barley;emergence;2021-10-24
+Centre-Val de Loire;2022;winter_barley;tillering;2021-12-25
+Centre-Val de Loire;2022;winter_barley;kernel;2022-03-20
+Centre-Val de Loire;2022;winter_barley;nodes_2;2022-04-07
+Centre-Val de Loire;2022;winter_barley;heading;2022-04-27
+Centre-Val de Loire;2022;winter_barley;harvest;2021-07-06
+Centre-Val de Loire;2023;winter_barley;sowing;2022-10-08
+Centre-Val de Loire;2023;winter_barley;emergence;2022-10-17
+Centre-Val de Loire;2023;winter_barley;tillering;2022-11-12
+Centre-Val de Loire;2023;winter_barley;kernel;2023-03-14
+Centre-Val de Loire;2023;winter_barley;nodes_2;2023-04-04
+Centre-Val de Loire;2023;winter_barley;heading;2023-04-26
+Centre-Val de Loire;2023;winter_barley;harvest;2023-06-23
+Centre-Val de Loire;2024;winter_barley;sowing;2023-10-10
+Centre-Val de Loire;2024;winter_barley;emergence;2023-10-19
+Centre-Val de Loire;2024;winter_barley;tillering;2023-12-19
+Centre-Val de Loire;2024;winter_barley;kernel;2024-03-09
+Centre-Val de Loire;2024;winter_barley;nodes_2;2024-03-31
+Centre-Val de Loire;2024;winter_barley;heading;2024-04-25
+Centre-Val de Loire;2024;winter_barley;harvest;2023-06-23
+Centre-Val de Loire;2015;grain_maize;sowing;2015-04-12
+Centre-Val de Loire;2015;grain_maize;emergence;2015-04-25
+Centre-Val de Loire;2015;grain_maize;6_8_leaves;2015-05-20
+Centre-Val de Loire;2015;grain_maize;female_flowering;2015-07-10
+Centre-Val de Loire;2015;grain_maize;grain_moist_50;2015-08-23
+Centre-Val de Loire;2015;grain_maize;harvest;2015-10-13
+Centre-Val de Loire;2016;grain_maize;sowing;2016-04-28
+Centre-Val de Loire;2016;grain_maize;emergence;2016-05-10
+Centre-Val de Loire;2016;grain_maize;6_8_leaves;2016-06-11
+Centre-Val de Loire;2016;grain_maize;female_flowering;2016-07-26
+Centre-Val de Loire;2016;grain_maize;grain_moist_50;2016-09-07
+Centre-Val de Loire;2016;grain_maize;harvest;2016-10-20
+Centre-Val de Loire;2017;grain_maize;sowing;2017-04-05
+Centre-Val de Loire;2017;grain_maize;emergence;2017-04-26
+Centre-Val de Loire;2017;grain_maize;6_8_leaves;2017-05-24
+Centre-Val de Loire;2017;grain_maize;female_flowering;2017-07-09
+Centre-Val de Loire;2017;grain_maize;grain_moist_50;2017-08-19
+Centre-Val de Loire;2017;grain_maize;harvest;2017-10-12
+Centre-Val de Loire;2018;grain_maize;sowing;2018-04-17
+Centre-Val de Loire;2018;grain_maize;emergence;2018-04-28
+Centre-Val de Loire;2018;grain_maize;6_8_leaves;2018-05-21
+Centre-Val de Loire;2018;grain_maize;female_flowering;2018-07-04
+Centre-Val de Loire;2018;grain_maize;grain_moist_50;2018-08-09
+Centre-Val de Loire;2018;grain_maize;harvest;2018-09-29
+Centre-Val de Loire;2019;grain_maize;sowing;2019-04-10
+Centre-Val de Loire;2019;grain_maize;emergence;2019-04-23
+Centre-Val de Loire;2019;grain_maize;6_8_leaves;2019-05-27
+Centre-Val de Loire;2019;grain_maize;female_flowering;2019-07-15
+Centre-Val de Loire;2019;grain_maize;grain_moist_50;2019-08-24
+Centre-Val de Loire;2019;grain_maize;harvest;2019-10-13
+Centre-Val de Loire;2020;grain_maize;sowing;2020-04-11
+Centre-Val de Loire;2020;grain_maize;emergence;2020-04-22
+Centre-Val de Loire;2020;grain_maize;6_8_leaves;2020-05-18
+Centre-Val de Loire;2020;grain_maize;female_flowering;2020-07-09
+Centre-Val de Loire;2020;grain_maize;grain_moist_50;2020-08-18
+Centre-Val de Loire;2020;grain_maize;harvest;2020-10-01
+Centre-Val de Loire;2021;grain_maize;sowing;2021-04-14
+Centre-Val de Loire;2021;grain_maize;emergence;2021-05-02
+Centre-Val de Loire;2021;grain_maize;6_8_leaves;2021-06-02
+Centre-Val de Loire;2021;grain_maize;female_flowering;2021-07-22
+Centre-Val de Loire;2021;grain_maize;grain_moist_50;2021-09-05
+Centre-Val de Loire;2021;grain_maize;harvest;2021-10-19
+Centre-Val de Loire;2022;grain_maize;sowing;2022-04-12
+Centre-Val de Loire;2022;grain_maize;emergence;2022-04-27
+Centre-Val de Loire;2022;grain_maize;6_8_leaves;2022-05-18
+Centre-Val de Loire;2022;grain_maize;female_flowering;2022-07-01
+Centre-Val de Loire;2022;grain_maize;grain_moist_50;2022-08-11
+Centre-Val de Loire;2022;grain_maize;harvest;2022-09-23
+Centre-Val de Loire;2023;grain_maize;sowing;2023-04-16
+Centre-Val de Loire;2023;grain_maize;emergence;2023-05-02
+Centre-Val de Loire;2023;grain_maize;6_8_leaves;2023-06-02
+Centre-Val de Loire;2023;grain_maize;female_flowering;2023-07-15
+Centre-Val de Loire;2023;grain_maize;grain_moist_50;2023-08-21
+Centre-Val de Loire;2023;grain_maize;harvest;2023-10-06
+Centre-Val de Loire;2024;grain_maize;sowing;2024-04-22
+Centre-Val de Loire;2024;grain_maize;emergence;2024-05-08
+Centre-Val de Loire;2024;grain_maize;6_8_leaves;2024-05-30
+Centre-Val de Loire;2024;grain_maize;female_flowering;2024-07-21
+Centre-Val de Loire;2024;grain_maize;grain_moist_50;2024-08-30
+Centre-Val de Loire;2024;grain_maize;harvest;2024-10-29
+Nouvelle-Aquitaine;2015;durum_wheat;sowing;2014-10-27
+Nouvelle-Aquitaine;2015;durum_wheat;emergence;2014-11-08
+Nouvelle-Aquitaine;2015;durum_wheat;tillering;2014-12-20
+Nouvelle-Aquitaine;2015;durum_wheat;kernel;2015-03-15
+Nouvelle-Aquitaine;2015;durum_wheat;nodes_2;2015-04-08
+Nouvelle-Aquitaine;2015;durum_wheat;heading;2015-05-05
+Nouvelle-Aquitaine;2015;durum_wheat;harvest;2015-07-01
+Nouvelle-Aquitaine;2016;durum_wheat;sowing;2015-10-25
+Nouvelle-Aquitaine;2016;durum_wheat;emergence;2015-11-06
+Nouvelle-Aquitaine;2016;durum_wheat;tillering;2015-12-28
+Nouvelle-Aquitaine;2016;durum_wheat;kernel;2016-02-21
+Nouvelle-Aquitaine;2016;durum_wheat;nodes_2;2016-03-31
+Nouvelle-Aquitaine;2016;durum_wheat;heading;2016-05-11
+Nouvelle-Aquitaine;2016;durum_wheat;harvest;2015-07-01
+Nouvelle-Aquitaine;2017;durum_wheat;sowing;2016-11-03
+Nouvelle-Aquitaine;2017;durum_wheat;emergence;2016-11-24
+Nouvelle-Aquitaine;2017;durum_wheat;tillering;2017-01-30
+Nouvelle-Aquitaine;2017;durum_wheat;kernel;2017-03-13
+Nouvelle-Aquitaine;2017;durum_wheat;nodes_2;2017-04-07
+Nouvelle-Aquitaine;2017;durum_wheat;heading;2017-05-09
+Nouvelle-Aquitaine;2017;durum_wheat;harvest;2016-07-11
+Nouvelle-Aquitaine;2018;durum_wheat;sowing;2017-11-07
+Nouvelle-Aquitaine;2018;durum_wheat;emergence;2017-11-19
+Nouvelle-Aquitaine;2018;durum_wheat;tillering;2018-01-31
+Nouvelle-Aquitaine;2018;durum_wheat;kernel;2018-03-20
+Nouvelle-Aquitaine;2018;durum_wheat;nodes_2;2018-04-14
+Nouvelle-Aquitaine;2018;durum_wheat;heading;2018-05-11
+Nouvelle-Aquitaine;2018;durum_wheat;harvest;2017-07-01
+Nouvelle-Aquitaine;2019;durum_wheat;sowing;2018-11-09
+Nouvelle-Aquitaine;2019;durum_wheat;emergence;2018-11-17
+Nouvelle-Aquitaine;2019;durum_wheat;tillering;2019-02-03
+Nouvelle-Aquitaine;2019;durum_wheat;kernel;2019-03-09
+Nouvelle-Aquitaine;2019;durum_wheat;nodes_2;2019-04-06
+Nouvelle-Aquitaine;2019;durum_wheat;heading;2019-05-02
+Nouvelle-Aquitaine;2019;durum_wheat;harvest;2018-07-05
+Nouvelle-Aquitaine;2020;durum_wheat;sowing;2019-12-21
+Nouvelle-Aquitaine;2020;durum_wheat;emergence;2020-01-07
+Nouvelle-Aquitaine;2020;durum_wheat;tillering;2020-02-13
+Nouvelle-Aquitaine;2020;durum_wheat;kernel;2020-03-21
+Nouvelle-Aquitaine;2020;durum_wheat;nodes_2;2020-04-11
+Nouvelle-Aquitaine;2020;durum_wheat;heading;2020-04-28
+Nouvelle-Aquitaine;2020;durum_wheat;harvest;2019-07-05
+Nouvelle-Aquitaine;2021;durum_wheat;sowing;2020-11-09
+Nouvelle-Aquitaine;2021;durum_wheat;emergence;2020-11-23
+Nouvelle-Aquitaine;2021;durum_wheat;tillering;2021-02-01
+Nouvelle-Aquitaine;2021;durum_wheat;kernel;2021-03-07
+Nouvelle-Aquitaine;2021;durum_wheat;nodes_2;2021-04-06
+Nouvelle-Aquitaine;2021;durum_wheat;heading;2021-05-03
+Nouvelle-Aquitaine;2021;durum_wheat;harvest;2020-07-07
+Nouvelle-Aquitaine;2022;durum_wheat;sowing;2021-11-10
+Nouvelle-Aquitaine;2022;durum_wheat;emergence;2021-11-22
+Nouvelle-Aquitaine;2022;durum_wheat;tillering;2022-01-30
+Nouvelle-Aquitaine;2022;durum_wheat;kernel;2022-03-14
+Nouvelle-Aquitaine;2022;durum_wheat;nodes_2;2022-04-12
+Nouvelle-Aquitaine;2022;durum_wheat;heading;2022-05-03
+Nouvelle-Aquitaine;2022;durum_wheat;harvest;2021-07-13
+Nouvelle-Aquitaine;2023;durum_wheat;sowing;2022-11-02
+Nouvelle-Aquitaine;2023;durum_wheat;emergence;2022-11-16
+Nouvelle-Aquitaine;2023;durum_wheat;tillering;2022-12-27
+Nouvelle-Aquitaine;2023;durum_wheat;kernel;2023-03-15
+Nouvelle-Aquitaine;2023;durum_wheat;nodes_2;2023-04-08
+Nouvelle-Aquitaine;2023;durum_wheat;heading;2023-05-06
+Nouvelle-Aquitaine;2023;durum_wheat;harvest;2022-07-03
+Nouvelle-Aquitaine;2024;durum_wheat;sowing;2023-12-21
+Nouvelle-Aquitaine;2024;durum_wheat;emergence;2024-01-03
+Nouvelle-Aquitaine;2024;durum_wheat;tillering;2024-02-11
+Nouvelle-Aquitaine;2024;durum_wheat;kernel;2024-03-26
+Nouvelle-Aquitaine;2024;durum_wheat;nodes_2;2024-04-11
+Nouvelle-Aquitaine;2024;durum_wheat;heading;2024-05-11
+Nouvelle-Aquitaine;2024;durum_wheat;harvest;2023-07-01
+Nouvelle-Aquitaine;2015;soft_wheat;sowing;2014-10-21
+Nouvelle-Aquitaine;2015;soft_wheat;emergence;2014-10-30
+Nouvelle-Aquitaine;2015;soft_wheat;tillering;2014-12-10
+Nouvelle-Aquitaine;2015;soft_wheat;kernel;2015-03-17
+Nouvelle-Aquitaine;2015;soft_wheat;nodes_2;2015-04-10
+Nouvelle-Aquitaine;2015;soft_wheat;heading;2015-05-06
+Nouvelle-Aquitaine;2015;soft_wheat;harvest;2015-07-01
+Nouvelle-Aquitaine;2016;soft_wheat;sowing;2015-10-20
+Nouvelle-Aquitaine;2016;soft_wheat;emergence;2015-11-01
+Nouvelle-Aquitaine;2016;soft_wheat;tillering;2015-12-25
+Nouvelle-Aquitaine;2016;soft_wheat;kernel;2016-02-29
+Nouvelle-Aquitaine;2016;soft_wheat;nodes_2;2016-04-01
+Nouvelle-Aquitaine;2016;soft_wheat;heading;2016-05-09
+Nouvelle-Aquitaine;2016;soft_wheat;harvest;2015-07-01
+Nouvelle-Aquitaine;2017;soft_wheat;sowing;2016-10-27
+Nouvelle-Aquitaine;2017;soft_wheat;emergence;2016-11-15
+Nouvelle-Aquitaine;2017;soft_wheat;tillering;2017-01-30
+Nouvelle-Aquitaine;2017;soft_wheat;kernel;2017-03-15
+Nouvelle-Aquitaine;2017;soft_wheat;nodes_2;2017-04-05
+Nouvelle-Aquitaine;2017;soft_wheat;heading;2017-05-07
+Nouvelle-Aquitaine;2017;soft_wheat;harvest;2016-07-12
+Nouvelle-Aquitaine;2018;soft_wheat;sowing;2017-10-22
+Nouvelle-Aquitaine;2018;soft_wheat;emergence;2017-11-10
+Nouvelle-Aquitaine;2018;soft_wheat;tillering;2017-12-31
+Nouvelle-Aquitaine;2018;soft_wheat;kernel;2018-03-14
+Nouvelle-Aquitaine;2018;soft_wheat;nodes_2;2018-04-10
+Nouvelle-Aquitaine;2018;soft_wheat;heading;2018-05-07
+Nouvelle-Aquitaine;2018;soft_wheat;harvest;2017-07-04
+Nouvelle-Aquitaine;2019;soft_wheat;sowing;2018-10-24
+Nouvelle-Aquitaine;2019;soft_wheat;emergence;2018-11-07
+Nouvelle-Aquitaine;2019;soft_wheat;tillering;2019-01-13
+Nouvelle-Aquitaine;2019;soft_wheat;kernel;2019-03-10
+Nouvelle-Aquitaine;2019;soft_wheat;nodes_2;2019-04-03
+Nouvelle-Aquitaine;2019;soft_wheat;heading;2019-05-04
+Nouvelle-Aquitaine;2019;soft_wheat;harvest;2018-07-07
+Nouvelle-Aquitaine;2020;soft_wheat;sowing;2019-11-20
+Nouvelle-Aquitaine;2020;soft_wheat;emergence;2019-12-10
+Nouvelle-Aquitaine;2020;soft_wheat;tillering;2020-02-01
+Nouvelle-Aquitaine;2020;soft_wheat;kernel;2020-03-13
+Nouvelle-Aquitaine;2020;soft_wheat;nodes_2;2020-04-04
+Nouvelle-Aquitaine;2020;soft_wheat;heading;2020-04-27
+Nouvelle-Aquitaine;2020;soft_wheat;harvest;2019-07-07
+Nouvelle-Aquitaine;2021;soft_wheat;sowing;2020-10-29
+Nouvelle-Aquitaine;2021;soft_wheat;emergence;2020-11-08
+Nouvelle-Aquitaine;2021;soft_wheat;tillering;2020-12-25
+Nouvelle-Aquitaine;2021;soft_wheat;kernel;2021-03-08
+Nouvelle-Aquitaine;2021;soft_wheat;nodes_2;2021-04-03
+Nouvelle-Aquitaine;2021;soft_wheat;heading;2021-05-03
+Nouvelle-Aquitaine;2021;soft_wheat;harvest;2020-07-05
+Nouvelle-Aquitaine;2022;soft_wheat;sowing;2021-10-24
+Nouvelle-Aquitaine;2022;soft_wheat;emergence;2021-11-07
+Nouvelle-Aquitaine;2022;soft_wheat;tillering;2022-01-02
+Nouvelle-Aquitaine;2022;soft_wheat;kernel;2022-03-10
+Nouvelle-Aquitaine;2022;soft_wheat;nodes_2;2022-04-06
+Nouvelle-Aquitaine;2022;soft_wheat;heading;2022-04-30
+Nouvelle-Aquitaine;2022;soft_wheat;harvest;2021-07-18
+Nouvelle-Aquitaine;2023;soft_wheat;sowing;2022-10-22
+Nouvelle-Aquitaine;2023;soft_wheat;emergence;2022-11-02
+Nouvelle-Aquitaine;2023;soft_wheat;tillering;2022-12-20
+Nouvelle-Aquitaine;2023;soft_wheat;kernel;2023-03-12
+Nouvelle-Aquitaine;2023;soft_wheat;nodes_2;2023-04-03
+Nouvelle-Aquitaine;2023;soft_wheat;heading;2023-05-02
+Nouvelle-Aquitaine;2023;soft_wheat;harvest;2022-07-01
+Nouvelle-Aquitaine;2024;soft_wheat;sowing;2023-11-23
+Nouvelle-Aquitaine;2024;soft_wheat;emergence;2023-12-20
+Nouvelle-Aquitaine;2024;soft_wheat;tillering;2024-01-21
+Nouvelle-Aquitaine;2024;soft_wheat;kernel;2024-03-12
+Nouvelle-Aquitaine;2024;soft_wheat;nodes_2;2024-04-03
+Nouvelle-Aquitaine;2024;soft_wheat;heading;2024-05-04
+Nouvelle-Aquitaine;2024;soft_wheat;harvest;2023-07-01
+Nouvelle-Aquitaine;2015;spring_barley;sowing;2015-02-17
+Nouvelle-Aquitaine;2015;spring_barley;emergence;2015-03-01
+Nouvelle-Aquitaine;2015;spring_barley;tillering;2015-03-18
+Nouvelle-Aquitaine;2015;spring_barley;kernel;2015-04-07
+Nouvelle-Aquitaine;2015;spring_barley;nodes_2;2015-04-26
+Nouvelle-Aquitaine;2015;spring_barley;heading;2015-05-16
+Nouvelle-Aquitaine;2015;spring_barley;harvest;2015-07-05
+Nouvelle-Aquitaine;2016;spring_barley;sowing;2016-02-13
+Nouvelle-Aquitaine;2016;spring_barley;emergence;2016-02-17
+Nouvelle-Aquitaine;2016;spring_barley;tillering;2016-03-07
+Nouvelle-Aquitaine;2016;spring_barley;kernel;2016-04-04
+Nouvelle-Aquitaine;2016;spring_barley;nodes_2;2016-04-20
+Nouvelle-Aquitaine;2016;spring_barley;heading;2016-05-11
+Nouvelle-Aquitaine;2016;spring_barley;harvest;2016-07-13
+Nouvelle-Aquitaine;2017;spring_barley;sowing;2017-02-02
+Nouvelle-Aquitaine;2017;spring_barley;emergence;2017-02-08
+Nouvelle-Aquitaine;2017;spring_barley;tillering;2017-03-12
+Nouvelle-Aquitaine;2017;spring_barley;kernel;2017-04-01
+Nouvelle-Aquitaine;2017;spring_barley;nodes_2;2017-04-15
+Nouvelle-Aquitaine;2017;spring_barley;heading;2017-05-07
+Nouvelle-Aquitaine;2017;spring_barley;harvest;2017-07-05
+Nouvelle-Aquitaine;2018;spring_barley;sowing;2018-02-19
+Nouvelle-Aquitaine;2018;spring_barley;emergence;2018-03-01
+Nouvelle-Aquitaine;2018;spring_barley;tillering;2018-03-02
+Nouvelle-Aquitaine;2018;spring_barley;kernel;2018-04-12
+Nouvelle-Aquitaine;2018;spring_barley;nodes_2;2018-04-26
+Nouvelle-Aquitaine;2018;spring_barley;heading;2018-05-19
+Nouvelle-Aquitaine;2018;spring_barley;harvest;2018-07-09
+Nouvelle-Aquitaine;2019;spring_barley;sowing;2019-01-29
+Nouvelle-Aquitaine;2019;spring_barley;emergence;2019-02-11
+Nouvelle-Aquitaine;2019;spring_barley;tillering;2019-03-01
+Nouvelle-Aquitaine;2019;spring_barley;kernel;2019-03-21
+Nouvelle-Aquitaine;2019;spring_barley;nodes_2;2019-04-13
+Nouvelle-Aquitaine;2019;spring_barley;heading;2019-04-28
+Nouvelle-Aquitaine;2019;spring_barley;harvest;2019-07-02
+Nouvelle-Aquitaine;2020;spring_barley;sowing;2020-01-30
+Nouvelle-Aquitaine;2020;spring_barley;emergence;2020-02-10
+Nouvelle-Aquitaine;2020;spring_barley;tillering;2020-02-27
+Nouvelle-Aquitaine;2020;spring_barley;kernel;2020-04-02
+Nouvelle-Aquitaine;2020;spring_barley;nodes_2;2020-04-18
+Nouvelle-Aquitaine;2020;spring_barley;heading;2020-04-25
+Nouvelle-Aquitaine;2020;spring_barley;harvest;2020-07-01
+Nouvelle-Aquitaine;2021;spring_barley;sowing;2021-02-17
+Nouvelle-Aquitaine;2021;spring_barley;emergence;2021-02-26
+Nouvelle-Aquitaine;2021;spring_barley;tillering;2021-03-13
+Nouvelle-Aquitaine;2021;spring_barley;kernel;2021-04-01
+Nouvelle-Aquitaine;2021;spring_barley;nodes_2;2021-04-19
+Nouvelle-Aquitaine;2021;spring_barley;heading;2021-05-22
+Nouvelle-Aquitaine;2021;spring_barley;harvest;2021-07-19
+Nouvelle-Aquitaine;2022;spring_barley;sowing;2022-01-27
+Nouvelle-Aquitaine;2022;spring_barley;emergence;2022-02-01
+Nouvelle-Aquitaine;2022;spring_barley;tillering;2022-03-07
+Nouvelle-Aquitaine;2022;spring_barley;kernel;2022-04-01
+Nouvelle-Aquitaine;2022;spring_barley;nodes_2;2022-04-21
+Nouvelle-Aquitaine;2022;spring_barley;heading;2022-05-08
+Nouvelle-Aquitaine;2022;spring_barley;harvest;2022-07-01
+Nouvelle-Aquitaine;2023;spring_barley;sowing;2023-02-02
+Nouvelle-Aquitaine;2023;spring_barley;emergence;2023-02-10
+Nouvelle-Aquitaine;2023;spring_barley;tillering;2023-03-11
+Nouvelle-Aquitaine;2023;spring_barley;kernel;2023-04-14
+Nouvelle-Aquitaine;2023;spring_barley;nodes_2;2023-05-04
+Nouvelle-Aquitaine;2023;spring_barley;heading;2023-05-21
+Nouvelle-Aquitaine;2023;spring_barley;harvest;2023-06-24
+Nouvelle-Aquitaine;2024;spring_barley;sowing;2024-02-08
+Nouvelle-Aquitaine;2024;spring_barley;emergence;2024-02-22
+Nouvelle-Aquitaine;2024;spring_barley;tillering;2024-03-12
+Nouvelle-Aquitaine;2024;spring_barley;kernel;2024-04-05
+Nouvelle-Aquitaine;2024;spring_barley;nodes_2;2024-04-26
+Nouvelle-Aquitaine;2024;spring_barley;heading;2024-05-24
+Nouvelle-Aquitaine;2024;spring_barley;harvest;2024-07-13
+Nouvelle-Aquitaine;2015;winter_barley;sowing;2014-10-17
+Nouvelle-Aquitaine;2015;winter_barley;emergence;2014-10-27
+Nouvelle-Aquitaine;2015;winter_barley;tillering;2014-11-25
+Nouvelle-Aquitaine;2015;winter_barley;kernel;2015-03-16
+Nouvelle-Aquitaine;2015;winter_barley;nodes_2;2015-04-06
+Nouvelle-Aquitaine;2015;winter_barley;heading;2015-04-26
+Nouvelle-Aquitaine;2015;winter_barley;harvest;2015-06-21
+Nouvelle-Aquitaine;2016;winter_barley;sowing;2015-10-17
+Nouvelle-Aquitaine;2016;winter_barley;emergence;2015-10-27
+Nouvelle-Aquitaine;2016;winter_barley;tillering;2015-12-18
+Nouvelle-Aquitaine;2016;winter_barley;kernel;2016-02-29
+Nouvelle-Aquitaine;2016;winter_barley;nodes_2;2016-04-01
+Nouvelle-Aquitaine;2016;winter_barley;heading;2016-04-29
+Nouvelle-Aquitaine;2016;winter_barley;harvest;2015-06-21
+Nouvelle-Aquitaine;2017;winter_barley;sowing;2016-10-25
+Nouvelle-Aquitaine;2017;winter_barley;emergence;2016-11-14
+Nouvelle-Aquitaine;2017;winter_barley;tillering;2017-01-30
+Nouvelle-Aquitaine;2017;winter_barley;kernel;2017-03-15
+Nouvelle-Aquitaine;2017;winter_barley;nodes_2;2017-04-03
+Nouvelle-Aquitaine;2017;winter_barley;heading;2017-04-24
+Nouvelle-Aquitaine;2017;winter_barley;harvest;2016-06-30
+Nouvelle-Aquitaine;2018;winter_barley;sowing;2017-10-23
+Nouvelle-Aquitaine;2018;winter_barley;emergence;2017-11-07
+Nouvelle-Aquitaine;2018;winter_barley;tillering;2017-12-27
+Nouvelle-Aquitaine;2018;winter_barley;kernel;2018-03-15
+Nouvelle-Aquitaine;2018;winter_barley;nodes_2;2018-04-09
+Nouvelle-Aquitaine;2018;winter_barley;heading;2018-04-28
+Nouvelle-Aquitaine;2018;winter_barley;harvest;2017-06-18
+Nouvelle-Aquitaine;2019;winter_barley;sowing;2018-10-23
+Nouvelle-Aquitaine;2019;winter_barley;emergence;2018-11-05
+Nouvelle-Aquitaine;2019;winter_barley;tillering;2019-01-16
+Nouvelle-Aquitaine;2019;winter_barley;kernel;2019-03-09
+Nouvelle-Aquitaine;2019;winter_barley;nodes_2;2019-04-02
+Nouvelle-Aquitaine;2019;winter_barley;heading;2019-04-23
+Nouvelle-Aquitaine;2019;winter_barley;harvest;2019-06-25
+Nouvelle-Aquitaine;2020;winter_barley;sowing;2019-11-01
+Nouvelle-Aquitaine;2020;winter_barley;emergence;2019-11-23
+Nouvelle-Aquitaine;2020;winter_barley;tillering;2020-01-28
+Nouvelle-Aquitaine;2020;winter_barley;kernel;2020-03-11
+Nouvelle-Aquitaine;2020;winter_barley;nodes_2;2020-04-02
+Nouvelle-Aquitaine;2020;winter_barley;heading;2020-04-21
+Nouvelle-Aquitaine;2020;winter_barley;harvest;2019-06-25
+Nouvelle-Aquitaine;2021;winter_barley;sowing;2020-10-22
+Nouvelle-Aquitaine;2021;winter_barley;emergence;2020-11-04
+Nouvelle-Aquitaine;2021;winter_barley;tillering;2020-12-14
+Nouvelle-Aquitaine;2021;winter_barley;kernel;2021-03-08
+Nouvelle-Aquitaine;2021;winter_barley;nodes_2;2021-04-02
+Nouvelle-Aquitaine;2021;winter_barley;heading;2021-04-26
+Nouvelle-Aquitaine;2021;winter_barley;harvest;2020-06-25
+Nouvelle-Aquitaine;2022;winter_barley;sowing;2021-10-21
+Nouvelle-Aquitaine;2022;winter_barley;emergence;2021-11-03
+Nouvelle-Aquitaine;2022;winter_barley;tillering;2022-01-01
+Nouvelle-Aquitaine;2022;winter_barley;kernel;2022-03-09
+Nouvelle-Aquitaine;2022;winter_barley;nodes_2;2022-04-04
+Nouvelle-Aquitaine;2022;winter_barley;heading;2022-04-20
+Nouvelle-Aquitaine;2022;winter_barley;harvest;2021-07-02
+Nouvelle-Aquitaine;2023;winter_barley;sowing;2022-10-21
+Nouvelle-Aquitaine;2023;winter_barley;emergence;2022-11-01
+Nouvelle-Aquitaine;2023;winter_barley;tillering;2022-12-15
+Nouvelle-Aquitaine;2023;winter_barley;kernel;2023-03-12
+Nouvelle-Aquitaine;2023;winter_barley;nodes_2;2023-04-03
+Nouvelle-Aquitaine;2023;winter_barley;heading;2023-04-24
+Nouvelle-Aquitaine;2023;winter_barley;harvest;2023-06-15
+Nouvelle-Aquitaine;2024;winter_barley;sowing;2023-11-19
+Nouvelle-Aquitaine;2024;winter_barley;emergence;2023-12-12
+Nouvelle-Aquitaine;2024;winter_barley;tillering;2024-01-14
+Nouvelle-Aquitaine;2024;winter_barley;kernel;2024-03-10
+Nouvelle-Aquitaine;2024;winter_barley;nodes_2;2024-04-02
+Nouvelle-Aquitaine;2024;winter_barley;heading;2024-04-27
+Nouvelle-Aquitaine;2024;winter_barley;harvest;2024-06-25
+Nouvelle-Aquitaine;2015;grain_maize;sowing;2015-04-15
+Nouvelle-Aquitaine;2015;grain_maize;emergence;2015-04-29
+Nouvelle-Aquitaine;2015;grain_maize;6_8_leaves;2015-05-22
+Nouvelle-Aquitaine;2015;grain_maize;female_flowering;2015-07-07
+Nouvelle-Aquitaine;2015;grain_maize;grain_moist_50;2015-08-24
+Nouvelle-Aquitaine;2015;grain_maize;harvest;2015-10-12
+Nouvelle-Aquitaine;2016;grain_maize;sowing;2016-04-29
+Nouvelle-Aquitaine;2016;grain_maize;emergence;2016-05-10
+Nouvelle-Aquitaine;2016;grain_maize;6_8_leaves;2016-06-01
+Nouvelle-Aquitaine;2016;grain_maize;female_flowering;2016-07-20
+Nouvelle-Aquitaine;2016;grain_maize;grain_moist_50;2016-08-31
+Nouvelle-Aquitaine;2016;grain_maize;harvest;2016-10-14
+Nouvelle-Aquitaine;2017;grain_maize;sowing;2017-04-14
+Nouvelle-Aquitaine;2017;grain_maize;emergence;2017-04-28
+Nouvelle-Aquitaine;2017;grain_maize;6_8_leaves;2017-05-24
+Nouvelle-Aquitaine;2017;grain_maize;female_flowering;2017-07-04
+Nouvelle-Aquitaine;2017;grain_maize;grain_moist_50;2017-08-25
+Nouvelle-Aquitaine;2017;grain_maize;harvest;2017-10-11
+Nouvelle-Aquitaine;2018;grain_maize;sowing;2018-04-28
+Nouvelle-Aquitaine;2018;grain_maize;emergence;2018-05-11
+Nouvelle-Aquitaine;2018;grain_maize;6_8_leaves;2018-05-31
+Nouvelle-Aquitaine;2018;grain_maize;female_flowering;2018-07-10
+Nouvelle-Aquitaine;2018;grain_maize;grain_moist_50;2018-08-25
+Nouvelle-Aquitaine;2018;grain_maize;harvest;2018-10-02
+Nouvelle-Aquitaine;2019;grain_maize;sowing;2019-04-16
+Nouvelle-Aquitaine;2019;grain_maize;emergence;2019-05-04
+Nouvelle-Aquitaine;2019;grain_maize;6_8_leaves;2019-05-30
+Nouvelle-Aquitaine;2019;grain_maize;female_flowering;2019-07-14
+Nouvelle-Aquitaine;2019;grain_maize;grain_moist_50;2019-08-27
+Nouvelle-Aquitaine;2019;grain_maize;harvest;2019-10-17
+Nouvelle-Aquitaine;2020;grain_maize;sowing;2020-04-15
+Nouvelle-Aquitaine;2020;grain_maize;emergence;2020-04-27
+Nouvelle-Aquitaine;2020;grain_maize;6_8_leaves;2020-05-22
+Nouvelle-Aquitaine;2020;grain_maize;female_flowering;2020-07-08
+Nouvelle-Aquitaine;2020;grain_maize;grain_moist_50;2020-08-25
+Nouvelle-Aquitaine;2020;grain_maize;harvest;2020-10-03
+Nouvelle-Aquitaine;2021;grain_maize;sowing;2021-04-15
+Nouvelle-Aquitaine;2021;grain_maize;emergence;2021-04-30
+Nouvelle-Aquitaine;2021;grain_maize;6_8_leaves;2021-05-27
+Nouvelle-Aquitaine;2021;grain_maize;female_flowering;2021-07-15
+Nouvelle-Aquitaine;2021;grain_maize;grain_moist_50;2021-08-30
+Nouvelle-Aquitaine;2021;grain_maize;harvest;2021-10-16
+Nouvelle-Aquitaine;2022;grain_maize;sowing;2022-04-20
+Nouvelle-Aquitaine;2022;grain_maize;emergence;2022-05-02
+Nouvelle-Aquitaine;2022;grain_maize;6_8_leaves;2022-05-22
+Nouvelle-Aquitaine;2022;grain_maize;female_flowering;2022-07-03
+Nouvelle-Aquitaine;2022;grain_maize;grain_moist_50;2022-08-10
+Nouvelle-Aquitaine;2022;grain_maize;harvest;2022-09-18
+Nouvelle-Aquitaine;2023;grain_maize;sowing;2023-04-25
+Nouvelle-Aquitaine;2023;grain_maize;emergence;2023-05-07
+Nouvelle-Aquitaine;2023;grain_maize;6_8_leaves;2023-05-27
+Nouvelle-Aquitaine;2023;grain_maize;female_flowering;2023-07-07
+Nouvelle-Aquitaine;2023;grain_maize;grain_moist_50;2023-08-26
+Nouvelle-Aquitaine;2023;grain_maize;harvest;2023-09-29
+Nouvelle-Aquitaine;2024;grain_maize;sowing;2024-04-25
+Nouvelle-Aquitaine;2024;grain_maize;emergence;2024-05-11
+Nouvelle-Aquitaine;2024;grain_maize;6_8_leaves;2024-06-10
+Nouvelle-Aquitaine;2024;grain_maize;female_flowering;2024-07-20
+Nouvelle-Aquitaine;2024;grain_maize;grain_moist_50;2024-09-06
+Nouvelle-Aquitaine;2024;grain_maize;harvest;2024-10-29
+Occitanie;2015;durum_wheat;sowing;2014-10-28
+Occitanie;2015;durum_wheat;emergence;2014-11-15
+Occitanie;2015;durum_wheat;tillering;2014-12-26
+Occitanie;2015;durum_wheat;kernel;2015-03-09
+Occitanie;2015;durum_wheat;nodes_2;2015-04-05
+Occitanie;2015;durum_wheat;heading;2015-04-30
+Occitanie;2015;durum_wheat;harvest;2015-06-27
+Occitanie;2016;durum_wheat;sowing;2015-10-26
+Occitanie;2016;durum_wheat;emergence;2015-11-09
+Occitanie;2016;durum_wheat;tillering;2015-12-23
+Occitanie;2016;durum_wheat;kernel;2016-02-10
+Occitanie;2016;durum_wheat;nodes_2;2016-03-28
+Occitanie;2016;durum_wheat;heading;2016-05-02
+Occitanie;2016;durum_wheat;harvest;2015-06-27
+Occitanie;2017;durum_wheat;sowing;2016-11-03
+Occitanie;2017;durum_wheat;emergence;2016-11-16
+Occitanie;2017;durum_wheat;tillering;2017-01-05
+Occitanie;2017;durum_wheat;kernel;2017-03-11
+Occitanie;2017;durum_wheat;nodes_2;2017-04-02
+Occitanie;2017;durum_wheat;heading;2017-04-27
+Occitanie;2017;durum_wheat;harvest;2016-07-06
+Occitanie;2018;durum_wheat;sowing;2017-10-31
+Occitanie;2018;durum_wheat;emergence;2017-11-19
+Occitanie;2018;durum_wheat;tillering;2018-01-16
+Occitanie;2018;durum_wheat;kernel;2018-03-19
+Occitanie;2018;durum_wheat;nodes_2;2018-04-11
+Occitanie;2018;durum_wheat;heading;2018-05-06
+Occitanie;2018;durum_wheat;harvest;2017-06-30
+Occitanie;2019;durum_wheat;sowing;2018-11-11
+Occitanie;2019;durum_wheat;emergence;2018-11-21
+Occitanie;2019;durum_wheat;tillering;2019-01-13
+Occitanie;2019;durum_wheat;kernel;2019-03-06
+Occitanie;2019;durum_wheat;nodes_2;2019-04-06
+Occitanie;2019;durum_wheat;heading;2019-05-01
+Occitanie;2019;durum_wheat;harvest;2018-07-07
+Occitanie;2020;durum_wheat;sowing;2019-12-12
+Occitanie;2020;durum_wheat;emergence;2019-12-24
+Occitanie;2020;durum_wheat;tillering;2020-01-27
+Occitanie;2020;durum_wheat;kernel;2020-03-15
+Occitanie;2020;durum_wheat;nodes_2;2020-04-11
+Occitanie;2020;durum_wheat;heading;2020-04-27
+Occitanie;2020;durum_wheat;harvest;2019-07-03
+Occitanie;2021;durum_wheat;sowing;2020-11-04
+Occitanie;2021;durum_wheat;emergence;2020-11-14
+Occitanie;2021;durum_wheat;tillering;2020-12-30
+Occitanie;2021;durum_wheat;kernel;2021-02-25
+Occitanie;2021;durum_wheat;nodes_2;2021-04-02
+Occitanie;2021;durum_wheat;heading;2021-05-01
+Occitanie;2021;durum_wheat;harvest;2020-07-01
+Occitanie;2022;durum_wheat;sowing;2021-11-08
+Occitanie;2022;durum_wheat;emergence;2021-11-18
+Occitanie;2022;durum_wheat;tillering;2022-01-09
+Occitanie;2022;durum_wheat;kernel;2022-03-18
+Occitanie;2022;durum_wheat;nodes_2;2022-04-09
+Occitanie;2022;durum_wheat;heading;2022-05-02
+Occitanie;2022;durum_wheat;harvest;2021-07-07
+Occitanie;2023;durum_wheat;sowing;2022-11-02
+Occitanie;2023;durum_wheat;emergence;2022-11-13
+Occitanie;2023;durum_wheat;tillering;2023-01-01
+Occitanie;2023;durum_wheat;kernel;2023-03-11
+Occitanie;2023;durum_wheat;nodes_2;2023-04-04
+Occitanie;2023;durum_wheat;heading;2023-04-30
+Occitanie;2023;durum_wheat;harvest;2022-06-25
+Occitanie;2024;durum_wheat;sowing;2023-11-17
+Occitanie;2024;durum_wheat;emergence;2023-12-01
+Occitanie;2024;durum_wheat;tillering;2024-01-16
+Occitanie;2024;durum_wheat;kernel;2024-03-01
+Occitanie;2024;durum_wheat;nodes_2;2024-03-28
+Occitanie;2024;durum_wheat;heading;2024-04-30
+Occitanie;2024;durum_wheat;harvest;2023-07-02
+Occitanie;2015;soft_wheat;sowing;2014-10-26
+Occitanie;2015;soft_wheat;emergence;2014-11-04
+Occitanie;2015;soft_wheat;tillering;2014-12-20
+Occitanie;2015;soft_wheat;kernel;2015-03-14
+Occitanie;2015;soft_wheat;nodes_2;2015-04-08
+Occitanie;2015;soft_wheat;heading;2015-04-30
+Occitanie;2015;soft_wheat;harvest;2015-06-27
+Occitanie;2016;soft_wheat;sowing;2015-10-25
+Occitanie;2016;soft_wheat;emergence;2015-11-07
+Occitanie;2016;soft_wheat;tillering;2015-12-21
+Occitanie;2016;soft_wheat;kernel;2016-02-23
+Occitanie;2016;soft_wheat;nodes_2;2016-03-30
+Occitanie;2016;soft_wheat;heading;2016-05-05
+Occitanie;2016;soft_wheat;harvest;2015-06-27
+Occitanie;2017;soft_wheat;sowing;2016-10-30
+Occitanie;2017;soft_wheat;emergence;2016-11-08
+Occitanie;2017;soft_wheat;tillering;2017-01-06
+Occitanie;2017;soft_wheat;kernel;2017-03-11
+Occitanie;2017;soft_wheat;nodes_2;2017-03-31
+Occitanie;2017;soft_wheat;heading;2017-04-30
+Occitanie;2017;soft_wheat;harvest;2016-07-08
+Occitanie;2018;soft_wheat;sowing;2017-10-27
+Occitanie;2018;soft_wheat;emergence;2017-11-14
+Occitanie;2018;soft_wheat;tillering;2018-01-04
+Occitanie;2018;soft_wheat;kernel;2018-03-18
+Occitanie;2018;soft_wheat;nodes_2;2018-04-10
+Occitanie;2018;soft_wheat;heading;2018-05-02
+Occitanie;2018;soft_wheat;harvest;2017-06-30
+Occitanie;2019;soft_wheat;sowing;2018-10-28
+Occitanie;2019;soft_wheat;emergence;2018-11-12
+Occitanie;2019;soft_wheat;tillering;2018-12-24
+Occitanie;2019;soft_wheat;kernel;2019-03-02
+Occitanie;2019;soft_wheat;nodes_2;2019-04-09
+Occitanie;2019;soft_wheat;heading;2019-05-04
+Occitanie;2019;soft_wheat;harvest;2018-07-06
+Occitanie;2020;soft_wheat;sowing;2019-11-29
+Occitanie;2020;soft_wheat;emergence;2019-12-07
+Occitanie;2020;soft_wheat;tillering;2020-01-27
+Occitanie;2020;soft_wheat;kernel;2020-03-10
+Occitanie;2020;soft_wheat;nodes_2;2020-04-01
+Occitanie;2020;soft_wheat;heading;2020-04-27
+Occitanie;2020;soft_wheat;harvest;2019-07-03
+Occitanie;2021;soft_wheat;sowing;2020-11-01
+Occitanie;2021;soft_wheat;emergence;2020-11-10
+Occitanie;2021;soft_wheat;tillering;2020-12-27
+Occitanie;2021;soft_wheat;kernel;2021-03-02
+Occitanie;2021;soft_wheat;nodes_2;2021-04-02
+Occitanie;2021;soft_wheat;heading;2021-04-27
+Occitanie;2021;soft_wheat;harvest;2020-06-29
+Occitanie;2022;soft_wheat;sowing;2021-10-27
+Occitanie;2022;soft_wheat;emergence;2021-11-11
+Occitanie;2022;soft_wheat;tillering;2022-01-01
+Occitanie;2022;soft_wheat;kernel;2022-03-06
+Occitanie;2022;soft_wheat;nodes_2;2022-04-01
+Occitanie;2022;soft_wheat;heading;2022-04-29
+Occitanie;2022;soft_wheat;harvest;2021-07-11
+Occitanie;2023;soft_wheat;sowing;2022-10-28
+Occitanie;2023;soft_wheat;emergence;2022-11-08
+Occitanie;2023;soft_wheat;tillering;2022-12-24
+Occitanie;2023;soft_wheat;kernel;2023-03-08
+Occitanie;2023;soft_wheat;nodes_2;2023-04-02
+Occitanie;2023;soft_wheat;heading;2023-04-29
+Occitanie;2023;soft_wheat;harvest;2022-06-24
+Occitanie;2024;soft_wheat;sowing;2023-11-11
+Occitanie;2024;soft_wheat;emergence;2023-11-20
+Occitanie;2024;soft_wheat;tillering;2024-01-19
+Occitanie;2024;soft_wheat;kernel;2024-03-02
+Occitanie;2024;soft_wheat;nodes_2;2024-03-29
+Occitanie;2024;soft_wheat;heading;2024-04-30
+Occitanie;2024;soft_wheat;harvest;2023-07-03
+Occitanie;2015;winter_barley;sowing;2014-10-23
+Occitanie;2015;winter_barley;emergence;2014-10-29
+Occitanie;2015;winter_barley;tillering;2014-12-10
+Occitanie;2015;winter_barley;kernel;2015-03-22
+Occitanie;2015;winter_barley;nodes_2;2015-04-09
+Occitanie;2015;winter_barley;heading;2015-04-22
+Occitanie;2015;winter_barley;harvest;2015-06-25
+Occitanie;2016;winter_barley;sowing;2015-10-20
+Occitanie;2016;winter_barley;emergence;2015-11-01
+Occitanie;2016;winter_barley;tillering;2015-12-08
+Occitanie;2016;winter_barley;kernel;2016-03-04
+Occitanie;2016;winter_barley;nodes_2;2016-04-09
+Occitanie;2016;winter_barley;heading;2016-04-29
+Occitanie;2016;winter_barley;harvest;2015-06-25
+Occitanie;2017;winter_barley;sowing;2016-10-26
+Occitanie;2017;winter_barley;emergence;2016-11-03
+Occitanie;2017;winter_barley;tillering;2016-12-20
+Occitanie;2017;winter_barley;kernel;2017-03-12
+Occitanie;2017;winter_barley;nodes_2;2017-04-02
+Occitanie;2017;winter_barley;heading;2017-04-22
+Occitanie;2017;winter_barley;harvest;2016-07-01
+Occitanie;2018;winter_barley;sowing;2017-10-24
+Occitanie;2018;winter_barley;emergence;2017-11-05
+Occitanie;2018;winter_barley;tillering;2017-12-09
+Occitanie;2018;winter_barley;kernel;2018-03-21
+Occitanie;2018;winter_barley;nodes_2;2018-04-12
+Occitanie;2018;winter_barley;heading;2018-04-29
+Occitanie;2018;winter_barley;harvest;2017-06-20
+Occitanie;2019;winter_barley;sowing;2018-10-27
+Occitanie;2019;winter_barley;emergence;2018-11-04
+Occitanie;2019;winter_barley;tillering;2018-12-04
+Occitanie;2019;winter_barley;kernel;2019-03-04
+Occitanie;2019;winter_barley;nodes_2;2019-04-06
+Occitanie;2019;winter_barley;heading;2019-04-27
+Occitanie;2019;winter_barley;harvest;2018-07-02
+Occitanie;2020;winter_barley;sowing;2019-10-28
+Occitanie;2020;winter_barley;emergence;2019-11-18
+Occitanie;2020;winter_barley;tillering;2019-12-31
+Occitanie;2020;winter_barley;kernel;2020-03-13
+Occitanie;2020;winter_barley;nodes_2;2020-04-03
+Occitanie;2020;winter_barley;heading;2020-04-22
+Occitanie;2020;winter_barley;harvest;2019-06-30
+Occitanie;2021;winter_barley;sowing;2020-10-25
+Occitanie;2021;winter_barley;emergence;2020-11-04
+Occitanie;2021;winter_barley;tillering;2020-11-28
+Occitanie;2021;winter_barley;kernel;2021-03-02
+Occitanie;2021;winter_barley;nodes_2;2021-03-31
+Occitanie;2021;winter_barley;heading;2021-04-26
+Occitanie;2021;winter_barley;harvest;2020-06-25
+Occitanie;2022;winter_barley;sowing;2021-10-25
+Occitanie;2022;winter_barley;emergence;2021-11-07
+Occitanie;2022;winter_barley;tillering;2021-12-15
+Occitanie;2022;winter_barley;kernel;2022-03-09
+Occitanie;2022;winter_barley;nodes_2;2022-04-01
+Occitanie;2022;winter_barley;heading;2022-04-23
+Occitanie;2022;winter_barley;harvest;2021-07-06
+Occitanie;2023;winter_barley;sowing;2022-10-23
+Occitanie;2023;winter_barley;emergence;2022-11-01
+Occitanie;2023;winter_barley;tillering;2022-11-27
+Occitanie;2023;winter_barley;kernel;2023-03-11
+Occitanie;2023;winter_barley;nodes_2;2023-04-03
+Occitanie;2023;winter_barley;heading;2023-04-25
+Occitanie;2023;winter_barley;harvest;2023-06-27
+Occitanie;2024;winter_barley;sowing;2023-10-30
+Occitanie;2024;winter_barley;emergence;2023-11-10
+Occitanie;2024;winter_barley;tillering;2024-01-05
+Occitanie;2024;winter_barley;kernel;2024-03-01
+Occitanie;2024;winter_barley;nodes_2;2024-03-27
+Occitanie;2024;winter_barley;heading;2024-04-20
+Occitanie;2024;winter_barley;harvest;2023-06-27
+Occitanie;2015;grain_maize;sowing;2015-04-14
+Occitanie;2015;grain_maize;emergence;2015-04-30
+Occitanie;2015;grain_maize;6_8_leaves;2015-05-29
+Occitanie;2015;grain_maize;female_flowering;2015-07-07
+Occitanie;2015;grain_maize;grain_moist_50;2015-08-26
+Occitanie;2015;grain_maize;harvest;2015-10-14
+Occitanie;2016;grain_maize;sowing;2016-04-27
+Occitanie;2016;grain_maize;emergence;2016-05-09
+Occitanie;2016;grain_maize;6_8_leaves;2016-06-09
+Occitanie;2016;grain_maize;female_flowering;2016-07-18
+Occitanie;2016;grain_maize;grain_moist_50;2016-08-29
+Occitanie;2016;grain_maize;harvest;2016-10-18
+Occitanie;2017;grain_maize;sowing;2017-04-10
+Occitanie;2017;grain_maize;emergence;2017-04-20
+Occitanie;2017;grain_maize;6_8_leaves;2017-05-23
+Occitanie;2017;grain_maize;female_flowering;2017-07-05
+Occitanie;2017;grain_maize;grain_moist_50;2017-08-18
+Occitanie;2017;grain_maize;harvest;2017-10-09
+Occitanie;2018;grain_maize;sowing;2018-04-25
+Occitanie;2018;grain_maize;emergence;2018-05-10
+Occitanie;2018;grain_maize;6_8_leaves;2018-06-03
+Occitanie;2018;grain_maize;female_flowering;2018-07-12
+Occitanie;2018;grain_maize;grain_moist_50;2018-08-27
+Occitanie;2018;grain_maize;harvest;2018-10-11
+Occitanie;2019;grain_maize;sowing;2019-04-21
+Occitanie;2019;grain_maize;emergence;2019-05-05
+Occitanie;2019;grain_maize;6_8_leaves;2019-06-07
+Occitanie;2019;grain_maize;female_flowering;2019-07-16
+Occitanie;2019;grain_maize;grain_moist_50;2019-08-22
+Occitanie;2019;grain_maize;harvest;2019-10-15
+Occitanie;2020;grain_maize;sowing;2020-04-20
+Occitanie;2020;grain_maize;emergence;2020-04-30
+Occitanie;2020;grain_maize;6_8_leaves;2020-05-30
+Occitanie;2020;grain_maize;female_flowering;2020-07-09
+Occitanie;2020;grain_maize;grain_moist_50;2020-08-17
+Occitanie;2020;grain_maize;harvest;2020-10-09
+Occitanie;2021;grain_maize;sowing;2021-04-11
+Occitanie;2021;grain_maize;emergence;2021-04-23
+Occitanie;2021;grain_maize;6_8_leaves;2021-05-30
+Occitanie;2021;grain_maize;female_flowering;2021-07-11
+Occitanie;2021;grain_maize;grain_moist_50;2021-08-30
+Occitanie;2021;grain_maize;harvest;2021-10-15
+Occitanie;2022;grain_maize;sowing;2022-04-20
+Occitanie;2022;grain_maize;emergence;2022-04-30
+Occitanie;2022;grain_maize;6_8_leaves;2022-05-28
+Occitanie;2022;grain_maize;female_flowering;2022-07-03
+Occitanie;2022;grain_maize;grain_moist_50;2022-08-11
+Occitanie;2022;grain_maize;harvest;2022-09-17
+Occitanie;2023;grain_maize;sowing;2023-04-12
+Occitanie;2023;grain_maize;emergence;2023-04-26
+Occitanie;2023;grain_maize;6_8_leaves;2023-05-31
+Occitanie;2023;grain_maize;female_flowering;2023-07-03
+Occitanie;2023;grain_maize;grain_moist_50;2023-08-23
+Occitanie;2023;grain_maize;harvest;2023-10-04
+Occitanie;2024;grain_maize;sowing;2024-04-19
+Occitanie;2024;grain_maize;emergence;2024-05-14
+Occitanie;2024;grain_maize;6_8_leaves;2024-06-11
+Occitanie;2024;grain_maize;female_flowering;2024-07-11
+Occitanie;2024;grain_maize;grain_moist_50;2024-08-25
+Occitanie;2024;grain_maize;harvest;2024-10-21
+Pays-de-la-Loire;2015;durum_wheat;sowing;2014-11-27
+Pays-de-la-Loire;2015;durum_wheat;emergence;2014-12-06
+Pays-de-la-Loire;2015;durum_wheat;tillering;2015-02-02
+Pays-de-la-Loire;2015;durum_wheat;kernel;2015-03-19
+Pays-de-la-Loire;2015;durum_wheat;nodes_2;2015-04-14
+Pays-de-la-Loire;2015;durum_wheat;heading;2015-05-01
+Pays-de-la-Loire;2015;durum_wheat;harvest;2015-07-06
+Pays-de-la-Loire;2016;durum_wheat;sowing;2015-11-04
+Pays-de-la-Loire;2016;durum_wheat;emergence;2015-11-13
+Pays-de-la-Loire;2016;durum_wheat;tillering;2015-11-25
+Pays-de-la-Loire;2016;durum_wheat;kernel;2016-02-18
+Pays-de-la-Loire;2016;durum_wheat;nodes_2;2016-04-04
+Pays-de-la-Loire;2016;durum_wheat;heading;2016-05-07
+Pays-de-la-Loire;2016;durum_wheat;harvest;2015-07-06
+Pays-de-la-Loire;2017;durum_wheat;sowing;2016-11-15
+Pays-de-la-Loire;2017;durum_wheat;emergence;2016-11-24
+Pays-de-la-Loire;2017;durum_wheat;tillering;2017-02-06
+Pays-de-la-Loire;2017;durum_wheat;kernel;2017-03-18
+Pays-de-la-Loire;2017;durum_wheat;nodes_2;2017-04-09
+Pays-de-la-Loire;2017;durum_wheat;heading;2017-05-06
+Pays-de-la-Loire;2017;durum_wheat;harvest;2016-07-10
+Pays-de-la-Loire;2018;durum_wheat;sowing;2017-11-28
+Pays-de-la-Loire;2018;durum_wheat;emergence;2017-12-30
+Pays-de-la-Loire;2018;durum_wheat;tillering;2018-01-30
+Pays-de-la-Loire;2018;durum_wheat;kernel;2018-03-28
+Pays-de-la-Loire;2018;durum_wheat;nodes_2;2018-04-10
+Pays-de-la-Loire;2018;durum_wheat;heading;2018-05-07
+Pays-de-la-Loire;2018;durum_wheat;harvest;2017-07-06
+Pays-de-la-Loire;2019;durum_wheat;sowing;2018-11-17
+Pays-de-la-Loire;2019;durum_wheat;emergence;2018-11-23
+Pays-de-la-Loire;2019;durum_wheat;tillering;2019-01-28
+Pays-de-la-Loire;2019;durum_wheat;kernel;2019-03-08
+Pays-de-la-Loire;2019;durum_wheat;nodes_2;2019-03-29
+Pays-de-la-Loire;2019;durum_wheat;heading;2019-05-05
+Pays-de-la-Loire;2019;durum_wheat;harvest;2018-07-08
+Pays-de-la-Loire;2020;durum_wheat;sowing;2020-02-15
+Pays-de-la-Loire;2020;durum_wheat;emergence;2020-02-19
+Pays-de-la-Loire;2020;durum_wheat;tillering;2020-02-22
+Pays-de-la-Loire;2020;durum_wheat;kernel;2020-03-22
+Pays-de-la-Loire;2020;durum_wheat;nodes_2;2020-04-14
+Pays-de-la-Loire;2020;durum_wheat;heading;2020-05-04
+Pays-de-la-Loire;2020;durum_wheat;harvest;2019-07-05
+Pays-de-la-Loire;2021;durum_wheat;sowing;2020-11-20
+Pays-de-la-Loire;2021;durum_wheat;emergence;2020-11-29
+Pays-de-la-Loire;2021;durum_wheat;tillering;2021-01-12
+Pays-de-la-Loire;2021;durum_wheat;kernel;2021-03-09
+Pays-de-la-Loire;2021;durum_wheat;nodes_2;2021-04-10
+Pays-de-la-Loire;2021;durum_wheat;heading;2021-05-02
+Pays-de-la-Loire;2021;durum_wheat;harvest;2020-07-05
+Pays-de-la-Loire;2022;durum_wheat;sowing;2021-11-13
+Pays-de-la-Loire;2022;durum_wheat;emergence;2021-12-08
+Pays-de-la-Loire;2022;durum_wheat;tillering;2021-12-30
+Pays-de-la-Loire;2022;durum_wheat;kernel;2022-03-12
+Pays-de-la-Loire;2022;durum_wheat;nodes_2;2022-03-31
+Pays-de-la-Loire;2022;durum_wheat;heading;2022-05-01
+Pays-de-la-Loire;2022;durum_wheat;harvest;2021-07-06
+Pays-de-la-Loire;2023;durum_wheat;sowing;2022-11-06
+Pays-de-la-Loire;2023;durum_wheat;emergence;2022-11-16
+Pays-de-la-Loire;2023;durum_wheat;tillering;2023-01-06
+Pays-de-la-Loire;2023;durum_wheat;kernel;2023-03-14
+Pays-de-la-Loire;2023;durum_wheat;nodes_2;2023-04-03
+Pays-de-la-Loire;2023;durum_wheat;heading;2023-05-01
+Pays-de-la-Loire;2023;durum_wheat;harvest;2022-06-22
+Pays-de-la-Loire;2024;durum_wheat;sowing;2024-03-14
+Pays-de-la-Loire;2024;durum_wheat;emergence;2024-03-14
+Pays-de-la-Loire;2024;durum_wheat;tillering;2024-04-06
+Pays-de-la-Loire;2024;durum_wheat;kernel;2024-04-02
+Pays-de-la-Loire;2024;durum_wheat;nodes_2;2024-04-23
+Pays-de-la-Loire;2024;durum_wheat;heading;2024-05-12
+Pays-de-la-Loire;2024;durum_wheat;harvest;2023-06-29
+Pays-de-la-Loire;2015;soft_wheat;sowing;2014-10-19
+Pays-de-la-Loire;2015;soft_wheat;emergence;2014-10-27
+Pays-de-la-Loire;2015;soft_wheat;tillering;2014-11-22
+Pays-de-la-Loire;2015;soft_wheat;kernel;2015-03-09
+Pays-de-la-Loire;2015;soft_wheat;nodes_2;2015-04-07
+Pays-de-la-Loire;2015;soft_wheat;heading;2015-05-05
+Pays-de-la-Loire;2015;soft_wheat;harvest;2015-07-08
+Pays-de-la-Loire;2016;soft_wheat;sowing;2015-10-17
+Pays-de-la-Loire;2016;soft_wheat;emergence;2015-10-28
+Pays-de-la-Loire;2016;soft_wheat;tillering;2015-11-19
+Pays-de-la-Loire;2016;soft_wheat;kernel;2016-02-26
+Pays-de-la-Loire;2016;soft_wheat;nodes_2;2016-04-05
+Pays-de-la-Loire;2016;soft_wheat;heading;2016-05-09
+Pays-de-la-Loire;2016;soft_wheat;harvest;2015-07-08
+Pays-de-la-Loire;2017;soft_wheat;sowing;2016-10-20
+Pays-de-la-Loire;2017;soft_wheat;emergence;2016-10-30
+Pays-de-la-Loire;2017;soft_wheat;tillering;2016-12-23
+Pays-de-la-Loire;2017;soft_wheat;kernel;2017-03-13
+Pays-de-la-Loire;2017;soft_wheat;nodes_2;2017-04-04
+Pays-de-la-Loire;2017;soft_wheat;heading;2017-05-07
+Pays-de-la-Loire;2017;soft_wheat;harvest;2016-07-17
+Pays-de-la-Loire;2018;soft_wheat;sowing;2017-10-19
+Pays-de-la-Loire;2018;soft_wheat;emergence;2017-10-26
+Pays-de-la-Loire;2018;soft_wheat;tillering;2017-11-27
+Pays-de-la-Loire;2018;soft_wheat;kernel;2018-03-11
+Pays-de-la-Loire;2018;soft_wheat;nodes_2;2018-04-06
+Pays-de-la-Loire;2018;soft_wheat;heading;2018-05-04
+Pays-de-la-Loire;2018;soft_wheat;harvest;2017-07-07
+Pays-de-la-Loire;2019;soft_wheat;sowing;2018-10-24
+Pays-de-la-Loire;2019;soft_wheat;emergence;2018-11-07
+Pays-de-la-Loire;2019;soft_wheat;tillering;2018-12-26
+Pays-de-la-Loire;2019;soft_wheat;kernel;2019-03-09
+Pays-de-la-Loire;2019;soft_wheat;nodes_2;2019-04-03
+Pays-de-la-Loire;2019;soft_wheat;heading;2019-05-08
+Pays-de-la-Loire;2019;soft_wheat;harvest;2018-07-08
+Pays-de-la-Loire;2020;soft_wheat;sowing;2019-10-27
+Pays-de-la-Loire;2020;soft_wheat;emergence;2019-11-10
+Pays-de-la-Loire;2020;soft_wheat;tillering;2020-01-03
+Pays-de-la-Loire;2020;soft_wheat;kernel;2020-03-11
+Pays-de-la-Loire;2020;soft_wheat;nodes_2;2020-04-01
+Pays-de-la-Loire;2020;soft_wheat;heading;2020-04-26
+Pays-de-la-Loire;2020;soft_wheat;harvest;2019-07-09
+Pays-de-la-Loire;2021;soft_wheat;sowing;2020-10-18
+Pays-de-la-Loire;2021;soft_wheat;emergence;2020-10-30
+Pays-de-la-Loire;2021;soft_wheat;tillering;2020-12-08
+Pays-de-la-Loire;2021;soft_wheat;kernel;2021-03-04
+Pays-de-la-Loire;2021;soft_wheat;nodes_2;2021-03-31
+Pays-de-la-Loire;2021;soft_wheat;heading;2021-05-09
+Pays-de-la-Loire;2021;soft_wheat;harvest;2020-07-10
+Pays-de-la-Loire;2022;soft_wheat;sowing;2021-10-20
+Pays-de-la-Loire;2022;soft_wheat;emergence;2021-11-02
+Pays-de-la-Loire;2022;soft_wheat;tillering;2022-01-01
+Pays-de-la-Loire;2022;soft_wheat;kernel;2022-03-04
+Pays-de-la-Loire;2022;soft_wheat;nodes_2;2022-04-03
+Pays-de-la-Loire;2022;soft_wheat;heading;2022-05-02
+Pays-de-la-Loire;2022;soft_wheat;harvest;2021-07-16
+Pays-de-la-Loire;2023;soft_wheat;sowing;2022-10-21
+Pays-de-la-Loire;2023;soft_wheat;emergence;2022-10-30
+Pays-de-la-Loire;2023;soft_wheat;tillering;2022-12-16
+Pays-de-la-Loire;2023;soft_wheat;kernel;2023-03-06
+Pays-de-la-Loire;2023;soft_wheat;nodes_2;2023-03-29
+Pays-de-la-Loire;2023;soft_wheat;heading;2023-05-05
+Pays-de-la-Loire;2023;soft_wheat;harvest;2022-07-04
+Pays-de-la-Loire;2024;soft_wheat;sowing;2023-11-05
+Pays-de-la-Loire;2024;soft_wheat;emergence;2023-11-25
+Pays-de-la-Loire;2024;soft_wheat;tillering;2024-01-20
+Pays-de-la-Loire;2024;soft_wheat;kernel;2024-03-10
+Pays-de-la-Loire;2024;soft_wheat;nodes_2;2024-03-26
+Pays-de-la-Loire;2024;soft_wheat;heading;2024-05-05
+Pays-de-la-Loire;2024;soft_wheat;harvest;2023-07-08
+Pays-de-la-Loire;2015;winter_barley;sowing;2014-10-16
+Pays-de-la-Loire;2015;winter_barley;emergence;2014-10-23
+Pays-de-la-Loire;2015;winter_barley;tillering;2014-11-17
+Pays-de-la-Loire;2015;winter_barley;kernel;2015-03-14
+Pays-de-la-Loire;2015;winter_barley;nodes_2;2015-04-06
+Pays-de-la-Loire;2015;winter_barley;heading;2015-04-25
+Pays-de-la-Loire;2015;winter_barley;harvest;2015-06-25
+Pays-de-la-Loire;2016;winter_barley;sowing;2015-10-14
+Pays-de-la-Loire;2016;winter_barley;emergence;2015-10-26
+Pays-de-la-Loire;2016;winter_barley;tillering;2015-11-17
+Pays-de-la-Loire;2016;winter_barley;kernel;2016-02-29
+Pays-de-la-Loire;2016;winter_barley;nodes_2;2016-04-06
+Pays-de-la-Loire;2016;winter_barley;heading;2016-05-02
+Pays-de-la-Loire;2016;winter_barley;harvest;2015-06-25
+Pays-de-la-Loire;2017;winter_barley;sowing;2016-10-18
+Pays-de-la-Loire;2017;winter_barley;emergence;2016-10-29
+Pays-de-la-Loire;2017;winter_barley;tillering;2016-12-20
+Pays-de-la-Loire;2017;winter_barley;kernel;2017-03-14
+Pays-de-la-Loire;2017;winter_barley;nodes_2;2017-04-03
+Pays-de-la-Loire;2017;winter_barley;heading;2017-04-24
+Pays-de-la-Loire;2017;winter_barley;harvest;2016-07-05
+Pays-de-la-Loire;2018;winter_barley;sowing;2017-10-17
+Pays-de-la-Loire;2018;winter_barley;emergence;2017-10-24
+Pays-de-la-Loire;2018;winter_barley;tillering;2017-11-23
+Pays-de-la-Loire;2018;winter_barley;kernel;2018-03-17
+Pays-de-la-Loire;2018;winter_barley;nodes_2;2018-04-09
+Pays-de-la-Loire;2018;winter_barley;heading;2018-04-27
+Pays-de-la-Loire;2018;winter_barley;harvest;2017-06-21
+Pays-de-la-Loire;2019;winter_barley;sowing;2018-10-23
+Pays-de-la-Loire;2019;winter_barley;emergence;2018-11-05
+Pays-de-la-Loire;2019;winter_barley;tillering;2018-12-27
+Pays-de-la-Loire;2019;winter_barley;kernel;2019-03-11
+Pays-de-la-Loire;2019;winter_barley;nodes_2;2019-04-01
+Pays-de-la-Loire;2019;winter_barley;heading;2019-04-24
+Pays-de-la-Loire;2019;winter_barley;harvest;2018-06-25
+Pays-de-la-Loire;2020;winter_barley;sowing;2019-10-26
+Pays-de-la-Loire;2020;winter_barley;emergence;2019-11-09
+Pays-de-la-Loire;2020;winter_barley;tillering;2020-01-01
+Pays-de-la-Loire;2020;winter_barley;kernel;2020-03-13
+Pays-de-la-Loire;2020;winter_barley;nodes_2;2020-04-01
+Pays-de-la-Loire;2020;winter_barley;heading;2020-04-22
+Pays-de-la-Loire;2020;winter_barley;harvest;2019-06-30
+Pays-de-la-Loire;2021;winter_barley;sowing;2020-10-18
+Pays-de-la-Loire;2021;winter_barley;emergence;2020-10-30
+Pays-de-la-Loire;2021;winter_barley;tillering;2020-11-28
+Pays-de-la-Loire;2021;winter_barley;kernel;2021-03-06
+Pays-de-la-Loire;2021;winter_barley;nodes_2;2021-03-31
+Pays-de-la-Loire;2021;winter_barley;heading;2021-05-02
+Pays-de-la-Loire;2021;winter_barley;harvest;2020-06-30
+Pays-de-la-Loire;2022;winter_barley;sowing;2021-10-19
+Pays-de-la-Loire;2022;winter_barley;emergence;2021-11-01
+Pays-de-la-Loire;2022;winter_barley;tillering;2021-12-31
+Pays-de-la-Loire;2022;winter_barley;kernel;2022-03-06
+Pays-de-la-Loire;2022;winter_barley;nodes_2;2022-04-04
+Pays-de-la-Loire;2022;winter_barley;heading;2022-04-27
+Pays-de-la-Loire;2022;winter_barley;harvest;2021-07-04
+Pays-de-la-Loire;2023;winter_barley;sowing;2022-10-18
+Pays-de-la-Loire;2023;winter_barley;emergence;2022-10-26
+Pays-de-la-Loire;2023;winter_barley;tillering;2022-12-05
+Pays-de-la-Loire;2023;winter_barley;kernel;2023-03-07
+Pays-de-la-Loire;2023;winter_barley;nodes_2;2023-03-30
+Pays-de-la-Loire;2023;winter_barley;heading;2023-04-28
+Pays-de-la-Loire;2023;winter_barley;harvest;2023-06-20
+Pays-de-la-Loire;2024;winter_barley;sowing;2023-10-30
+Pays-de-la-Loire;2024;winter_barley;emergence;2023-11-17
+Pays-de-la-Loire;2024;winter_barley;tillering;2024-01-13
+Pays-de-la-Loire;2024;winter_barley;kernel;2024-03-12
+Pays-de-la-Loire;2024;winter_barley;nodes_2;2024-03-28
+Pays-de-la-Loire;2024;winter_barley;heading;2024-04-21
+Pays-de-la-Loire;2024;winter_barley;harvest;2023-06-20
+Pays-de-la-Loire;2015;grain_maize;sowing;2015-04-16
+Pays-de-la-Loire;2015;grain_maize;emergence;2015-04-30
+Pays-de-la-Loire;2015;grain_maize;6_8_leaves;2015-05-23
+Pays-de-la-Loire;2015;grain_maize;female_flowering;2015-07-08
+Pays-de-la-Loire;2015;grain_maize;grain_moist_50;2015-08-28
+Pays-de-la-Loire;2015;grain_maize;harvest;2015-10-15
+Pays-de-la-Loire;2016;grain_maize;sowing;2016-04-30
+Pays-de-la-Loire;2016;grain_maize;emergence;2016-05-12
+Pays-de-la-Loire;2016;grain_maize;6_8_leaves;2016-06-03
+Pays-de-la-Loire;2016;grain_maize;female_flowering;2016-07-23
+Pays-de-la-Loire;2016;grain_maize;grain_moist_50;2016-09-08
+Pays-de-la-Loire;2016;grain_maize;harvest;2016-10-18
+Pays-de-la-Loire;2017;grain_maize;sowing;2017-04-12
+Pays-de-la-Loire;2017;grain_maize;emergence;2017-04-28
+Pays-de-la-Loire;2017;grain_maize;6_8_leaves;2017-05-26
+Pays-de-la-Loire;2017;grain_maize;female_flowering;2017-07-08
+Pays-de-la-Loire;2017;grain_maize;grain_moist_50;2017-08-31
+Pays-de-la-Loire;2017;grain_maize;harvest;2017-10-11
+Pays-de-la-Loire;2018;grain_maize;sowing;2018-04-29
+Pays-de-la-Loire;2018;grain_maize;emergence;2018-05-10
+Pays-de-la-Loire;2018;grain_maize;6_8_leaves;2018-05-25
+Pays-de-la-Loire;2018;grain_maize;female_flowering;2018-07-12
+Pays-de-la-Loire;2018;grain_maize;grain_moist_50;2018-08-24
+Pays-de-la-Loire;2018;grain_maize;harvest;2018-09-28
+Pays-de-la-Loire;2019;grain_maize;sowing;2019-04-17
+Pays-de-la-Loire;2019;grain_maize;emergence;2019-05-03
+Pays-de-la-Loire;2019;grain_maize;6_8_leaves;2019-05-29
+Pays-de-la-Loire;2019;grain_maize;female_flowering;2019-07-18
+Pays-de-la-Loire;2019;grain_maize;grain_moist_50;2019-08-27
+Pays-de-la-Loire;2019;grain_maize;harvest;2019-10-16
+Pays-de-la-Loire;2020;grain_maize;sowing;2020-04-21
+Pays-de-la-Loire;2020;grain_maize;emergence;2020-05-02
+Pays-de-la-Loire;2020;grain_maize;6_8_leaves;2020-05-23
+Pays-de-la-Loire;2020;grain_maize;female_flowering;2020-07-10
+Pays-de-la-Loire;2020;grain_maize;grain_moist_50;2020-08-23
+Pays-de-la-Loire;2020;grain_maize;harvest;2020-09-26
+Pays-de-la-Loire;2021;grain_maize;sowing;2021-04-19
+Pays-de-la-Loire;2021;grain_maize;emergence;2021-05-03
+Pays-de-la-Loire;2021;grain_maize;6_8_leaves;2021-05-31
+Pays-de-la-Loire;2021;grain_maize;female_flowering;2021-07-19
+Pays-de-la-Loire;2021;grain_maize;grain_moist_50;2021-09-09
+Pays-de-la-Loire;2021;grain_maize;harvest;2021-10-15
+Pays-de-la-Loire;2022;grain_maize;sowing;2022-04-18
+Pays-de-la-Loire;2022;grain_maize;emergence;2022-04-28
+Pays-de-la-Loire;2022;grain_maize;6_8_leaves;2022-05-22
+Pays-de-la-Loire;2022;grain_maize;female_flowering;2022-07-06
+Pays-de-la-Loire;2022;grain_maize;grain_moist_50;2022-08-12
+Pays-de-la-Loire;2022;grain_maize;harvest;2022-09-26
+Pays-de-la-Loire;2023;grain_maize;sowing;2023-04-24
+Pays-de-la-Loire;2023;grain_maize;emergence;2023-05-08
+Pays-de-la-Loire;2023;grain_maize;6_8_leaves;2023-05-29
+Pays-de-la-Loire;2023;grain_maize;female_flowering;2023-07-12
+Pays-de-la-Loire;2023;grain_maize;grain_moist_50;2023-08-27
+Pays-de-la-Loire;2023;grain_maize;harvest;2023-10-04
+Pays-de-la-Loire;2024;grain_maize;sowing;2024-05-08
+Pays-de-la-Loire;2024;grain_maize;emergence;2024-05-22
+Pays-de-la-Loire;2024;grain_maize;6_8_leaves;2024-06-17
+Pays-de-la-Loire;2024;grain_maize;female_flowering;2024-07-29
+Pays-de-la-Loire;2024;grain_maize;grain_moist_50;2024-10-04
+Pays-de-la-Loire;2024;grain_maize;harvest;2024-11-02
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;sowing;2014-10-23
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;emergence;2014-11-06
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;tillering;2014-11-29
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;kernel;2015-03-07
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;nodes_2;2015-04-04
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;heading;2015-04-26
+Provence-Alpes-Côte d'Azur;2015;durum_wheat;harvest;2015-06-29
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;sowing;2015-10-25
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;emergence;2015-11-04
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;tillering;2015-12-15
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;kernel;2016-02-15
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;nodes_2;2016-03-22
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;heading;2016-04-25
+Provence-Alpes-Côte d'Azur;2016;durum_wheat;harvest;2015-06-29
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;sowing;2016-10-28
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;emergence;2016-11-11
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;tillering;2016-12-27
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;kernel;2017-03-08
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;nodes_2;2017-03-30
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;heading;2017-04-26
+Provence-Alpes-Côte d'Azur;2017;durum_wheat;harvest;2016-06-30
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;sowing;2017-11-06
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;emergence;2017-12-07
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;tillering;2018-01-27
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;kernel;2018-03-14
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;nodes_2;2018-04-13
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;heading;2018-05-01
+Provence-Alpes-Côte d'Azur;2018;durum_wheat;harvest;2017-06-29
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;sowing;2018-11-19
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;emergence;2018-11-30
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;tillering;2019-02-15
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;kernel;2019-03-20
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;nodes_2;2019-04-11
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;heading;2019-04-25
+Provence-Alpes-Côte d'Azur;2019;durum_wheat;harvest;2018-07-07
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;sowing;2019-11-22
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;emergence;2019-12-04
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;tillering;2020-01-12
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;kernel;2020-02-16
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;nodes_2;2020-03-25
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;heading;2020-04-25
+Provence-Alpes-Côte d'Azur;2020;durum_wheat;harvest;2019-07-03
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;sowing;2020-10-22
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;emergence;2020-11-04
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;tillering;2020-12-12
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;kernel;2021-02-25
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;nodes_2;2021-03-22
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;heading;2021-04-26
+Provence-Alpes-Côte d'Azur;2021;durum_wheat;harvest;2020-06-30
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;sowing;2021-10-25
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;emergence;2021-11-16
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;tillering;2022-01-17
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;kernel;2022-03-06
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;nodes_2;2022-04-06
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;heading;2022-04-30
+Provence-Alpes-Côte d'Azur;2022;durum_wheat;harvest;2021-07-04
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;sowing;2022-10-26
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;emergence;2022-11-08
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;tillering;2023-01-27
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;kernel;2023-02-24
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;nodes_2;2023-03-28
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;heading;2023-04-27
+Provence-Alpes-Côte d'Azur;2023;durum_wheat;harvest;2022-06-26
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;sowing;2023-10-22
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;emergence;2023-11-02
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;tillering;2023-12-25
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;kernel;2024-02-09
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;nodes_2;2024-03-11
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;heading;2024-04-16
+Provence-Alpes-Côte d'Azur;2024;durum_wheat;harvest;2023-07-01
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;sowing;2014-10-12
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;emergence;2014-10-31
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;tillering;2014-11-19
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;kernel;2015-03-16
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;nodes_2;2015-04-06
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;heading;2015-04-30
+Provence-Alpes-Côte d'Azur;2015;soft_wheat;harvest;2015-07-06
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;sowing;2015-10-19
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;emergence;2015-10-26
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;tillering;2015-11-24
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;kernel;2016-02-23
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;nodes_2;2016-04-03
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;heading;2016-05-04
+Provence-Alpes-Côte d'Azur;2016;soft_wheat;harvest;2015-07-06
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;sowing;2016-10-18
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;emergence;2016-11-02
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;tillering;2016-12-12
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;kernel;2017-03-12
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;nodes_2;2017-04-06
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;heading;2017-05-06
+Provence-Alpes-Côte d'Azur;2017;soft_wheat;harvest;2016-07-10
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;sowing;2017-10-18
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;emergence;2017-12-20
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;tillering;2018-02-03
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;kernel;2018-04-05
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;nodes_2;2018-04-26
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;heading;2018-05-07
+Provence-Alpes-Côte d'Azur;2018;soft_wheat;harvest;2017-07-07
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;sowing;2018-10-21
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;emergence;2018-11-04
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;tillering;2018-12-27
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;kernel;2019-03-20
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;nodes_2;2019-04-12
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;heading;2019-05-06
+Provence-Alpes-Côte d'Azur;2019;soft_wheat;harvest;2018-07-12
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;sowing;2019-10-22
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;emergence;2019-11-07
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;tillering;2020-01-03
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;kernel;2020-02-19
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;nodes_2;2020-04-01
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;heading;2020-04-29
+Provence-Alpes-Côte d'Azur;2020;soft_wheat;harvest;2019-07-10
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;sowing;2020-10-16
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;emergence;2020-10-27
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;tillering;2020-12-02
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;kernel;2021-03-02
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;nodes_2;2021-03-29
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;heading;2021-05-08
+Provence-Alpes-Côte d'Azur;2021;soft_wheat;harvest;2020-07-07
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;sowing;2021-10-28
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;emergence;2021-11-07
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;tillering;2022-01-20
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;kernel;2022-03-31
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;nodes_2;2022-04-26
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;heading;2022-05-08
+Provence-Alpes-Côte d'Azur;2022;soft_wheat;harvest;2021-07-06
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;sowing;2022-10-31
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;emergence;2022-11-20
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;tillering;2023-01-09
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;kernel;2023-03-21
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;nodes_2;2023-04-13
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;heading;2023-05-08
+Provence-Alpes-Côte d'Azur;2023;soft_wheat;harvest;2022-07-05
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;sowing;2023-10-21
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;emergence;2023-11-09
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;tillering;2024-02-04
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;kernel;2024-03-15
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;nodes_2;2024-04-03
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;heading;2024-05-04
+Provence-Alpes-Côte d'Azur;2024;soft_wheat;harvest;2023-07-12
+Bourgogne-Franche-Comté;2015;soft_wheat;sowing;2014-10-01
+Bourgogne-Franche-Comté;2015;soft_wheat;emergence;2014-10-12
+Bourgogne-Franche-Comté;2015;soft_wheat;tillering;2014-11-08
+Bourgogne-Franche-Comté;2015;soft_wheat;kernel;2015-03-21
+Bourgogne-Franche-Comté;2015;soft_wheat;nodes_2;2015-04-14
+Bourgogne-Franche-Comté;2015;soft_wheat;heading;2015-05-10
+Bourgogne-Franche-Comté;2015;soft_wheat;harvest;2015-07-06
+Bourgogne-Franche-Comté;2016;soft_wheat;sowing;2015-09-30
+Bourgogne-Franche-Comté;2016;soft_wheat;emergence;2015-10-13
+Bourgogne-Franche-Comté;2016;soft_wheat;tillering;2015-11-13
+Bourgogne-Franche-Comté;2016;soft_wheat;kernel;2016-03-16
+Bourgogne-Franche-Comté;2016;soft_wheat;nodes_2;2016-04-11
+Bourgogne-Franche-Comté;2016;soft_wheat;heading;2016-05-16
+Bourgogne-Franche-Comté;2016;soft_wheat;harvest;2015-07-06
+Bourgogne-Franche-Comté;2017;soft_wheat;sowing;2016-10-04
+Bourgogne-Franche-Comté;2017;soft_wheat;emergence;2016-10-19
+Bourgogne-Franche-Comté;2017;soft_wheat;tillering;2016-11-27
+Bourgogne-Franche-Comté;2017;soft_wheat;kernel;2017-03-20
+Bourgogne-Franche-Comté;2017;soft_wheat;nodes_2;2017-04-11
+Bourgogne-Franche-Comté;2017;soft_wheat;heading;2017-05-15
+Bourgogne-Franche-Comté;2017;soft_wheat;harvest;2016-07-20
+Bourgogne-Franche-Comté;2018;soft_wheat;sowing;2017-10-07
+Bourgogne-Franche-Comté;2018;soft_wheat;emergence;2017-10-16
+Bourgogne-Franche-Comté;2018;soft_wheat;tillering;2017-11-16
+Bourgogne-Franche-Comté;2018;soft_wheat;kernel;2018-03-19
+Bourgogne-Franche-Comté;2018;soft_wheat;nodes_2;2018-04-14
+Bourgogne-Franche-Comté;2018;soft_wheat;heading;2018-05-10
+Bourgogne-Franche-Comté;2018;soft_wheat;harvest;2017-07-09
+Bourgogne-Franche-Comté;2019;soft_wheat;sowing;2018-10-09
+Bourgogne-Franche-Comté;2019;soft_wheat;emergence;2018-10-24
+Bourgogne-Franche-Comté;2019;soft_wheat;tillering;2018-12-07
+Bourgogne-Franche-Comté;2019;soft_wheat;kernel;2019-03-19
+Bourgogne-Franche-Comté;2019;soft_wheat;nodes_2;2019-04-15
+Bourgogne-Franche-Comté;2019;soft_wheat;heading;2019-05-18
+Bourgogne-Franche-Comté;2019;soft_wheat;harvest;2018-07-07
+Bourgogne-Franche-Comté;2020;soft_wheat;sowing;2019-10-15
+Bourgogne-Franche-Comté;2020;soft_wheat;emergence;2019-10-21
+Bourgogne-Franche-Comté;2020;soft_wheat;tillering;2019-12-02
+Bourgogne-Franche-Comté;2020;soft_wheat;kernel;2020-03-10
+Bourgogne-Franche-Comté;2020;soft_wheat;nodes_2;2020-04-09
+Bourgogne-Franche-Comté;2020;soft_wheat;heading;2020-04-29
+Bourgogne-Franche-Comté;2020;soft_wheat;harvest;2019-07-13
+Bourgogne-Franche-Comté;2021;soft_wheat;sowing;2020-10-15
+Bourgogne-Franche-Comté;2021;soft_wheat;emergence;2020-10-25
+Bourgogne-Franche-Comté;2021;soft_wheat;tillering;2020-11-22
+Bourgogne-Franche-Comté;2021;soft_wheat;kernel;2021-03-16
+Bourgogne-Franche-Comté;2021;soft_wheat;nodes_2;2021-04-15
+Bourgogne-Franche-Comté;2021;soft_wheat;heading;2021-05-22
+Bourgogne-Franche-Comté;2021;soft_wheat;harvest;2020-07-06
+Bourgogne-Franche-Comté;2022;soft_wheat;sowing;2021-10-12
+Bourgogne-Franche-Comté;2022;soft_wheat;emergence;2021-10-24
+Bourgogne-Franche-Comté;2022;soft_wheat;tillering;2021-12-22
+Bourgogne-Franche-Comté;2022;soft_wheat;kernel;2022-03-16
+Bourgogne-Franche-Comté;2022;soft_wheat;nodes_2;2022-04-11
+Bourgogne-Franche-Comté;2022;soft_wheat;heading;2022-05-09
+Bourgogne-Franche-Comté;2022;soft_wheat;harvest;2021-07-20
+Bourgogne-Franche-Comté;2023;soft_wheat;sowing;2022-10-08
+Bourgogne-Franche-Comté;2023;soft_wheat;emergence;2022-10-13
+Bourgogne-Franche-Comté;2023;soft_wheat;tillering;2022-11-08
+Bourgogne-Franche-Comté;2023;soft_wheat;kernel;2023-03-10
+Bourgogne-Franche-Comté;2023;soft_wheat;nodes_2;2023-04-03
+Bourgogne-Franche-Comté;2023;soft_wheat;heading;2023-05-09
+Bourgogne-Franche-Comté;2023;soft_wheat;harvest;2022-07-04
+Bourgogne-Franche-Comté;2024;soft_wheat;sowing;2023-10-08
+Bourgogne-Franche-Comté;2024;soft_wheat;emergence;2023-10-21
+Bourgogne-Franche-Comté;2024;soft_wheat;tillering;2023-11-21
+Bourgogne-Franche-Comté;2024;soft_wheat;kernel;2024-03-07
+Bourgogne-Franche-Comté;2024;soft_wheat;nodes_2;2024-04-01
+Bourgogne-Franche-Comté;2024;soft_wheat;heading;2024-05-07
+Bourgogne-Franche-Comté;2024;soft_wheat;harvest;2023-07-04
+Bourgogne-Franche-Comté;2015;spring_barley;sowing;2015-02-28
+Bourgogne-Franche-Comté;2015;spring_barley;emergence;2015-03-20
+Bourgogne-Franche-Comté;2015;spring_barley;tillering;2015-04-08
+Bourgogne-Franche-Comté;2015;spring_barley;kernel;2015-04-27
+Bourgogne-Franche-Comté;2015;spring_barley;nodes_2;2015-05-11
+Bourgogne-Franche-Comté;2015;spring_barley;heading;2015-05-27
+Bourgogne-Franche-Comté;2015;spring_barley;harvest;2015-07-11
+Bourgogne-Franche-Comté;2016;spring_barley;sowing;2016-03-09
+Bourgogne-Franche-Comté;2016;spring_barley;emergence;2016-03-28
+Bourgogne-Franche-Comté;2016;spring_barley;tillering;2016-04-18
+Bourgogne-Franche-Comté;2016;spring_barley;kernel;2016-05-08
+Bourgogne-Franche-Comté;2016;spring_barley;nodes_2;2016-05-22
+Bourgogne-Franche-Comté;2016;spring_barley;heading;2016-06-10
+Bourgogne-Franche-Comté;2016;spring_barley;harvest;2016-07-25
+Bourgogne-Franche-Comté;2017;spring_barley;sowing;2017-02-19
+Bourgogne-Franche-Comté;2017;spring_barley;emergence;2017-03-14
+Bourgogne-Franche-Comté;2017;spring_barley;tillering;2017-04-03
+Bourgogne-Franche-Comté;2017;spring_barley;kernel;2017-04-24
+Bourgogne-Franche-Comté;2017;spring_barley;nodes_2;2017-05-12
+Bourgogne-Franche-Comté;2017;spring_barley;heading;2017-05-26
+Bourgogne-Franche-Comté;2017;spring_barley;harvest;2017-07-14
+Bourgogne-Franche-Comté;2018;spring_barley;sowing;2018-02-27
+Bourgogne-Franche-Comté;2018;spring_barley;emergence;2018-03-29
+Bourgogne-Franche-Comté;2018;spring_barley;tillering;2018-04-16
+Bourgogne-Franche-Comté;2018;spring_barley;kernel;2018-04-25
+Bourgogne-Franche-Comté;2018;spring_barley;nodes_2;2018-05-13
+Bourgogne-Franche-Comté;2018;spring_barley;heading;2018-05-23
+Bourgogne-Franche-Comté;2018;spring_barley;harvest;2018-07-12
+Bourgogne-Franche-Comté;2019;spring_barley;sowing;2019-02-18
+Bourgogne-Franche-Comté;2019;spring_barley;emergence;2019-03-06
+Bourgogne-Franche-Comté;2019;spring_barley;tillering;2019-03-27
+Bourgogne-Franche-Comté;2019;spring_barley;kernel;2019-04-22
+Bourgogne-Franche-Comté;2019;spring_barley;nodes_2;2019-05-05
+Bourgogne-Franche-Comté;2019;spring_barley;heading;2019-05-26
+Bourgogne-Franche-Comté;2019;spring_barley;harvest;2019-07-14
+Bourgogne-Franche-Comté;2020;spring_barley;sowing;2020-02-17
+Bourgogne-Franche-Comté;2020;spring_barley;emergence;2020-03-09
+Bourgogne-Franche-Comté;2020;spring_barley;tillering;2020-03-28
+Bourgogne-Franche-Comté;2020;spring_barley;kernel;2020-04-19
+Bourgogne-Franche-Comté;2020;spring_barley;nodes_2;2020-05-03
+Bourgogne-Franche-Comté;2020;spring_barley;heading;2020-05-17
+Bourgogne-Franche-Comté;2020;spring_barley;harvest;2020-07-20
+Bourgogne-Franche-Comté;2021;spring_barley;sowing;2021-02-23
+Bourgogne-Franche-Comté;2021;spring_barley;emergence;2021-03-10
+Bourgogne-Franche-Comté;2021;spring_barley;tillering;2021-04-09
+Bourgogne-Franche-Comté;2021;spring_barley;kernel;2021-04-25
+Bourgogne-Franche-Comté;2021;spring_barley;nodes_2;2021-05-09
+Bourgogne-Franche-Comté;2021;spring_barley;heading;2021-05-23
+Bourgogne-Franche-Comté;2021;spring_barley;harvest;2021-07-22
+Bourgogne-Franche-Comté;2022;spring_barley;sowing;2022-02-16
+Bourgogne-Franche-Comté;2022;spring_barley;emergence;2022-03-11
+Bourgogne-Franche-Comté;2022;spring_barley;tillering;2022-03-23
+Bourgogne-Franche-Comté;2022;spring_barley;kernel;2022-04-20
+Bourgogne-Franche-Comté;2022;spring_barley;nodes_2;2022-05-03
+Bourgogne-Franche-Comté;2022;spring_barley;heading;2022-05-15
+Bourgogne-Franche-Comté;2022;spring_barley;harvest;2022-07-07
+Bourgogne-Franche-Comté;2023;spring_barley;sowing;2023-02-07
+Bourgogne-Franche-Comté;2023;spring_barley;emergence;2023-03-03
+Bourgogne-Franche-Comté;2023;spring_barley;tillering;2023-03-25
+Bourgogne-Franche-Comté;2023;spring_barley;kernel;2023-04-22
+Bourgogne-Franche-Comté;2023;spring_barley;nodes_2;2023-05-01
+Bourgogne-Franche-Comté;2023;spring_barley;heading;2023-05-18
+Bourgogne-Franche-Comté;2023;spring_barley;harvest;2023-07-05
+Bourgogne-Franche-Comté;2024;spring_barley;sowing;2024-02-15
+Bourgogne-Franche-Comté;2024;spring_barley;emergence;2024-03-06
+Bourgogne-Franche-Comté;2024;spring_barley;tillering;2024-03-29
+Bourgogne-Franche-Comté;2024;spring_barley;kernel;2024-04-19
+Bourgogne-Franche-Comté;2024;spring_barley;nodes_2;2024-05-04
+Bourgogne-Franche-Comté;2024;spring_barley;heading;2024-05-23
+Bourgogne-Franche-Comté;2024;spring_barley;harvest;2024-07-12
+Bourgogne-Franche-Comté;2015;winter_barley;sowing;2014-09-29
+Bourgogne-Franche-Comté;2015;winter_barley;emergence;2014-10-09
+Bourgogne-Franche-Comté;2015;winter_barley;tillering;2014-11-02
+Bourgogne-Franche-Comté;2015;winter_barley;kernel;2015-03-22
+Bourgogne-Franche-Comté;2015;winter_barley;nodes_2;2015-04-11
+Bourgogne-Franche-Comté;2015;winter_barley;heading;2015-04-27
+Bourgogne-Franche-Comté;2015;winter_barley;harvest;2015-06-24
+Bourgogne-Franche-Comté;2016;winter_barley;sowing;2015-09-29
+Bourgogne-Franche-Comté;2016;winter_barley;emergence;2015-10-11
+Bourgogne-Franche-Comté;2016;winter_barley;tillering;2015-11-10
+Bourgogne-Franche-Comté;2016;winter_barley;kernel;2016-03-15
+Bourgogne-Franche-Comté;2016;winter_barley;nodes_2;2016-04-08
+Bourgogne-Franche-Comté;2016;winter_barley;heading;2016-05-02
+Bourgogne-Franche-Comté;2016;winter_barley;harvest;2015-06-24
+Bourgogne-Franche-Comté;2017;winter_barley;sowing;2016-10-04
+Bourgogne-Franche-Comté;2017;winter_barley;emergence;2016-10-17
+Bourgogne-Franche-Comté;2017;winter_barley;tillering;2016-11-23
+Bourgogne-Franche-Comté;2017;winter_barley;kernel;2017-03-19
+Bourgogne-Franche-Comté;2017;winter_barley;nodes_2;2017-04-05
+Bourgogne-Franche-Comté;2017;winter_barley;heading;2017-05-03
+Bourgogne-Franche-Comté;2017;winter_barley;harvest;2016-07-02
+Bourgogne-Franche-Comté;2018;winter_barley;sowing;2017-10-08
+Bourgogne-Franche-Comté;2018;winter_barley;emergence;2017-10-15
+Bourgogne-Franche-Comté;2018;winter_barley;tillering;2017-11-10
+Bourgogne-Franche-Comté;2018;winter_barley;kernel;2018-03-20
+Bourgogne-Franche-Comté;2018;winter_barley;nodes_2;2018-04-12
+Bourgogne-Franche-Comté;2018;winter_barley;heading;2018-04-26
+Bourgogne-Franche-Comté;2018;winter_barley;harvest;2017-06-27
+Bourgogne-Franche-Comté;2019;winter_barley;sowing;2018-10-12
+Bourgogne-Franche-Comté;2019;winter_barley;emergence;2018-10-24
+Bourgogne-Franche-Comté;2019;winter_barley;tillering;2018-11-20
+Bourgogne-Franche-Comté;2019;winter_barley;kernel;2019-03-20
+Bourgogne-Franche-Comté;2019;winter_barley;nodes_2;2019-04-12
+Bourgogne-Franche-Comté;2019;winter_barley;heading;2019-04-30
+Bourgogne-Franche-Comté;2019;winter_barley;harvest;2019-06-30
+Bourgogne-Franche-Comté;2020;winter_barley;sowing;2019-10-07
+Bourgogne-Franche-Comté;2020;winter_barley;emergence;2019-10-16
+Bourgogne-Franche-Comté;2020;winter_barley;tillering;2019-11-23
+Bourgogne-Franche-Comté;2020;winter_barley;kernel;2020-03-15
+Bourgogne-Franche-Comté;2020;winter_barley;nodes_2;2020-04-09
+Bourgogne-Franche-Comté;2020;winter_barley;heading;2020-04-21
+Bourgogne-Franche-Comté;2020;winter_barley;harvest;2019-06-30
+Bourgogne-Franche-Comté;2021;winter_barley;sowing;2020-10-14
+Bourgogne-Franche-Comté;2021;winter_barley;emergence;2020-10-23
+Bourgogne-Franche-Comté;2021;winter_barley;tillering;2020-11-19
+Bourgogne-Franche-Comté;2021;winter_barley;kernel;2021-03-20
+Bourgogne-Franche-Comté;2021;winter_barley;nodes_2;2021-04-14
+Bourgogne-Franche-Comté;2021;winter_barley;heading;2021-05-03
+Bourgogne-Franche-Comté;2021;winter_barley;harvest;2020-06-25
+Bourgogne-Franche-Comté;2022;winter_barley;sowing;2021-10-11
+Bourgogne-Franche-Comté;2022;winter_barley;emergence;2021-10-22
+Bourgogne-Franche-Comté;2022;winter_barley;tillering;2021-12-06
+Bourgogne-Franche-Comté;2022;winter_barley;kernel;2022-03-17
+Bourgogne-Franche-Comté;2022;winter_barley;nodes_2;2022-04-07
+Bourgogne-Franche-Comté;2022;winter_barley;heading;2022-04-26
+Bourgogne-Franche-Comté;2022;winter_barley;harvest;2021-07-06
+Bourgogne-Franche-Comté;2023;winter_barley;sowing;2022-10-05
+Bourgogne-Franche-Comté;2023;winter_barley;emergence;2022-10-13
+Bourgogne-Franche-Comté;2023;winter_barley;tillering;2022-11-02
+Bourgogne-Franche-Comté;2023;winter_barley;kernel;2023-03-12
+Bourgogne-Franche-Comté;2023;winter_barley;nodes_2;2023-04-02
+Bourgogne-Franche-Comté;2023;winter_barley;heading;2023-04-29
+Bourgogne-Franche-Comté;2023;winter_barley;harvest;2023-06-24
+Bourgogne-Franche-Comté;2024;winter_barley;sowing;2023-10-07
+Bourgogne-Franche-Comté;2024;winter_barley;emergence;2023-10-20
+Bourgogne-Franche-Comté;2024;winter_barley;tillering;2023-11-19
+Bourgogne-Franche-Comté;2024;winter_barley;kernel;2024-03-13
+Bourgogne-Franche-Comté;2024;winter_barley;nodes_2;2024-04-02
+Bourgogne-Franche-Comté;2024;winter_barley;heading;2024-04-28
+Bourgogne-Franche-Comté;2024;winter_barley;harvest;2023-06-24
+Bourgogne-Franche-Comté;2015;grain_maize;sowing;2015-04-15
+Bourgogne-Franche-Comté;2015;grain_maize;emergence;2015-04-28
+Bourgogne-Franche-Comté;2015;grain_maize;6_8_leaves;2015-05-20
+Bourgogne-Franche-Comté;2015;grain_maize;female_flowering;2015-07-07
+Bourgogne-Franche-Comté;2015;grain_maize;grain_moist_50;2015-08-22
+Bourgogne-Franche-Comté;2015;grain_maize;harvest;2015-10-11
+Bourgogne-Franche-Comté;2016;grain_maize;sowing;2016-05-04
+Bourgogne-Franche-Comté;2016;grain_maize;emergence;2016-05-17
+Bourgogne-Franche-Comté;2016;grain_maize;6_8_leaves;2016-06-16
+Bourgogne-Franche-Comté;2016;grain_maize;female_flowering;2016-07-24
+Bourgogne-Franche-Comté;2016;grain_maize;grain_moist_50;2016-09-06
+Bourgogne-Franche-Comté;2016;grain_maize;harvest;2016-10-26
+Bourgogne-Franche-Comté;2017;grain_maize;sowing;2017-04-11
+Bourgogne-Franche-Comté;2017;grain_maize;emergence;2017-04-28
+Bourgogne-Franche-Comté;2017;grain_maize;6_8_leaves;2017-05-25
+Bourgogne-Franche-Comté;2017;grain_maize;female_flowering;2017-07-04
+Bourgogne-Franche-Comté;2017;grain_maize;grain_moist_50;2017-08-19
+Bourgogne-Franche-Comté;2017;grain_maize;harvest;2017-10-08
+Bourgogne-Franche-Comté;2018;grain_maize;sowing;2018-04-21
+Bourgogne-Franche-Comté;2018;grain_maize;emergence;2018-05-02
+Bourgogne-Franche-Comté;2018;grain_maize;6_8_leaves;2018-05-20
+Bourgogne-Franche-Comté;2018;grain_maize;female_flowering;2018-07-02
+Bourgogne-Franche-Comté;2018;grain_maize;grain_moist_50;2018-08-16
+Bourgogne-Franche-Comté;2018;grain_maize;harvest;2018-09-26
+Bourgogne-Franche-Comté;2019;grain_maize;sowing;2019-04-17
+Bourgogne-Franche-Comté;2019;grain_maize;emergence;2019-05-01
+Bourgogne-Franche-Comté;2019;grain_maize;6_8_leaves;2019-06-01
+Bourgogne-Franche-Comté;2019;grain_maize;female_flowering;2019-07-15
+Bourgogne-Franche-Comté;2019;grain_maize;grain_moist_50;2019-09-01
+Bourgogne-Franche-Comté;2019;grain_maize;harvest;2019-10-25
+Bourgogne-Franche-Comté;2020;grain_maize;sowing;2020-04-17
+Bourgogne-Franche-Comté;2020;grain_maize;emergence;2020-04-30
+Bourgogne-Franche-Comté;2020;grain_maize;6_8_leaves;2020-05-22
+Bourgogne-Franche-Comté;2020;grain_maize;female_flowering;2020-07-07
+Bourgogne-Franche-Comté;2020;grain_maize;grain_moist_50;2020-08-24
+Bourgogne-Franche-Comté;2020;grain_maize;harvest;2020-09-30
+Bourgogne-Franche-Comté;2021;grain_maize;sowing;2021-04-20
+Bourgogne-Franche-Comté;2021;grain_maize;emergence;2021-05-04
+Bourgogne-Franche-Comté;2021;grain_maize;6_8_leaves;2021-06-02
+Bourgogne-Franche-Comté;2021;grain_maize;female_flowering;2021-07-20
+Bourgogne-Franche-Comté;2021;grain_maize;grain_moist_50;2021-09-08
+Bourgogne-Franche-Comté;2021;grain_maize;harvest;2021-10-24
+Bourgogne-Franche-Comté;2022;grain_maize;sowing;2022-04-19
+Bourgogne-Franche-Comté;2022;grain_maize;emergence;2022-05-01
+Bourgogne-Franche-Comté;2022;grain_maize;6_8_leaves;2022-05-17
+Bourgogne-Franche-Comté;2022;grain_maize;female_flowering;2022-07-01
+Bourgogne-Franche-Comté;2022;grain_maize;grain_moist_50;2022-08-12
+Bourgogne-Franche-Comté;2022;grain_maize;harvest;2022-09-21
+Bourgogne-Franche-Comté;2023;grain_maize;sowing;2023-04-29
+Bourgogne-Franche-Comté;2023;grain_maize;emergence;2023-05-08
+Bourgogne-Franche-Comté;2023;grain_maize;6_8_leaves;2023-05-31
+Bourgogne-Franche-Comté;2023;grain_maize;female_flowering;2023-07-10
+Bourgogne-Franche-Comté;2023;grain_maize;grain_moist_50;2023-08-19
+Bourgogne-Franche-Comté;2023;grain_maize;harvest;2023-10-03
+Bourgogne-Franche-Comté;2024;grain_maize;sowing;2024-05-06
+Bourgogne-Franche-Comté;2024;grain_maize;emergence;2024-05-17
+Bourgogne-Franche-Comté;2024;grain_maize;6_8_leaves;2024-06-06
+Bourgogne-Franche-Comté;2024;grain_maize;female_flowering;2024-07-19
+Bourgogne-Franche-Comté;2024;grain_maize;grain_moist_50;2024-09-01
+Bourgogne-Franche-Comté;2024;grain_maize;harvest;2024-10-22
+Bretagne;2015;soft_wheat;sowing;2014-11-01
+Bretagne;2015;soft_wheat;emergence;2014-11-12
+Bretagne;2015;soft_wheat;tillering;2015-01-11
+Bretagne;2015;soft_wheat;kernel;2015-03-24
+Bretagne;2015;soft_wheat;nodes_2;2015-04-13
+Bretagne;2015;soft_wheat;heading;2015-05-10
+Bretagne;2015;soft_wheat;harvest;2015-07-29
+Bretagne;2016;soft_wheat;sowing;2015-10-27
+Bretagne;2016;soft_wheat;emergence;2015-11-14
+Bretagne;2016;soft_wheat;tillering;2015-12-19
+Bretagne;2016;soft_wheat;kernel;2016-03-06
+Bretagne;2016;soft_wheat;nodes_2;2016-04-09
+Bretagne;2016;soft_wheat;heading;2016-05-14
+Bretagne;2016;soft_wheat;harvest;2015-07-29
+Bretagne;2017;soft_wheat;sowing;2016-10-30
+Bretagne;2017;soft_wheat;emergence;2016-11-21
+Bretagne;2017;soft_wheat;tillering;2017-02-01
+Bretagne;2017;soft_wheat;kernel;2017-03-14
+Bretagne;2017;soft_wheat;nodes_2;2017-04-06
+Bretagne;2017;soft_wheat;heading;2017-05-10
+Bretagne;2017;soft_wheat;harvest;2016-08-02
+Bretagne;2018;soft_wheat;sowing;2017-10-31
+Bretagne;2018;soft_wheat;emergence;2017-11-16
+Bretagne;2018;soft_wheat;tillering;2017-12-31
+Bretagne;2018;soft_wheat;kernel;2018-03-19
+Bretagne;2018;soft_wheat;nodes_2;2018-04-13
+Bretagne;2018;soft_wheat;heading;2018-05-10
+Bretagne;2018;soft_wheat;harvest;2017-07-27
+Bretagne;2019;soft_wheat;sowing;2018-10-31
+Bretagne;2019;soft_wheat;emergence;2018-11-14
+Bretagne;2019;soft_wheat;tillering;2019-01-27
+Bretagne;2019;soft_wheat;kernel;2019-03-12
+Bretagne;2019;soft_wheat;nodes_2;2019-04-10
+Bretagne;2019;soft_wheat;heading;2019-05-13
+Bretagne;2019;soft_wheat;harvest;2018-07-15
+Bretagne;2020;soft_wheat;sowing;2019-12-03
+Bretagne;2020;soft_wheat;emergence;2019-12-17
+Bretagne;2020;soft_wheat;tillering;2020-01-28
+Bretagne;2020;soft_wheat;kernel;2020-03-18
+Bretagne;2020;soft_wheat;nodes_2;2020-04-13
+Bretagne;2020;soft_wheat;heading;2020-05-07
+Bretagne;2020;soft_wheat;harvest;2019-07-22
+Bretagne;2021;soft_wheat;sowing;2020-11-01
+Bretagne;2021;soft_wheat;emergence;2020-11-12
+Bretagne;2021;soft_wheat;tillering;2020-12-31
+Bretagne;2021;soft_wheat;kernel;2021-03-16
+Bretagne;2021;soft_wheat;nodes_2;2021-04-17
+Bretagne;2021;soft_wheat;heading;2021-05-18
+Bretagne;2021;soft_wheat;harvest;2020-07-21
+Bretagne;2022;soft_wheat;sowing;2021-11-01
+Bretagne;2022;soft_wheat;emergence;2021-11-12
+Bretagne;2022;soft_wheat;tillering;2022-01-01
+Bretagne;2022;soft_wheat;kernel;2022-03-10
+Bretagne;2022;soft_wheat;nodes_2;2022-04-06
+Bretagne;2022;soft_wheat;heading;2022-05-11
+Bretagne;2022;soft_wheat;harvest;2021-08-08
+Bretagne;2023;soft_wheat;sowing;2022-10-25
+Bretagne;2023;soft_wheat;emergence;2022-11-06
+Bretagne;2023;soft_wheat;tillering;2022-12-31
+Bretagne;2023;soft_wheat;kernel;2023-03-18
+Bretagne;2023;soft_wheat;nodes_2;2023-04-13
+Bretagne;2023;soft_wheat;heading;2023-05-15
+Bretagne;2023;soft_wheat;harvest;2022-07-11
+Bretagne;2024;soft_wheat;sowing;2023-11-12
+Bretagne;2024;soft_wheat;emergence;2023-11-25
+Bretagne;2024;soft_wheat;tillering;2023-12-31
+Bretagne;2024;soft_wheat;kernel;2024-03-16
+Bretagne;2024;soft_wheat;nodes_2;2024-04-09
+Bretagne;2024;soft_wheat;heading;2024-05-15
+Bretagne;2024;soft_wheat;harvest;2023-07-29
+Bretagne;2015;winter_barley;sowing;2014-10-26
+Bretagne;2015;winter_barley;emergence;2014-11-07
+Bretagne;2015;winter_barley;tillering;2015-01-02
+Bretagne;2015;winter_barley;kernel;2015-03-20
+Bretagne;2015;winter_barley;nodes_2;2015-04-10
+Bretagne;2015;winter_barley;heading;2015-04-29
+Bretagne;2015;winter_barley;harvest;2015-07-06
+Bretagne;2016;winter_barley;sowing;2015-10-22
+Bretagne;2016;winter_barley;emergence;2015-11-05
+Bretagne;2016;winter_barley;tillering;2015-12-04
+Bretagne;2016;winter_barley;kernel;2016-02-28
+Bretagne;2016;winter_barley;nodes_2;2016-04-15
+Bretagne;2016;winter_barley;heading;2016-05-06
+Bretagne;2016;winter_barley;harvest;2015-07-06
+Bretagne;2017;winter_barley;sowing;2016-10-26
+Bretagne;2017;winter_barley;emergence;2016-11-15
+Bretagne;2017;winter_barley;tillering;2017-01-09
+Bretagne;2017;winter_barley;kernel;2017-03-13
+Bretagne;2017;winter_barley;nodes_2;2017-04-04
+Bretagne;2017;winter_barley;heading;2017-04-28
+Bretagne;2017;winter_barley;harvest;2016-07-10
+Bretagne;2018;winter_barley;sowing;2017-10-27
+Bretagne;2018;winter_barley;emergence;2017-11-08
+Bretagne;2018;winter_barley;tillering;2017-12-28
+Bretagne;2018;winter_barley;kernel;2018-03-22
+Bretagne;2018;winter_barley;nodes_2;2018-04-14
+Bretagne;2018;winter_barley;heading;2018-05-03
+Bretagne;2018;winter_barley;harvest;2017-07-02
+Bretagne;2019;winter_barley;sowing;2018-11-02
+Bretagne;2019;winter_barley;emergence;2018-11-19
+Bretagne;2019;winter_barley;tillering;2019-01-27
+Bretagne;2019;winter_barley;kernel;2019-03-11
+Bretagne;2019;winter_barley;nodes_2;2019-04-09
+Bretagne;2019;winter_barley;heading;2019-04-29
+Bretagne;2019;winter_barley;harvest;2018-07-04
+Bretagne;2020;winter_barley;sowing;2019-12-01
+Bretagne;2020;winter_barley;emergence;2019-12-20
+Bretagne;2020;winter_barley;tillering;2020-01-28
+Bretagne;2020;winter_barley;kernel;2020-03-22
+Bretagne;2020;winter_barley;nodes_2;2020-04-13
+Bretagne;2020;winter_barley;heading;2020-05-03
+Bretagne;2020;winter_barley;harvest;2019-07-07
+Bretagne;2021;winter_barley;sowing;2020-11-01
+Bretagne;2021;winter_barley;emergence;2020-11-10
+Bretagne;2021;winter_barley;tillering;2020-12-31
+Bretagne;2021;winter_barley;kernel;2021-03-17
+Bretagne;2021;winter_barley;nodes_2;2021-04-15
+Bretagne;2021;winter_barley;heading;2021-05-09
+Bretagne;2021;winter_barley;harvest;2020-07-09
+Bretagne;2022;winter_barley;sowing;2021-10-31
+Bretagne;2022;winter_barley;emergence;2021-11-12
+Bretagne;2022;winter_barley;tillering;2022-01-01
+Bretagne;2022;winter_barley;kernel;2022-03-11
+Bretagne;2022;winter_barley;nodes_2;2022-04-10
+Bretagne;2022;winter_barley;heading;2022-05-05
+Bretagne;2022;winter_barley;harvest;2021-07-18
+Bretagne;2023;winter_barley;sowing;2022-10-25
+Bretagne;2023;winter_barley;emergence;2022-11-05
+Bretagne;2023;winter_barley;tillering;2022-12-28
+Bretagne;2023;winter_barley;kernel;2023-03-21
+Bretagne;2023;winter_barley;nodes_2;2023-04-15
+Bretagne;2023;winter_barley;heading;2023-05-06
+Bretagne;2023;winter_barley;harvest;2022-07-03
+Bretagne;2024;winter_barley;sowing;2023-11-16
+Bretagne;2024;winter_barley;emergence;2023-11-26
+Bretagne;2024;winter_barley;tillering;2023-12-30
+Bretagne;2024;winter_barley;kernel;2024-03-17
+Bretagne;2024;winter_barley;nodes_2;2024-04-09
+Bretagne;2024;winter_barley;heading;2024-05-10
+Bretagne;2024;winter_barley;harvest;2023-07-02
+Bretagne;2015;grain_maize;sowing;2015-04-23
+Bretagne;2015;grain_maize;emergence;2015-05-09
+Bretagne;2015;grain_maize;6_8_leaves;2015-06-04
+Bretagne;2015;grain_maize;female_flowering;2015-07-20
+Bretagne;2015;grain_maize;grain_moist_50;2015-10-04
+Bretagne;2015;grain_maize;harvest;2015-10-31
+Bretagne;2016;grain_maize;sowing;2016-05-01
+Bretagne;2016;grain_maize;emergence;2016-05-15
+Bretagne;2016;grain_maize;6_8_leaves;2016-06-08
+Bretagne;2016;grain_maize;female_flowering;2016-07-24
+Bretagne;2016;grain_maize;grain_moist_50;2016-09-11
+Bretagne;2016;grain_maize;harvest;2016-10-18
+Bretagne;2017;grain_maize;sowing;2017-04-24
+Bretagne;2017;grain_maize;emergence;2017-05-09
+Bretagne;2017;grain_maize;6_8_leaves;2017-06-01
+Bretagne;2017;grain_maize;female_flowering;2017-07-15
+Bretagne;2017;grain_maize;grain_moist_50;2017-09-14
+Bretagne;2017;grain_maize;harvest;2017-10-24
+Bretagne;2018;grain_maize;sowing;2018-05-06
+Bretagne;2018;grain_maize;emergence;2018-05-14
+Bretagne;2018;grain_maize;6_8_leaves;2018-06-06
+Bretagne;2018;grain_maize;female_flowering;2018-07-15
+Bretagne;2018;grain_maize;grain_moist_50;2018-09-11
+Bretagne;2018;grain_maize;harvest;2018-10-06
+Bretagne;2019;grain_maize;sowing;2019-05-01
+Bretagne;2019;grain_maize;emergence;2019-05-14
+Bretagne;2019;grain_maize;6_8_leaves;2019-06-09
+Bretagne;2019;grain_maize;female_flowering;2019-07-24
+Bretagne;2019;grain_maize;grain_moist_50;2019-09-20
+Bretagne;2019;grain_maize;harvest;2019-11-05
+Bretagne;2020;grain_maize;sowing;2020-05-01
+Bretagne;2020;grain_maize;emergence;2020-05-10
+Bretagne;2020;grain_maize;6_8_leaves;2020-05-31
+Bretagne;2020;grain_maize;female_flowering;2020-07-20
+Bretagne;2020;grain_maize;grain_moist_50;2020-09-20
+Bretagne;2020;grain_maize;harvest;2020-10-18
+Bretagne;2021;grain_maize;sowing;2021-04-24
+Bretagne;2021;grain_maize;emergence;2021-05-09
+Bretagne;2021;grain_maize;6_8_leaves;2021-06-09
+Bretagne;2021;grain_maize;female_flowering;2021-07-23
+Bretagne;2021;grain_maize;grain_moist_50;2021-09-20
+Bretagne;2021;grain_maize;harvest;2021-10-28
+Bretagne;2022;grain_maize;sowing;2022-04-25
+Bretagne;2022;grain_maize;emergence;2022-05-06
+Bretagne;2022;grain_maize;6_8_leaves;2022-05-25
+Bretagne;2022;grain_maize;female_flowering;2022-07-16
+Bretagne;2022;grain_maize;grain_moist_50;2022-08-31
+Bretagne;2022;grain_maize;harvest;2022-10-06
+Bretagne;2023;grain_maize;sowing;2023-05-04
+Bretagne;2023;grain_maize;emergence;2023-05-18
+Bretagne;2023;grain_maize;6_8_leaves;2023-06-07
+Bretagne;2023;grain_maize;female_flowering;2023-07-25
+Bretagne;2023;grain_maize;grain_moist_50;2023-09-15
+Bretagne;2023;grain_maize;harvest;2023-10-24
+Bretagne;2024;grain_maize;sowing;2024-05-12
+Bretagne;2024;grain_maize;emergence;2024-05-20
+Bretagne;2024;grain_maize;6_8_leaves;2024-06-15
+Bretagne;2024;grain_maize;female_flowering;2024-08-04
+Bretagne;2024;grain_maize;grain_moist_50;2024-10-07
+Bretagne;2024;grain_maize;harvest;2024-11-12
+Grand-Est;2015;soft_wheat;sowing;2014-09-29
+Grand-Est;2015;soft_wheat;emergence;2014-10-10
+Grand-Est;2015;soft_wheat;tillering;2014-11-03
+Grand-Est;2015;soft_wheat;kernel;2015-03-22
+Grand-Est;2015;soft_wheat;nodes_2;2015-04-15
+Grand-Est;2015;soft_wheat;heading;2015-05-15
+Grand-Est;2015;soft_wheat;harvest;2015-07-13
+Grand-Est;2016;soft_wheat;sowing;2015-09-30
+Grand-Est;2016;soft_wheat;emergence;2015-10-12
+Grand-Est;2016;soft_wheat;tillering;2015-11-13
+Grand-Est;2016;soft_wheat;kernel;2016-03-18
+Grand-Est;2016;soft_wheat;nodes_2;2016-04-15
+Grand-Est;2016;soft_wheat;heading;2016-05-22
+Grand-Est;2016;soft_wheat;harvest;2015-07-13
+Grand-Est;2017;soft_wheat;sowing;2016-10-04
+Grand-Est;2017;soft_wheat;emergence;2016-10-18
+Grand-Est;2017;soft_wheat;tillering;2017-01-09
+Grand-Est;2017;soft_wheat;kernel;2017-03-24
+Grand-Est;2017;soft_wheat;nodes_2;2017-04-18
+Grand-Est;2017;soft_wheat;heading;2017-05-18
+Grand-Est;2017;soft_wheat;harvest;2016-07-28
+Grand-Est;2018;soft_wheat;sowing;2017-10-06
+Grand-Est;2018;soft_wheat;emergence;2017-10-13
+Grand-Est;2018;soft_wheat;tillering;2017-11-21
+Grand-Est;2018;soft_wheat;kernel;2018-03-28
+Grand-Est;2018;soft_wheat;nodes_2;2018-04-16
+Grand-Est;2018;soft_wheat;heading;2018-05-13
+Grand-Est;2018;soft_wheat;harvest;2017-07-09
+Grand-Est;2019;soft_wheat;sowing;2018-10-03
+Grand-Est;2019;soft_wheat;emergence;2018-10-14
+Grand-Est;2019;soft_wheat;tillering;2018-12-12
+Grand-Est;2019;soft_wheat;kernel;2019-03-21
+Grand-Est;2019;soft_wheat;nodes_2;2019-04-16
+Grand-Est;2019;soft_wheat;heading;2019-05-22
+Grand-Est;2019;soft_wheat;harvest;2018-07-08
+Grand-Est;2020;soft_wheat;sowing;2019-10-10
+Grand-Est;2020;soft_wheat;emergence;2019-10-22
+Grand-Est;2020;soft_wheat;tillering;2019-12-31
+Grand-Est;2020;soft_wheat;kernel;2020-03-14
+Grand-Est;2020;soft_wheat;nodes_2;2020-04-12
+Grand-Est;2020;soft_wheat;heading;2020-05-04
+Grand-Est;2020;soft_wheat;harvest;2019-07-16
+Grand-Est;2021;soft_wheat;sowing;2020-10-11
+Grand-Est;2021;soft_wheat;emergence;2020-10-25
+Grand-Est;2021;soft_wheat;tillering;2020-11-27
+Grand-Est;2021;soft_wheat;kernel;2021-03-20
+Grand-Est;2021;soft_wheat;nodes_2;2021-04-20
+Grand-Est;2021;soft_wheat;heading;2021-05-28
+Grand-Est;2021;soft_wheat;harvest;2020-07-13
+Grand-Est;2022;soft_wheat;sowing;2021-10-09
+Grand-Est;2022;soft_wheat;emergence;2021-10-20
+Grand-Est;2022;soft_wheat;tillering;2021-12-19
+Grand-Est;2022;soft_wheat;kernel;2022-03-20
+Grand-Est;2022;soft_wheat;nodes_2;2022-04-17
+Grand-Est;2022;soft_wheat;heading;2022-05-16
+Grand-Est;2022;soft_wheat;harvest;2021-07-24
+Grand-Est;2023;soft_wheat;sowing;2022-10-07
+Grand-Est;2023;soft_wheat;emergence;2022-10-16
+Grand-Est;2023;soft_wheat;tillering;2022-11-19
+Grand-Est;2023;soft_wheat;kernel;2023-03-09
+Grand-Est;2023;soft_wheat;nodes_2;2023-04-07
+Grand-Est;2023;soft_wheat;heading;2023-05-17
+Grand-Est;2023;soft_wheat;harvest;2022-07-06
+Grand-Est;2024;soft_wheat;sowing;2023-10-07
+Grand-Est;2024;soft_wheat;emergence;2023-10-22
+Grand-Est;2024;soft_wheat;tillering;2023-12-02
+Grand-Est;2024;soft_wheat;kernel;2024-03-11
+Grand-Est;2024;soft_wheat;nodes_2;2024-04-03
+Grand-Est;2024;soft_wheat;heading;2024-05-12
+Grand-Est;2024;soft_wheat;harvest;2023-07-10
+Grand-Est;2015;spring_barley;sowing;2015-03-08
+Grand-Est;2015;spring_barley;emergence;2015-03-23
+Grand-Est;2015;spring_barley;tillering;2015-04-15
+Grand-Est;2015;spring_barley;kernel;2015-05-01
+Grand-Est;2015;spring_barley;nodes_2;2015-05-10
+Grand-Est;2015;spring_barley;heading;2015-05-30
+Grand-Est;2015;spring_barley;harvest;2015-07-19
+Grand-Est;2016;spring_barley;sowing;2016-03-10
+Grand-Est;2016;spring_barley;emergence;2016-03-29
+Grand-Est;2016;spring_barley;tillering;2016-04-17
+Grand-Est;2016;spring_barley;kernel;2016-05-09
+Grand-Est;2016;spring_barley;nodes_2;2016-05-20
+Grand-Est;2016;spring_barley;heading;2016-06-06
+Grand-Est;2016;spring_barley;harvest;2016-07-30
+Grand-Est;2017;spring_barley;sowing;2017-03-13
+Grand-Est;2017;spring_barley;emergence;2017-03-25
+Grand-Est;2017;spring_barley;tillering;2017-04-15
+Grand-Est;2017;spring_barley;kernel;2017-05-05
+Grand-Est;2017;spring_barley;nodes_2;2017-05-14
+Grand-Est;2017;spring_barley;heading;2017-05-24
+Grand-Est;2017;spring_barley;harvest;2017-07-14
+Grand-Est;2018;spring_barley;sowing;2018-03-21
+Grand-Est;2018;spring_barley;emergence;2018-04-07
+Grand-Est;2018;spring_barley;tillering;2018-04-18
+Grand-Est;2018;spring_barley;kernel;2018-04-30
+Grand-Est;2018;spring_barley;nodes_2;2018-05-10
+Grand-Est;2018;spring_barley;heading;2018-05-26
+Grand-Est;2018;spring_barley;harvest;2018-07-17
+Grand-Est;2019;spring_barley;sowing;2019-02-19
+Grand-Est;2019;spring_barley;emergence;2019-03-16
+Grand-Est;2019;spring_barley;tillering;2019-04-02
+Grand-Est;2019;spring_barley;kernel;2019-04-21
+Grand-Est;2019;spring_barley;nodes_2;2019-05-08
+Grand-Est;2019;spring_barley;heading;2019-05-26
+Grand-Est;2019;spring_barley;harvest;2019-07-16
+Grand-Est;2020;spring_barley;sowing;2020-03-17
+Grand-Est;2020;spring_barley;emergence;2020-04-03
+Grand-Est;2020;spring_barley;tillering;2020-04-19
+Grand-Est;2020;spring_barley;kernel;2020-05-01
+Grand-Est;2020;spring_barley;nodes_2;2020-05-12
+Grand-Est;2020;spring_barley;heading;2020-05-26
+Grand-Est;2020;spring_barley;harvest;2020-07-26
+Grand-Est;2021;spring_barley;sowing;2021-02-27
+Grand-Est;2021;spring_barley;emergence;2021-03-20
+Grand-Est;2021;spring_barley;tillering;2021-04-08
+Grand-Est;2021;spring_barley;kernel;2021-05-02
+Grand-Est;2021;spring_barley;nodes_2;2021-05-13
+Grand-Est;2021;spring_barley;heading;2021-06-01
+Grand-Est;2021;spring_barley;harvest;2021-07-27
+Grand-Est;2022;spring_barley;sowing;2022-03-01
+Grand-Est;2022;spring_barley;emergence;2022-03-18
+Grand-Est;2022;spring_barley;tillering;2022-04-02
+Grand-Est;2022;spring_barley;kernel;2022-04-25
+Grand-Est;2022;spring_barley;nodes_2;2022-05-08
+Grand-Est;2022;spring_barley;heading;2022-05-22
+Grand-Est;2022;spring_barley;harvest;2022-07-11
+Grand-Est;2023;spring_barley;sowing;2023-02-09
+Grand-Est;2023;spring_barley;emergence;2023-03-10
+Grand-Est;2023;spring_barley;tillering;2023-04-01
+Grand-Est;2023;spring_barley;kernel;2023-04-24
+Grand-Est;2023;spring_barley;nodes_2;2023-05-06
+Grand-Est;2023;spring_barley;heading;2023-05-24
+Grand-Est;2023;spring_barley;harvest;2023-07-12
+Grand-Est;2024;spring_barley;sowing;2024-03-16
+Grand-Est;2024;spring_barley;emergence;2024-03-25
+Grand-Est;2024;spring_barley;tillering;2024-04-15
+Grand-Est;2024;spring_barley;kernel;2024-05-03
+Grand-Est;2024;spring_barley;nodes_2;2024-05-09
+Grand-Est;2024;spring_barley;heading;2024-06-01
+Grand-Est;2024;spring_barley;harvest;2024-07-29
+Grand-Est;2015;winter_barley;sowing;2014-09-26
+Grand-Est;2015;winter_barley;emergence;2014-10-06
+Grand-Est;2015;winter_barley;tillering;2014-10-27
+Grand-Est;2015;winter_barley;kernel;2015-03-22
+Grand-Est;2015;winter_barley;nodes_2;2015-04-11
+Grand-Est;2015;winter_barley;heading;2015-04-30
+Grand-Est;2015;winter_barley;harvest;2015-06-27
+Grand-Est;2016;winter_barley;sowing;2015-09-29
+Grand-Est;2016;winter_barley;emergence;2015-10-09
+Grand-Est;2016;winter_barley;tillering;2015-11-07
+Grand-Est;2016;winter_barley;kernel;2016-03-20
+Grand-Est;2016;winter_barley;nodes_2;2016-04-10
+Grand-Est;2016;winter_barley;heading;2016-05-06
+Grand-Est;2016;winter_barley;harvest;2015-06-27
+Grand-Est;2017;winter_barley;sowing;2016-10-02
+Grand-Est;2017;winter_barley;emergence;2016-10-14
+Grand-Est;2017;winter_barley;tillering;2016-11-24
+Grand-Est;2017;winter_barley;kernel;2017-03-21
+Grand-Est;2017;winter_barley;nodes_2;2017-04-11
+Grand-Est;2017;winter_barley;heading;2017-05-08
+Grand-Est;2017;winter_barley;harvest;2016-07-04
+Grand-Est;2018;winter_barley;sowing;2017-09-29
+Grand-Est;2018;winter_barley;emergence;2017-10-09
+Grand-Est;2018;winter_barley;tillering;2017-11-08
+Grand-Est;2018;winter_barley;kernel;2018-03-27
+Grand-Est;2018;winter_barley;nodes_2;2018-04-14
+Grand-Est;2018;winter_barley;heading;2018-05-01
+Grand-Est;2018;winter_barley;harvest;2017-06-22
+Grand-Est;2019;winter_barley;sowing;2018-09-30
+Grand-Est;2019;winter_barley;emergence;2018-10-10
+Grand-Est;2019;winter_barley;tillering;2018-11-20
+Grand-Est;2019;winter_barley;kernel;2019-03-21
+Grand-Est;2019;winter_barley;nodes_2;2019-04-14
+Grand-Est;2019;winter_barley;heading;2019-05-08
+Grand-Est;2019;winter_barley;harvest;2018-06-24
+Grand-Est;2020;winter_barley;sowing;2019-10-07
+Grand-Est;2020;winter_barley;emergence;2019-10-18
+Grand-Est;2020;winter_barley;tillering;2019-12-13
+Grand-Est;2020;winter_barley;kernel;2020-03-15
+Grand-Est;2020;winter_barley;nodes_2;2020-04-11
+Grand-Est;2020;winter_barley;heading;2020-04-25
+Grand-Est;2020;winter_barley;harvest;2019-06-30
+Grand-Est;2021;winter_barley;sowing;2020-10-10
+Grand-Est;2021;winter_barley;emergence;2020-10-23
+Grand-Est;2021;winter_barley;tillering;2020-11-25
+Grand-Est;2021;winter_barley;kernel;2021-03-21
+Grand-Est;2021;winter_barley;nodes_2;2021-04-16
+Grand-Est;2021;winter_barley;heading;2021-05-09
+Grand-Est;2021;winter_barley;harvest;2020-07-01
+Grand-Est;2022;winter_barley;sowing;2021-10-02
+Grand-Est;2022;winter_barley;emergence;2021-10-16
+Grand-Est;2022;winter_barley;tillering;2021-11-23
+Grand-Est;2022;winter_barley;kernel;2022-03-22
+Grand-Est;2022;winter_barley;nodes_2;2022-04-12
+Grand-Est;2022;winter_barley;heading;2022-05-01
+Grand-Est;2022;winter_barley;harvest;2021-07-15
+Grand-Est;2023;winter_barley;sowing;2022-10-02
+Grand-Est;2023;winter_barley;emergence;2022-10-10
+Grand-Est;2023;winter_barley;tillering;2022-11-08
+Grand-Est;2023;winter_barley;kernel;2023-03-14
+Grand-Est;2023;winter_barley;nodes_2;2023-04-06
+Grand-Est;2023;winter_barley;heading;2023-05-04
+Grand-Est;2023;winter_barley;harvest;2022-06-26
+Grand-Est;2024;winter_barley;sowing;2023-10-02
+Grand-Est;2024;winter_barley;emergence;2023-10-15
+Grand-Est;2024;winter_barley;tillering;2023-11-23
+Grand-Est;2024;winter_barley;kernel;2024-03-13
+Grand-Est;2024;winter_barley;nodes_2;2024-04-03
+Grand-Est;2024;winter_barley;heading;2024-05-04
+Grand-Est;2024;winter_barley;harvest;2023-06-25
+Grand-Est;2015;grain_maize;sowing;2015-04-12
+Grand-Est;2015;grain_maize;emergence;2015-04-25
+Grand-Est;2015;grain_maize;6_8_leaves;2015-05-21
+Grand-Est;2015;grain_maize;female_flowering;2015-07-08
+Grand-Est;2015;grain_maize;grain_moist_50;2015-08-25
+Grand-Est;2015;grain_maize;harvest;2015-10-04
+Grand-Est;2016;grain_maize;sowing;2016-04-24
+Grand-Est;2016;grain_maize;emergence;2016-05-08
+Grand-Est;2016;grain_maize;6_8_leaves;2016-06-04
+Grand-Est;2016;grain_maize;female_flowering;2016-07-21
+Grand-Est;2016;grain_maize;grain_moist_50;2016-09-10
+Grand-Est;2016;grain_maize;harvest;2016-10-11
+Grand-Est;2017;grain_maize;sowing;2017-04-06
+Grand-Est;2017;grain_maize;emergence;2017-04-25
+Grand-Est;2017;grain_maize;6_8_leaves;2017-05-24
+Grand-Est;2017;grain_maize;female_flowering;2017-07-05
+Grand-Est;2017;grain_maize;grain_moist_50;2017-08-23
+Grand-Est;2017;grain_maize;harvest;2017-10-09
+Grand-Est;2018;grain_maize;sowing;2018-04-14
+Grand-Est;2018;grain_maize;emergence;2018-04-23
+Grand-Est;2018;grain_maize;6_8_leaves;2018-05-17
+Grand-Est;2018;grain_maize;female_flowering;2018-07-01
+Grand-Est;2018;grain_maize;grain_moist_50;2018-08-14
+Grand-Est;2018;grain_maize;harvest;2018-09-17
+Grand-Est;2019;grain_maize;sowing;2019-04-17
+Grand-Est;2019;grain_maize;emergence;2019-04-30
+Grand-Est;2019;grain_maize;6_8_leaves;2019-05-30
+Grand-Est;2019;grain_maize;female_flowering;2019-07-16
+Grand-Est;2019;grain_maize;grain_moist_50;2019-09-03
+Grand-Est;2019;grain_maize;harvest;2019-10-19
+Grand-Est;2020;grain_maize;sowing;2020-04-09
+Grand-Est;2020;grain_maize;emergence;2020-04-21
+Grand-Est;2020;grain_maize;6_8_leaves;2020-05-16
+Grand-Est;2020;grain_maize;female_flowering;2020-07-08
+Grand-Est;2020;grain_maize;grain_moist_50;2020-08-19
+Grand-Est;2020;grain_maize;harvest;2020-09-29
+Grand-Est;2021;grain_maize;sowing;2021-04-18
+Grand-Est;2021;grain_maize;emergence;2021-05-07
+Grand-Est;2021;grain_maize;6_8_leaves;2021-06-07
+Grand-Est;2021;grain_maize;female_flowering;2021-07-24
+Grand-Est;2021;grain_maize;grain_moist_50;2021-09-16
+Grand-Est;2021;grain_maize;harvest;2021-10-27
+Grand-Est;2022;grain_maize;sowing;2022-04-18
+Grand-Est;2022;grain_maize;emergence;2022-04-29
+Grand-Est;2022;grain_maize;6_8_leaves;2022-05-17
+Grand-Est;2022;grain_maize;female_flowering;2022-07-04
+Grand-Est;2022;grain_maize;grain_moist_50;2022-08-13
+Grand-Est;2022;grain_maize;harvest;2022-09-21
+Grand-Est;2023;grain_maize;sowing;2023-04-23
+Grand-Est;2023;grain_maize;emergence;2023-05-03
+Grand-Est;2023;grain_maize;6_8_leaves;2023-05-29
+Grand-Est;2023;grain_maize;female_flowering;2023-07-10
+Grand-Est;2023;grain_maize;grain_moist_50;2023-09-10
+Grand-Est;2023;grain_maize;harvest;2023-10-07
+Grand-Est;2024;grain_maize;sowing;2024-04-25
+Grand-Est;2024;grain_maize;emergence;2024-05-10
+Grand-Est;2024;grain_maize;6_8_leaves;2024-05-29
+Grand-Est;2024;grain_maize;female_flowering;2024-07-18
+Grand-Est;2024;grain_maize;grain_moist_50;2024-09-06
+Grand-Est;2024;grain_maize;harvest;2024-10-23
+Hauts-de-France;2015;soft_wheat;sowing;2014-10-10
+Hauts-de-France;2015;soft_wheat;emergence;2014-10-19
+Hauts-de-France;2015;soft_wheat;tillering;2014-11-16
+Hauts-de-France;2015;soft_wheat;kernel;2015-03-28
+Hauts-de-France;2015;soft_wheat;nodes_2;2015-04-22
+Hauts-de-France;2015;soft_wheat;heading;2015-05-23
+Hauts-de-France;2015;soft_wheat;harvest;2015-07-28
+Hauts-de-France;2016;soft_wheat;sowing;2015-10-10
+Hauts-de-France;2016;soft_wheat;emergence;2015-10-21
+Hauts-de-France;2016;soft_wheat;tillering;2015-11-22
+Hauts-de-France;2016;soft_wheat;kernel;2016-03-24
+Hauts-de-France;2016;soft_wheat;nodes_2;2016-04-19
+Hauts-de-France;2016;soft_wheat;heading;2016-05-23
+Hauts-de-France;2016;soft_wheat;harvest;2015-07-28
+Hauts-de-France;2017;soft_wheat;sowing;2016-10-12
+Hauts-de-France;2017;soft_wheat;emergence;2016-10-26
+Hauts-de-France;2017;soft_wheat;tillering;2016-12-04
+Hauts-de-France;2017;soft_wheat;kernel;2017-03-27
+Hauts-de-France;2017;soft_wheat;nodes_2;2017-04-23
+Hauts-de-France;2017;soft_wheat;heading;2017-05-21
+Hauts-de-France;2017;soft_wheat;harvest;2016-08-06
+Hauts-de-France;2018;soft_wheat;sowing;2017-10-09
+Hauts-de-France;2018;soft_wheat;emergence;2017-10-19
+Hauts-de-France;2018;soft_wheat;tillering;2017-11-15
+Hauts-de-France;2018;soft_wheat;kernel;2018-04-03
+Hauts-de-France;2018;soft_wheat;nodes_2;2018-04-21
+Hauts-de-France;2018;soft_wheat;heading;2018-05-19
+Hauts-de-France;2018;soft_wheat;harvest;2017-07-15
+Hauts-de-France;2019;soft_wheat;sowing;2018-10-13
+Hauts-de-France;2019;soft_wheat;emergence;2018-10-24
+Hauts-de-France;2019;soft_wheat;tillering;2018-12-31
+Hauts-de-France;2019;soft_wheat;kernel;2019-03-21
+Hauts-de-France;2019;soft_wheat;nodes_2;2019-04-15
+Hauts-de-France;2019;soft_wheat;heading;2019-05-24
+Hauts-de-France;2019;soft_wheat;harvest;2018-07-15
+Hauts-de-France;2020;soft_wheat;sowing;2019-10-21
+Hauts-de-France;2020;soft_wheat;emergence;2019-10-30
+Hauts-de-France;2020;soft_wheat;tillering;2020-01-25
+Hauts-de-France;2020;soft_wheat;kernel;2020-03-25
+Hauts-de-France;2020;soft_wheat;nodes_2;2020-04-18
+Hauts-de-France;2020;soft_wheat;heading;2020-05-15
+Hauts-de-France;2020;soft_wheat;harvest;2019-07-21
+Hauts-de-France;2021;soft_wheat;sowing;2020-10-14
+Hauts-de-France;2021;soft_wheat;emergence;2020-10-26
+Hauts-de-France;2021;soft_wheat;tillering;2020-12-27
+Hauts-de-France;2021;soft_wheat;kernel;2021-03-29
+Hauts-de-France;2021;soft_wheat;nodes_2;2021-04-25
+Hauts-de-France;2021;soft_wheat;heading;2021-05-30
+Hauts-de-France;2021;soft_wheat;harvest;2020-07-19
+Hauts-de-France;2022;soft_wheat;sowing;2021-10-16
+Hauts-de-France;2022;soft_wheat;emergence;2021-10-28
+Hauts-de-France;2022;soft_wheat;tillering;2021-12-25
+Hauts-de-France;2022;soft_wheat;kernel;2022-03-25
+Hauts-de-France;2022;soft_wheat;nodes_2;2022-04-18
+Hauts-de-France;2022;soft_wheat;heading;2022-05-15
+Hauts-de-France;2022;soft_wheat;harvest;2022-07-13
+Hauts-de-France;2023;soft_wheat;sowing;2022-10-10
+Hauts-de-France;2023;soft_wheat;emergence;2022-10-20
+Hauts-de-France;2023;soft_wheat;tillering;2022-11-18
+Hauts-de-France;2023;soft_wheat;kernel;2023-03-19
+Hauts-de-France;2023;soft_wheat;nodes_2;2023-04-15
+Hauts-de-France;2023;soft_wheat;heading;2023-05-22
+Hauts-de-France;2023;soft_wheat;harvest;2022-07-13
+Hauts-de-France;2024;soft_wheat;sowing;2023-10-12
+Hauts-de-France;2024;soft_wheat;emergence;2023-10-24
+Hauts-de-France;2024;soft_wheat;tillering;2024-01-01
+Hauts-de-France;2024;soft_wheat;kernel;2024-03-17
+Hauts-de-France;2024;soft_wheat;nodes_2;2024-04-13
+Hauts-de-France;2024;soft_wheat;heading;2024-05-18
+Hauts-de-France;2024;soft_wheat;harvest;2023-07-17
+Hauts-de-France;2015;spring_barley;sowing;2015-03-06
+Hauts-de-France;2015;spring_barley;emergence;2015-03-21
+Hauts-de-France;2015;spring_barley;tillering;2015-04-13
+Hauts-de-France;2015;spring_barley;kernel;2015-05-03
+Hauts-de-France;2015;spring_barley;nodes_2;2015-05-12
+Hauts-de-France;2015;spring_barley;heading;2015-06-03
+Hauts-de-France;2015;spring_barley;harvest;2015-07-31
+Hauts-de-France;2016;spring_barley;sowing;2016-03-12
+Hauts-de-France;2016;spring_barley;emergence;2016-03-30
+Hauts-de-France;2016;spring_barley;tillering;2016-04-17
+Hauts-de-France;2016;spring_barley;kernel;2016-05-04
+Hauts-de-France;2016;spring_barley;nodes_2;2016-05-17
+Hauts-de-France;2016;spring_barley;heading;2016-06-06
+Hauts-de-France;2016;spring_barley;harvest;2016-08-07
+Hauts-de-France;2017;spring_barley;sowing;2017-03-12
+Hauts-de-France;2017;spring_barley;emergence;2017-03-24
+Hauts-de-France;2017;spring_barley;tillering;2017-04-07
+Hauts-de-France;2017;spring_barley;kernel;2017-04-29
+Hauts-de-France;2017;spring_barley;nodes_2;2017-05-13
+Hauts-de-France;2017;spring_barley;heading;2017-05-24
+Hauts-de-France;2017;spring_barley;harvest;2017-07-18
+Hauts-de-France;2018;spring_barley;sowing;2018-03-18
+Hauts-de-France;2018;spring_barley;emergence;2018-03-31
+Hauts-de-France;2018;spring_barley;tillering;2018-04-15
+Hauts-de-France;2018;spring_barley;kernel;2018-04-29
+Hauts-de-France;2018;spring_barley;nodes_2;2018-05-12
+Hauts-de-France;2018;spring_barley;heading;2018-05-24
+Hauts-de-France;2018;spring_barley;harvest;2018-07-19
+Hauts-de-France;2019;spring_barley;sowing;2019-02-20
+Hauts-de-France;2019;spring_barley;emergence;2019-03-10
+Hauts-de-France;2019;spring_barley;tillering;2019-04-01
+Hauts-de-France;2019;spring_barley;kernel;2019-04-21
+Hauts-de-France;2019;spring_barley;nodes_2;2019-05-06
+Hauts-de-France;2019;spring_barley;heading;2019-05-28
+Hauts-de-France;2019;spring_barley;harvest;2019-07-23
+Hauts-de-France;2020;spring_barley;sowing;2020-03-17
+Hauts-de-France;2020;spring_barley;emergence;2020-04-04
+Hauts-de-France;2020;spring_barley;tillering;2020-04-18
+Hauts-de-France;2020;spring_barley;kernel;2020-05-03
+Hauts-de-France;2020;spring_barley;nodes_2;2020-05-12
+Hauts-de-France;2020;spring_barley;heading;2020-05-27
+Hauts-de-France;2020;spring_barley;harvest;2020-07-25
+Hauts-de-France;2021;spring_barley;sowing;2021-02-25
+Hauts-de-France;2021;spring_barley;emergence;2021-03-17
+Hauts-de-France;2021;spring_barley;tillering;2021-04-12
+Hauts-de-France;2021;spring_barley;kernel;2021-04-30
+Hauts-de-France;2021;spring_barley;nodes_2;2021-05-15
+Hauts-de-France;2021;spring_barley;heading;2021-05-30
+Hauts-de-France;2021;spring_barley;harvest;2021-08-06
+Hauts-de-France;2022;spring_barley;sowing;2022-02-28
+Hauts-de-France;2022;spring_barley;emergence;2022-03-17
+Hauts-de-France;2022;spring_barley;tillering;2022-03-30
+Hauts-de-France;2022;spring_barley;kernel;2022-04-17
+Hauts-de-France;2022;spring_barley;nodes_2;2022-05-01
+Hauts-de-France;2022;spring_barley;heading;2022-05-16
+Hauts-de-France;2022;spring_barley;harvest;2022-07-16
+Hauts-de-France;2023;spring_barley;sowing;2023-02-14
+Hauts-de-France;2023;spring_barley;emergence;2023-03-10
+Hauts-de-France;2023;spring_barley;tillering;2023-04-02
+Hauts-de-France;2023;spring_barley;kernel;2023-04-24
+Hauts-de-France;2023;spring_barley;nodes_2;2023-05-09
+Hauts-de-France;2023;spring_barley;heading;2023-05-27
+Hauts-de-France;2023;spring_barley;harvest;2023-07-16
+Hauts-de-France;2024;spring_barley;sowing;2024-03-21
+Hauts-de-France;2024;spring_barley;emergence;2024-04-03
+Hauts-de-France;2024;spring_barley;tillering;2024-04-27
+Hauts-de-France;2024;spring_barley;kernel;2024-05-06
+Hauts-de-France;2024;spring_barley;nodes_2;2024-05-18
+Hauts-de-France;2024;spring_barley;heading;2024-06-03
+Hauts-de-France;2024;spring_barley;harvest;2024-07-31
+Hauts-de-France;2015;winter_barley;sowing;2014-10-01
+Hauts-de-France;2015;winter_barley;emergence;2014-10-10
+Hauts-de-France;2015;winter_barley;tillering;2014-11-02
+Hauts-de-France;2015;winter_barley;kernel;2015-03-21
+Hauts-de-France;2015;winter_barley;nodes_2;2015-04-12
+Hauts-de-France;2015;winter_barley;heading;2015-05-03
+Hauts-de-France;2015;winter_barley;harvest;2015-06-30
+Hauts-de-France;2016;winter_barley;sowing;2015-09-30
+Hauts-de-France;2016;winter_barley;emergence;2015-10-11
+Hauts-de-France;2016;winter_barley;tillering;2015-11-05
+Hauts-de-France;2016;winter_barley;kernel;2016-03-18
+Hauts-de-France;2016;winter_barley;nodes_2;2016-04-11
+Hauts-de-France;2016;winter_barley;heading;2016-05-08
+Hauts-de-France;2016;winter_barley;harvest;2015-06-30
+Hauts-de-France;2017;winter_barley;sowing;2016-10-02
+Hauts-de-France;2017;winter_barley;emergence;2016-10-18
+Hauts-de-France;2017;winter_barley;tillering;2016-11-12
+Hauts-de-France;2017;winter_barley;kernel;2017-03-23
+Hauts-de-France;2017;winter_barley;nodes_2;2017-04-06
+Hauts-de-France;2017;winter_barley;heading;2017-05-05
+Hauts-de-France;2017;winter_barley;harvest;2016-07-06
+Hauts-de-France;2018;winter_barley;sowing;2017-10-02
+Hauts-de-France;2018;winter_barley;emergence;2017-10-12
+Hauts-de-France;2018;winter_barley;tillering;2017-11-04
+Hauts-de-France;2018;winter_barley;kernel;2018-03-30
+Hauts-de-France;2018;winter_barley;nodes_2;2018-04-15
+Hauts-de-France;2018;winter_barley;heading;2018-05-05
+Hauts-de-France;2018;winter_barley;harvest;2017-06-30
+Hauts-de-France;2019;winter_barley;sowing;2018-10-07
+Hauts-de-France;2019;winter_barley;emergence;2018-10-15
+Hauts-de-France;2019;winter_barley;tillering;2018-11-29
+Hauts-de-France;2019;winter_barley;kernel;2019-03-14
+Hauts-de-France;2019;winter_barley;nodes_2;2019-04-08
+Hauts-de-France;2019;winter_barley;heading;2019-05-02
+Hauts-de-France;2019;winter_barley;harvest;2018-06-27
+Hauts-de-France;2020;winter_barley;sowing;2019-10-09
+Hauts-de-France;2020;winter_barley;emergence;2019-10-17
+Hauts-de-France;2020;winter_barley;tillering;2019-12-10
+Hauts-de-France;2020;winter_barley;kernel;2020-03-19
+Hauts-de-France;2020;winter_barley;nodes_2;2020-04-13
+Hauts-de-France;2020;winter_barley;heading;2020-04-28
+Hauts-de-France;2020;winter_barley;harvest;2019-07-03
+Hauts-de-France;2021;winter_barley;sowing;2020-10-11
+Hauts-de-France;2021;winter_barley;emergence;2020-10-21
+Hauts-de-France;2021;winter_barley;tillering;2020-11-22
+Hauts-de-France;2021;winter_barley;kernel;2021-03-22
+Hauts-de-France;2021;winter_barley;nodes_2;2021-04-16
+Hauts-de-France;2021;winter_barley;heading;2021-05-13
+Hauts-de-France;2021;winter_barley;harvest;2020-07-03
+Hauts-de-France;2022;winter_barley;sowing;2021-10-11
+Hauts-de-France;2022;winter_barley;emergence;2021-10-21
+Hauts-de-France;2022;winter_barley;tillering;2021-11-17
+Hauts-de-France;2022;winter_barley;kernel;2022-03-20
+Hauts-de-France;2022;winter_barley;nodes_2;2022-04-12
+Hauts-de-France;2022;winter_barley;heading;2022-04-29
+Hauts-de-France;2022;winter_barley;harvest;2021-07-13
+Hauts-de-France;2023;winter_barley;sowing;2022-10-05
+Hauts-de-France;2023;winter_barley;emergence;2022-10-16
+Hauts-de-France;2023;winter_barley;tillering;2022-11-08
+Hauts-de-France;2023;winter_barley;kernel;2023-03-13
+Hauts-de-France;2023;winter_barley;nodes_2;2023-04-10
+Hauts-de-France;2023;winter_barley;heading;2023-05-06
+Hauts-de-France;2023;winter_barley;harvest;2022-06-27
+Hauts-de-France;2024;winter_barley;sowing;2023-10-04
+Hauts-de-France;2024;winter_barley;emergence;2023-10-16
+Hauts-de-France;2024;winter_barley;tillering;2023-11-15
+Hauts-de-France;2024;winter_barley;kernel;2024-03-15
+Hauts-de-France;2024;winter_barley;nodes_2;2024-04-06
+Hauts-de-France;2024;winter_barley;heading;2024-04-29
+Hauts-de-France;2024;winter_barley;harvest;2023-07-01
+Ile-de-France;2015;soft_wheat;sowing;2014-10-15
+Ile-de-France;2015;soft_wheat;emergence;2014-10-21
+Ile-de-France;2015;soft_wheat;tillering;2014-11-14
+Ile-de-France;2015;soft_wheat;kernel;2015-03-16
+Ile-de-France;2015;soft_wheat;nodes_2;2015-04-15
+Ile-de-France;2015;soft_wheat;heading;2015-05-11
+Ile-de-France;2015;soft_wheat;harvest;2015-07-13
+Ile-de-France;2016;soft_wheat;sowing;2015-10-11
+Ile-de-France;2016;soft_wheat;emergence;2015-10-19
+Ile-de-France;2016;soft_wheat;tillering;2015-11-16
+Ile-de-France;2016;soft_wheat;kernel;2016-03-12
+Ile-de-France;2016;soft_wheat;nodes_2;2016-04-12
+Ile-de-France;2016;soft_wheat;heading;2016-05-16
+Ile-de-France;2016;soft_wheat;harvest;2015-07-13
+Ile-de-France;2017;soft_wheat;sowing;2016-10-13
+Ile-de-France;2017;soft_wheat;emergence;2016-10-24
+Ile-de-France;2017;soft_wheat;tillering;2017-01-01
+Ile-de-France;2017;soft_wheat;kernel;2017-03-22
+Ile-de-France;2017;soft_wheat;nodes_2;2017-04-11
+Ile-de-France;2017;soft_wheat;heading;2017-05-19
+Ile-de-France;2017;soft_wheat;harvest;2016-07-24
+Ile-de-France;2018;soft_wheat;sowing;2017-10-11
+Ile-de-France;2018;soft_wheat;emergence;2017-10-19
+Ile-de-France;2018;soft_wheat;tillering;2017-11-23
+Ile-de-France;2018;soft_wheat;kernel;2018-03-22
+Ile-de-France;2018;soft_wheat;nodes_2;2018-04-13
+Ile-de-France;2018;soft_wheat;heading;2018-05-14
+Ile-de-France;2018;soft_wheat;harvest;2017-07-10
+Ile-de-France;2019;soft_wheat;sowing;2018-10-16
+Ile-de-France;2019;soft_wheat;emergence;2018-11-06
+Ile-de-France;2019;soft_wheat;tillering;2018-12-30
+Ile-de-France;2019;soft_wheat;kernel;2019-03-20
+Ile-de-France;2019;soft_wheat;nodes_2;2019-04-14
+Ile-de-France;2019;soft_wheat;heading;2019-05-17
+Ile-de-France;2019;soft_wheat;harvest;2018-07-10
+Ile-de-France;2020;soft_wheat;sowing;2019-10-20
+Ile-de-France;2020;soft_wheat;emergence;2019-10-31
+Ile-de-France;2020;soft_wheat;tillering;2019-12-29
+Ile-de-France;2020;soft_wheat;kernel;2020-03-13
+Ile-de-France;2020;soft_wheat;nodes_2;2020-04-10
+Ile-de-France;2020;soft_wheat;heading;2020-05-03
+Ile-de-France;2020;soft_wheat;harvest;2019-07-15
+Ile-de-France;2021;soft_wheat;sowing;2020-10-12
+Ile-de-France;2021;soft_wheat;emergence;2020-10-27
+Ile-de-France;2021;soft_wheat;tillering;2020-11-23
+Ile-de-France;2021;soft_wheat;kernel;2021-03-17
+Ile-de-France;2021;soft_wheat;nodes_2;2021-04-17
+Ile-de-France;2021;soft_wheat;heading;2021-05-24
+Ile-de-France;2021;soft_wheat;harvest;2020-07-06
+Ile-de-France;2022;soft_wheat;sowing;2021-10-13
+Ile-de-France;2022;soft_wheat;emergence;2021-10-23
+Ile-de-France;2022;soft_wheat;tillering;2021-11-25
+Ile-de-France;2022;soft_wheat;kernel;2022-03-19
+Ile-de-France;2022;soft_wheat;nodes_2;2022-04-13
+Ile-de-France;2022;soft_wheat;heading;2022-05-10
+Ile-de-France;2022;soft_wheat;harvest;2021-07-23
+Ile-de-France;2023;soft_wheat;sowing;2022-10-08
+Ile-de-France;2023;soft_wheat;emergence;2022-10-18
+Ile-de-France;2023;soft_wheat;tillering;2022-11-16
+Ile-de-France;2023;soft_wheat;kernel;2023-03-15
+Ile-de-France;2023;soft_wheat;nodes_2;2023-04-05
+Ile-de-France;2023;soft_wheat;heading;2023-05-15
+Ile-de-France;2023;soft_wheat;harvest;2022-07-08
+Ile-de-France;2024;soft_wheat;sowing;2023-10-14
+Ile-de-France;2024;soft_wheat;emergence;2023-10-25
+Ile-de-France;2024;soft_wheat;tillering;2023-12-31
+Ile-de-France;2024;soft_wheat;kernel;2024-03-11
+Ile-de-France;2024;soft_wheat;nodes_2;2024-04-02
+Ile-de-France;2024;soft_wheat;heading;2024-05-12
+Ile-de-France;2024;soft_wheat;harvest;2023-07-11
+Ile-de-France;2015;spring_barley;sowing;2015-03-05
+Ile-de-France;2015;spring_barley;emergence;2015-03-22
+Ile-de-France;2015;spring_barley;tillering;2015-04-05
+Ile-de-France;2015;spring_barley;kernel;2015-04-24
+Ile-de-France;2015;spring_barley;nodes_2;2015-05-04
+Ile-de-France;2015;spring_barley;heading;2015-05-26
+Ile-de-France;2015;spring_barley;harvest;2015-07-16
+Ile-de-France;2016;spring_barley;sowing;2016-03-06
+Ile-de-France;2016;spring_barley;emergence;2016-04-03
+Ile-de-France;2016;spring_barley;tillering;2016-04-13
+Ile-de-France;2016;spring_barley;kernel;2016-05-02
+Ile-de-France;2016;spring_barley;nodes_2;2016-05-15
+Ile-de-France;2016;spring_barley;heading;2016-06-01
+Ile-de-France;2016;spring_barley;harvest;2016-07-26
+Ile-de-France;2017;spring_barley;sowing;2017-02-21
+Ile-de-France;2017;spring_barley;emergence;2017-03-12
+Ile-de-France;2017;spring_barley;tillering;2017-03-31
+Ile-de-France;2017;spring_barley;kernel;2017-04-22
+Ile-de-France;2017;spring_barley;nodes_2;2017-05-04
+Ile-de-France;2017;spring_barley;heading;2017-05-21
+Ile-de-France;2017;spring_barley;harvest;2017-07-12
+Ile-de-France;2018;spring_barley;sowing;2018-03-19
+Ile-de-France;2018;spring_barley;emergence;2018-03-30
+Ile-de-France;2018;spring_barley;tillering;2018-04-14
+Ile-de-France;2018;spring_barley;kernel;2018-04-30
+Ile-de-France;2018;spring_barley;nodes_2;2018-05-09
+Ile-de-France;2018;spring_barley;heading;2018-05-22
+Ile-de-France;2018;spring_barley;harvest;2018-07-16
+Ile-de-France;2019;spring_barley;sowing;2019-02-16
+Ile-de-France;2019;spring_barley;emergence;2019-03-06
+Ile-de-France;2019;spring_barley;tillering;2019-03-30
+Ile-de-France;2019;spring_barley;kernel;2019-04-21
+Ile-de-France;2019;spring_barley;nodes_2;2019-04-29
+Ile-de-France;2019;spring_barley;heading;2019-05-24
+Ile-de-France;2019;spring_barley;harvest;2019-07-15
+Ile-de-France;2020;spring_barley;sowing;2020-02-25
+Ile-de-France;2020;spring_barley;emergence;2020-03-10
+Ile-de-France;2020;spring_barley;tillering;2020-03-31
+Ile-de-France;2020;spring_barley;kernel;2020-04-13
+Ile-de-France;2020;spring_barley;nodes_2;2020-05-03
+Ile-de-France;2020;spring_barley;heading;2020-05-20
+Ile-de-France;2020;spring_barley;harvest;2020-07-12
+Ile-de-France;2021;spring_barley;sowing;2021-02-22
+Ile-de-France;2021;spring_barley;emergence;2021-03-13
+Ile-de-France;2021;spring_barley;tillering;2021-04-01
+Ile-de-France;2021;spring_barley;kernel;2021-04-26
+Ile-de-France;2021;spring_barley;nodes_2;2021-05-14
+Ile-de-France;2021;spring_barley;heading;2021-05-26
+Ile-de-France;2021;spring_barley;harvest;2021-07-21
+Ile-de-France;2022;spring_barley;sowing;2022-02-24
+Ile-de-France;2022;spring_barley;emergence;2022-03-14
+Ile-de-France;2022;spring_barley;tillering;2022-03-28
+Ile-de-France;2022;spring_barley;kernel;2022-04-17
+Ile-de-France;2022;spring_barley;nodes_2;2022-05-03
+Ile-de-France;2022;spring_barley;heading;2022-05-14
+Ile-de-France;2022;spring_barley;harvest;2022-07-10
+Ile-de-France;2023;spring_barley;sowing;2023-02-04
+Ile-de-France;2023;spring_barley;emergence;2023-03-03
+Ile-de-France;2023;spring_barley;tillering;2023-03-21
+Ile-de-France;2023;spring_barley;kernel;2023-04-18
+Ile-de-France;2023;spring_barley;nodes_2;2023-04-24
+Ile-de-France;2023;spring_barley;heading;2023-05-20
+Ile-de-France;2023;spring_barley;harvest;2023-07-07
+Ile-de-France;2024;spring_barley;sowing;2024-03-18
+Ile-de-France;2024;spring_barley;emergence;2024-03-30
+Ile-de-France;2024;spring_barley;tillering;2024-04-16
+Ile-de-France;2024;spring_barley;kernel;2024-05-11
+Ile-de-France;2024;spring_barley;nodes_2;2024-05-21
+Ile-de-France;2024;spring_barley;heading;2024-05-29
+Ile-de-France;2024;spring_barley;harvest;2024-07-29
+Ile-de-France;2015;winter_barley;sowing;2014-10-12
+Ile-de-France;2015;winter_barley;emergence;2014-10-16
+Ile-de-France;2015;winter_barley;tillering;2014-11-07
+Ile-de-France;2015;winter_barley;kernel;2015-03-14
+Ile-de-France;2015;winter_barley;nodes_2;2015-04-07
+Ile-de-France;2015;winter_barley;heading;2015-04-25
+Ile-de-France;2015;winter_barley;harvest;2015-06-27
+Ile-de-France;2016;winter_barley;sowing;2015-10-05
+Ile-de-France;2016;winter_barley;emergence;2015-10-15
+Ile-de-France;2016;winter_barley;tillering;2015-11-10
+Ile-de-France;2016;winter_barley;kernel;2016-03-13
+Ile-de-France;2016;winter_barley;nodes_2;2016-04-10
+Ile-de-France;2016;winter_barley;heading;2016-05-07
+Ile-de-France;2016;winter_barley;harvest;2015-06-27
+Ile-de-France;2017;winter_barley;sowing;2016-10-06
+Ile-de-France;2017;winter_barley;emergence;2016-10-18
+Ile-de-France;2017;winter_barley;tillering;2016-12-17
+Ile-de-France;2017;winter_barley;kernel;2017-03-19
+Ile-de-France;2017;winter_barley;nodes_2;2017-04-04
+Ile-de-France;2017;winter_barley;heading;2017-05-02
+Ile-de-France;2017;winter_barley;harvest;2016-07-04
+Ile-de-France;2018;winter_barley;sowing;2017-10-06
+Ile-de-France;2018;winter_barley;emergence;2017-10-15
+Ile-de-France;2018;winter_barley;tillering;2017-11-05
+Ile-de-France;2018;winter_barley;kernel;2018-03-21
+Ile-de-France;2018;winter_barley;nodes_2;2018-04-12
+Ile-de-France;2018;winter_barley;heading;2018-04-30
+Ile-de-France;2018;winter_barley;harvest;2017-06-22
+Ile-de-France;2019;winter_barley;sowing;2018-10-09
+Ile-de-France;2019;winter_barley;emergence;2018-11-02
+Ile-de-France;2019;winter_barley;tillering;2018-12-08
+Ile-de-France;2019;winter_barley;kernel;2019-03-19
+Ile-de-France;2019;winter_barley;nodes_2;2019-04-08
+Ile-de-France;2019;winter_barley;heading;2019-05-04
+Ile-de-France;2019;winter_barley;harvest;2019-06-29
+Ile-de-France;2020;winter_barley;sowing;2019-10-15
+Ile-de-France;2020;winter_barley;emergence;2019-10-23
+Ile-de-France;2020;winter_barley;tillering;2019-12-11
+Ile-de-France;2020;winter_barley;kernel;2020-03-12
+Ile-de-France;2020;winter_barley;nodes_2;2020-04-04
+Ile-de-France;2020;winter_barley;heading;2020-04-25
+Ile-de-France;2020;winter_barley;harvest;2019-06-29
+Ile-de-France;2021;winter_barley;sowing;2020-10-12
+Ile-de-France;2021;winter_barley;emergence;2020-10-22
+Ile-de-France;2021;winter_barley;tillering;2020-11-16
+Ile-de-France;2021;winter_barley;kernel;2021-03-15
+Ile-de-France;2021;winter_barley;nodes_2;2021-04-13
+Ile-de-France;2021;winter_barley;heading;2021-05-04
+Ile-de-France;2021;winter_barley;harvest;2020-06-23
+Ile-de-France;2022;winter_barley;sowing;2021-10-11
+Ile-de-France;2022;winter_barley;emergence;2021-10-20
+Ile-de-France;2022;winter_barley;tillering;2021-11-22
+Ile-de-France;2022;winter_barley;kernel;2022-03-21
+Ile-de-France;2022;winter_barley;nodes_2;2022-04-09
+Ile-de-France;2022;winter_barley;heading;2022-04-27
+Ile-de-France;2022;winter_barley;harvest;2021-07-07
+Ile-de-France;2023;winter_barley;sowing;2022-10-11
+Ile-de-France;2023;winter_barley;emergence;2022-10-18
+Ile-de-France;2023;winter_barley;tillering;2022-11-13
+Ile-de-France;2023;winter_barley;kernel;2023-03-21
+Ile-de-France;2023;winter_barley;nodes_2;2023-04-05
+Ile-de-France;2023;winter_barley;heading;2023-04-30
+Ile-de-France;2023;winter_barley;harvest;2022-06-25
+Ile-de-France;2024;winter_barley;sowing;2023-10-15
+Ile-de-France;2024;winter_barley;emergence;2023-10-19
+Ile-de-France;2024;winter_barley;tillering;2023-12-03
+Ile-de-France;2024;winter_barley;kernel;2024-03-16
+Ile-de-France;2024;winter_barley;nodes_2;2024-04-02
+Ile-de-France;2024;winter_barley;heading;2024-04-24
+Ile-de-France;2024;winter_barley;harvest;2023-06-26
+Ile-de-France;2015;grain_maize;sowing;2015-04-10
+Ile-de-France;2015;grain_maize;emergence;2015-04-21
+Ile-de-France;2015;grain_maize;6_8_leaves;2015-05-21
+Ile-de-France;2015;grain_maize;female_flowering;2015-07-11
+Ile-de-France;2015;grain_maize;grain_moist_50;2015-08-22
+Ile-de-France;2015;grain_maize;harvest;2015-10-09
+Ile-de-France;2016;grain_maize;sowing;2016-04-22
+Ile-de-France;2016;grain_maize;emergence;2016-05-05
+Ile-de-France;2016;grain_maize;6_8_leaves;2016-06-08
+Ile-de-France;2016;grain_maize;female_flowering;2016-07-23
+Ile-de-France;2016;grain_maize;grain_moist_50;2016-09-10
+Ile-de-France;2016;grain_maize;harvest;2016-10-16
+Ile-de-France;2017;grain_maize;sowing;2017-04-03
+Ile-de-France;2017;grain_maize;emergence;2017-04-24
+Ile-de-France;2017;grain_maize;6_8_leaves;2017-05-23
+Ile-de-France;2017;grain_maize;female_flowering;2017-07-06
+Ile-de-France;2017;grain_maize;grain_moist_50;2017-08-27
+Ile-de-France;2017;grain_maize;harvest;2017-10-10
+Ile-de-France;2018;grain_maize;sowing;2018-04-21
+Ile-de-France;2018;grain_maize;emergence;2018-05-01
+Ile-de-France;2018;grain_maize;6_8_leaves;2018-05-20
+Ile-de-France;2018;grain_maize;female_flowering;2018-07-02
+Ile-de-France;2018;grain_maize;grain_moist_50;2018-08-15
+Ile-de-France;2018;grain_maize;harvest;2018-09-22
+Ile-de-France;2019;grain_maize;sowing;2019-04-03
+Ile-de-France;2019;grain_maize;emergence;2019-04-22
+Ile-de-France;2019;grain_maize;6_8_leaves;2019-05-28
+Ile-de-France;2019;grain_maize;female_flowering;2019-07-09
+Ile-de-France;2019;grain_maize;grain_moist_50;2019-09-08
+Ile-de-France;2019;grain_maize;harvest;2019-10-05
+Ile-de-France;2020;grain_maize;sowing;2020-04-05
+Ile-de-France;2020;grain_maize;emergence;2020-04-23
+Ile-de-France;2020;grain_maize;6_8_leaves;2020-05-20
+Ile-de-France;2020;grain_maize;female_flowering;2020-07-03
+Ile-de-France;2020;grain_maize;grain_moist_50;2020-08-28
+Ile-de-France;2020;grain_maize;harvest;2020-09-20
+Ile-de-France;2021;grain_maize;sowing;2021-04-12
+Ile-de-France;2021;grain_maize;emergence;2021-05-03
+Ile-de-France;2021;grain_maize;6_8_leaves;2021-06-05
+Ile-de-France;2021;grain_maize;female_flowering;2021-07-25
+Ile-de-France;2021;grain_maize;grain_moist_50;2021-09-03
+Ile-de-France;2021;grain_maize;harvest;2021-10-15
+Ile-de-France;2022;grain_maize;sowing;2022-04-18
+Ile-de-France;2022;grain_maize;emergence;2022-05-02
+Ile-de-France;2022;grain_maize;6_8_leaves;2022-05-21
+Ile-de-France;2022;grain_maize;female_flowering;2022-07-05
+Ile-de-France;2022;grain_maize;grain_moist_50;2022-08-14
+Ile-de-France;2022;grain_maize;harvest;2022-09-22
+Ile-de-France;2023;grain_maize;sowing;2023-04-19
+Ile-de-France;2023;grain_maize;emergence;2023-05-10
+Ile-de-France;2023;grain_maize;6_8_leaves;2023-06-01
+Ile-de-France;2023;grain_maize;female_flowering;2023-07-16
+Ile-de-France;2023;grain_maize;grain_moist_50;2023-09-05
+Ile-de-France;2023;grain_maize;harvest;2023-10-08
+Ile-de-France;2024;grain_maize;sowing;2024-04-28
+Ile-de-France;2024;grain_maize;emergence;2024-05-13
+Ile-de-France;2024;grain_maize;6_8_leaves;2024-06-01
+Ile-de-France;2024;grain_maize;female_flowering;2024-07-21
+Ile-de-France;2024;grain_maize;grain_moist_50;2024-09-04
+Ile-de-France;2024;grain_maize;harvest;2024-10-21
+Normandie;2015;soft_wheat;sowing;2014-10-13
+Normandie;2015;soft_wheat;emergence;2014-10-22
+Normandie;2015;soft_wheat;tillering;2014-11-19
+Normandie;2015;soft_wheat;kernel;2015-03-22
+Normandie;2015;soft_wheat;nodes_2;2015-04-15
+Normandie;2015;soft_wheat;heading;2015-05-21
+Normandie;2015;soft_wheat;harvest;2015-07-27
+Normandie;2016;soft_wheat;sowing;2015-10-06
+Normandie;2016;soft_wheat;emergence;2015-10-20
+Normandie;2016;soft_wheat;tillering;2015-11-14
+Normandie;2016;soft_wheat;kernel;2016-03-13
+Normandie;2016;soft_wheat;nodes_2;2016-04-16
+Normandie;2016;soft_wheat;heading;2016-05-25
+Normandie;2016;soft_wheat;harvest;2015-07-27
+Normandie;2017;soft_wheat;sowing;2016-10-12
+Normandie;2017;soft_wheat;emergence;2016-10-26
+Normandie;2017;soft_wheat;tillering;2016-12-29
+Normandie;2017;soft_wheat;kernel;2017-03-21
+Normandie;2017;soft_wheat;nodes_2;2017-04-13
+Normandie;2017;soft_wheat;heading;2017-05-19
+Normandie;2017;soft_wheat;harvest;2016-08-04
+Normandie;2018;soft_wheat;sowing;2017-10-10
+Normandie;2018;soft_wheat;emergence;2017-10-18
+Normandie;2018;soft_wheat;tillering;2017-11-28
+Normandie;2018;soft_wheat;kernel;2018-03-29
+Normandie;2018;soft_wheat;nodes_2;2018-04-18
+Normandie;2018;soft_wheat;heading;2018-05-20
+Normandie;2018;soft_wheat;harvest;2017-07-19
+Normandie;2019;soft_wheat;sowing;2018-10-13
+Normandie;2019;soft_wheat;emergence;2018-10-22
+Normandie;2019;soft_wheat;tillering;2018-11-19
+Normandie;2019;soft_wheat;kernel;2019-03-15
+Normandie;2019;soft_wheat;nodes_2;2019-04-13
+Normandie;2019;soft_wheat;heading;2019-05-18
+Normandie;2019;soft_wheat;harvest;2018-07-16
+Normandie;2020;soft_wheat;sowing;2019-10-21
+Normandie;2020;soft_wheat;emergence;2019-11-21
+Normandie;2020;soft_wheat;tillering;2020-01-29
+Normandie;2020;soft_wheat;kernel;2020-03-14
+Normandie;2020;soft_wheat;nodes_2;2020-04-14
+Normandie;2020;soft_wheat;heading;2020-05-11
+Normandie;2020;soft_wheat;harvest;2019-07-23
+Normandie;2021;soft_wheat;sowing;2020-10-13
+Normandie;2021;soft_wheat;emergence;2020-10-26
+Normandie;2021;soft_wheat;tillering;2020-12-05
+Normandie;2021;soft_wheat;kernel;2021-03-15
+Normandie;2021;soft_wheat;nodes_2;2021-04-18
+Normandie;2021;soft_wheat;heading;2021-05-25
+Normandie;2021;soft_wheat;harvest;2020-07-18
+Normandie;2022;soft_wheat;sowing;2021-10-14
+Normandie;2022;soft_wheat;emergence;2021-10-28
+Normandie;2022;soft_wheat;tillering;2021-12-30
+Normandie;2022;soft_wheat;kernel;2022-03-13
+Normandie;2022;soft_wheat;nodes_2;2022-04-12
+Normandie;2022;soft_wheat;heading;2022-05-12
+Normandie;2022;soft_wheat;harvest;2021-08-09
+Normandie;2023;soft_wheat;sowing;2022-10-12
+Normandie;2023;soft_wheat;emergence;2022-10-20
+Normandie;2023;soft_wheat;tillering;2022-11-15
+Normandie;2023;soft_wheat;kernel;2023-03-16
+Normandie;2023;soft_wheat;nodes_2;2023-04-10
+Normandie;2023;soft_wheat;heading;2023-05-17
+Normandie;2023;soft_wheat;harvest;2022-07-12
+Normandie;2024;soft_wheat;sowing;2023-10-14
+Normandie;2024;soft_wheat;emergence;2023-10-27
+Normandie;2024;soft_wheat;tillering;2024-01-08
+Normandie;2024;soft_wheat;kernel;2024-03-12
+Normandie;2024;soft_wheat;nodes_2;2024-04-07
+Normandie;2024;soft_wheat;heading;2024-05-15
+Normandie;2024;soft_wheat;harvest;2023-07-20
+Normandie;2015;winter_barley;sowing;2014-10-09
+Normandie;2015;winter_barley;emergence;2014-10-19
+Normandie;2015;winter_barley;tillering;2014-11-13
+Normandie;2015;winter_barley;kernel;2015-03-21
+Normandie;2015;winter_barley;nodes_2;2015-04-10
+Normandie;2015;winter_barley;heading;2015-04-26
+Normandie;2015;winter_barley;harvest;2015-07-01
+Normandie;2016;winter_barley;sowing;2015-10-04
+Normandie;2016;winter_barley;emergence;2015-10-18
+Normandie;2016;winter_barley;tillering;2015-11-09
+Normandie;2016;winter_barley;kernel;2016-03-08
+Normandie;2016;winter_barley;nodes_2;2016-04-11
+Normandie;2016;winter_barley;heading;2016-05-07
+Normandie;2016;winter_barley;harvest;2015-07-01
+Normandie;2017;winter_barley;sowing;2016-10-12
+Normandie;2017;winter_barley;emergence;2016-10-24
+Normandie;2017;winter_barley;tillering;2016-12-18
+Normandie;2017;winter_barley;kernel;2017-03-20
+Normandie;2017;winter_barley;nodes_2;2017-04-08
+Normandie;2017;winter_barley;heading;2017-05-03
+Normandie;2017;winter_barley;harvest;2016-07-07
+Normandie;2018;winter_barley;sowing;2017-10-09
+Normandie;2018;winter_barley;emergence;2017-10-14
+Normandie;2018;winter_barley;tillering;2017-11-14
+Normandie;2018;winter_barley;kernel;2018-03-28
+Normandie;2018;winter_barley;nodes_2;2018-04-14
+Normandie;2018;winter_barley;heading;2018-05-04
+Normandie;2018;winter_barley;harvest;2017-07-02
+Normandie;2019;winter_barley;sowing;2018-10-11
+Normandie;2019;winter_barley;emergence;2018-10-18
+Normandie;2019;winter_barley;tillering;2018-11-13
+Normandie;2019;winter_barley;kernel;2019-03-17
+Normandie;2019;winter_barley;nodes_2;2019-04-08
+Normandie;2019;winter_barley;heading;2019-04-29
+Normandie;2019;winter_barley;harvest;2018-06-27
+Normandie;2020;winter_barley;sowing;2019-10-20
+Normandie;2020;winter_barley;emergence;2019-11-14
+Normandie;2020;winter_barley;tillering;2020-01-13
+Normandie;2020;winter_barley;kernel;2020-03-16
+Normandie;2020;winter_barley;nodes_2;2020-04-10
+Normandie;2020;winter_barley;heading;2020-04-24
+Normandie;2020;winter_barley;harvest;2019-07-04
+Normandie;2021;winter_barley;sowing;2020-10-12
+Normandie;2021;winter_barley;emergence;2020-10-25
+Normandie;2021;winter_barley;tillering;2020-11-23
+Normandie;2021;winter_barley;kernel;2021-03-16
+Normandie;2021;winter_barley;nodes_2;2021-04-10
+Normandie;2021;winter_barley;heading;2021-05-05
+Normandie;2021;winter_barley;harvest;2020-07-04
+Normandie;2022;winter_barley;sowing;2021-10-14
+Normandie;2022;winter_barley;emergence;2021-10-27
+Normandie;2022;winter_barley;tillering;2021-12-25
+Normandie;2022;winter_barley;kernel;2022-03-13
+Normandie;2022;winter_barley;nodes_2;2022-04-06
+Normandie;2022;winter_barley;heading;2022-04-28
+Normandie;2022;winter_barley;harvest;2021-07-13
+Normandie;2023;winter_barley;sowing;2022-10-10
+Normandie;2023;winter_barley;emergence;2022-10-19
+Normandie;2023;winter_barley;tillering;2022-11-11
+Normandie;2023;winter_barley;kernel;2023-03-15
+Normandie;2023;winter_barley;nodes_2;2023-04-05
+Normandie;2023;winter_barley;heading;2023-04-30
+Normandie;2023;winter_barley;harvest;2022-06-30
+Normandie;2024;winter_barley;sowing;2023-10-11
+Normandie;2024;winter_barley;emergence;2023-10-22
+Normandie;2024;winter_barley;tillering;2023-12-28
+Normandie;2024;winter_barley;kernel;2024-03-09
+Normandie;2024;winter_barley;nodes_2;2024-03-31
+Normandie;2024;winter_barley;heading;2024-04-28
+Normandie;2024;winter_barley;harvest;2023-06-27
