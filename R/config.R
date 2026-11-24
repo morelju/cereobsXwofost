@@ -47,7 +47,7 @@ stages <- tibble::tribble(
   "grain_maize",  "emergence",        2L, "Emergence",           "09",   "DVS = 0 (TSUMEM)",
   "grain_maize",  "6_8_leaves",       3L, "6-8 visible leaves",  "16-18", NA,
   "grain_maize",  "female_flowering", 4L, "Female flowering",    "65",   "DVS = 1 (TSUM1)",
-  "grain_maize",  "grain_moist_50",   5L, "Grain moisture 50%",  "~85",  "to discuss (DVS between 1 and 2, TSUM2)",
+  "grain_maize",  "grain_moist_50",   5L, "Grain moisture 50%",  "~85",  NA_character_,
   "grain_maize",  "harvest",          6L, "Harvest",             "99",   "upper bound for maturity (DVS = 2)"
 )
 

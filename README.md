@@ -43,8 +43,9 @@ in `outputs/` is edited by hand.
 - **Link to WOFOST** (`stages` in `R/config.R`). Maize: emergence -> DVS 0, female
   flowering -> DVS 1 (anthesis). Wheat: flowering is not observed, so, following the
   AgMIP calibration (A. de Wit), ear at 1 cm (BBCH 30) and heading (BBCH 55) are linked
-  to calibrated DVS values (`DVS_BBCH30`, `DVS_BBCH55`) that constrain TSUM1. Harvest
-  is only an upper bound for maturity.
+  to calibrated DVS values (`DVS_BBCH30`, `DVS_BBCH55`) that constrain TSUM1. Maturity
+  (DVS 2) is not observed for either crop: harvest is only an upper bound, and maize
+  grain moisture 50 % (dough stage) is not used, so maize TSUM2 is not calibrated.
 
 - **Campaign** = harvest year. For winter crops, records from 1 September of y-1 belong to campaign y.
 - **Curve** = weekly % of fields at a stage, for one crop x region x campaign.
